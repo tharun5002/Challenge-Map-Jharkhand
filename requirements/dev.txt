@@ -1,0 +1,5 @@
+# Development and CI: the API plus the HTTP client the tests use through
+# fastapi.testclient.TestClient. CI runs 3.12; local development used 3.13.
+-r api.txt
+
+httpx>=0.28,<1.0

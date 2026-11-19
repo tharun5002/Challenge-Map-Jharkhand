@@ -1,0 +1,1 @@
+"""ChallengeMap application source package."""

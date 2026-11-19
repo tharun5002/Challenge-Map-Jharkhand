@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+.pytest_cache/
+frontend/node_modules/
+frontend/.next/
+
+# Local secrets and generated backups are never committed.
+.env
+.env.*
+!.env.example
+backups/
+*.db
+*.db-shm
+*.db-wal
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/.gitkeep
+models/saved/*
+!models/saved/.gitkeep
+frontend/next-env.d.ts

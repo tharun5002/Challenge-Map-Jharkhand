@@ -1,0 +1,7 @@
+# Core data/ML dependencies shared by the library, the API and the evaluation scripts.
+# Everything that imports `src.nlp.*` or `src.data.*` needs this file and nothing more.
+
+pandas>=2.2,<4.0
+numpy>=2.0,<3.0
+scipy>=1.14,<2.0
+scikit-learn>=1.5,<2.0

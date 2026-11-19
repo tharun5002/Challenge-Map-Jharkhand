@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "seed": 42,
+  "description": "HDBSCAN settings used by the clustering comparison. The input is the SVD-reduced, L2-normalised TF-IDF matrix, so Euclidean distance is used.",
+  "params": {
+    "min_cluster_size": 15,
+    "min_samples": 5,
+    "metric": "euclidean"
+  },
+  "measured_on": "data/synthetic/complaints_15k.csv (3,000-row stratified sample, seed 42)",
+  "metrics_location": "models/eval_metrics.json",
+  "note": "HDBSCAN chooses its own cluster count; on this corpus it under- or over-segments depending on the encoder, which is why the count is reported per run rather than fixed."
+}

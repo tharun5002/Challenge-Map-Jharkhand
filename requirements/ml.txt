@@ -1,0 +1,8 @@
+# Sentence-BERT path (plan section 6.1, stage 2).
+# Optional: install only where a PyTorch wheel exists for your interpreter. The
+# measured results in docs/RESULTS.md come from the TF-IDF baselines because
+# sentence-transformers was not installed in the working Python 3.13 environment.
+-r base.txt
+
+torch>=2.6,<3.0
+sentence-transformers>=6.2,<7.0

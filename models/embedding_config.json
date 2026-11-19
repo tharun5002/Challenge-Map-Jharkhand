@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "default_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "alternate_model": "intfloat/multilingual-e5-small",
+  "dimensions": 384,
+  "status": "not_measured",
+  "reason": "No PyTorch wheel for the active CPython 3.14 interpreter on this machine, so sentence-transformers cannot be installed. The SBERT row stays out of docs/RESULTS.md rather than being estimated.",
+  "measured_encoders": {
+    "tfidf-word": 128,
+    "tfidf-char": 160
+  },
+  "seed": 42,
+  "trained_on": "data/synthetic/complaints_15k.csv"
+}

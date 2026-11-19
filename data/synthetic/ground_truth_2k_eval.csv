@@ -1,0 +1,2001 @@
+complaint_id,domain,sub_issue,true_severity,duplicate_group_id,is_duplicate,duplicate_kind,duplicate_of,language,district
+EVAL-000778,Agriculture & Irrigation,mandi_procurement,medium,EVAL-000778,0,,,hinglish,Garhwa
+EVAL-001160,Electricity,bill_error,low,EVAL-001160,0,,,hi,East Singhbhum
+EVAL-001031,Agriculture & Irrigation,borewell_irrigation,low,EVAL-001031,0,,,hi,Deoghar
+EVAL-001549,Food & PDS,new_ration_card,high,EVAL-001549,0,,,hi,Deoghar
+EVAL-001831,Sanitation & Waste,public_toilet_water,high,EVAL-001502,1,exact,EVAL-001502,en,Ranchi
+EVAL-001178,Agriculture & Irrigation,borewell_irrigation,high,EVAL-001178,0,,,hi,Seraikela-Kharsawan
+EVAL-000727,Sanitation & Waste,open_drain,medium,EVAL-000727,0,,,en,Bokaro
+EVAL-000360,Welfare & Pensions,disability_certificate,high,EVAL-000360,0,,,en,Ranchi
+EVAL-000042,Education,boundary_wall,medium,EVAL-000042,0,,,hinglish,Garhwa
+EVAL-000289,Sanitation & Waste,drain_overflow,high,EVAL-000289,0,,,en,Garhwa
+EVAL-001074,Education,school_toilet,high,EVAL-001074,0,,,hi,Ranchi
+EVAL-000054,Sanitation & Waste,public_toilet_water,high,EVAL-000054,0,,,en,East Singhbhum
+EVAL-001457,Welfare & Pensions,mgnrega_wages,medium,EVAL-001457,0,,,hi,Latehar
+EVAL-001612,Roads & Connectivity,roadside_drain,high,EVAL-001612,0,,,en,Lohardaga
+EVAL-001832,Roads & Connectivity,road_potholes,critical,EVAL-001061,1,exact,EVAL-001061,hi,Dhanbad
+EVAL-000786,Welfare & Pensions,widow_pension,high,EVAL-000786,0,,,hi,Simdega
+EVAL-001118,Electricity,feeder_outage,high,EVAL-001118,0,,,hinglish,Giridih
+EVAL-000241,Agriculture & Irrigation,crop_insurance,high,EVAL-000241,0,,,en,Dumka
+EVAL-001092,Sanitation & Waste,toilet_blocked,medium,EVAL-001092,0,,,en,Ranchi
+EVAL-001185,Electricity,meter_pending,medium,EVAL-001185,0,,,en,East Singhbhum
+EVAL-001519,Education,boundary_wall,medium,EVAL-001519,0,,,hinglish,Gumla
+EVAL-000848,Land & Revenue,boundary_demarcation,medium,EVAL-000848,0,,,hi,Ramgarh
+EVAL-000484,Education,teacher_vacancy,high,EVAL-000484,0,,,en,Pakur
+EVAL-000304,Food & PDS,ration_shortweight,critical,EVAL-000304,0,,,hi,Koderma
+EVAL-001867,Sanitation & Waste,open_drain,high,EVAL-000283,1,near,EVAL-000283,hi,Palamu
+EVAL-000684,Land & Revenue,mutation_delay,critical,EVAL-000684,0,,,hinglish,West Singhbhum
+EVAL-000927,Electricity,transformer_burnt,medium,EVAL-000927,0,,,hinglish,Giridih
+EVAL-001161,Electricity,solar_streetlight,high,EVAL-001161,0,,,hi,Deoghar
+EVAL-001924,Education,boundary_wall,high,EVAL-001472,1,near,EVAL-001472,en,West Singhbhum
+EVAL-001967,Sanitation & Waste,drain_overflow,medium,EVAL-001104,1,near,EVAL-001104,hi,Koderma
+EVAL-000127,Employment & Livelihoods,wage_delay_contract,critical,EVAL-000127,0,,,hi,Ramgarh
+EVAL-001946,Sanitation & Waste,public_toilet_water,high,EVAL-000374,1,near,EVAL-000374,en,Seraikela-Kharsawan
+EVAL-001165,Land & Revenue,mutation_delay,high,EVAL-001165,0,,,hinglish,Ranchi
+EVAL-001586,Education,boundary_wall,high,EVAL-001586,0,,,en,Deoghar
+EVAL-000970,Education,boundary_wall,low,EVAL-000970,0,,,hi,Godda
+EVAL-000994,Roads & Connectivity,bus_service,low,EVAL-000994,0,,,hi,Bokaro
+EVAL-000053,Land & Revenue,parcha_copy,high,EVAL-000053,0,,,en,Palamu
+EVAL-001907,Safety & Environment,police_response,critical,EVAL-000382,1,near,EVAL-000382,hinglish,Dhanbad
+EVAL-000853,Safety & Environment,industrial_dust,low,EVAL-000853,0,,,hi,Hazaribagh
+EVAL-000066,Education,midday_meal,high,EVAL-000066,0,,,hi,Ranchi
+EVAL-000942,Employment & Livelihoods,job_card,high,EVAL-000942,0,,,en,Dumka
+EVAL-001053,Healthcare,health_camp,high,EVAL-001053,0,,,hi,Ranchi
+EVAL-000007,Healthcare,ambulance_delay,critical,EVAL-000007,0,,,hinglish,Chatra
+EVAL-000973,Healthcare,anganwadi_supply,high,EVAL-000973,0,,,hi,Hazaribagh
+EVAL-000889,Roads & Connectivity,road_potholes,low,EVAL-000889,0,,,hi,Dhanbad
+EVAL-001328,Land & Revenue,mutation_delay,high,EVAL-001328,0,,,hinglish,Hazaribagh
+EVAL-000928,Roads & Connectivity,bridge_damage,critical,EVAL-000928,0,,,en,Ranchi
+EVAL-000217,Water Supply,public_well,medium,EVAL-000217,0,,,en,Sahibganj
+EVAL-001162,Employment & Livelihoods,wage_delay_contract,high,EVAL-001162,0,,,hinglish,Ranchi
+EVAL-001411,Welfare & Pensions,mgnrega_wages,high,EVAL-001411,0,,,hi,Hazaribagh
+EVAL-001244,Welfare & Pensions,ration_card_cancel,critical,EVAL-001244,0,,,hi,Giridih
+EVAL-000548,Electricity,low_voltage,medium,EVAL-000548,0,,,hinglish,Khunti
+EVAL-001258,Agriculture & Irrigation,canal_irrigation,low,EVAL-001258,0,,,hi,Palamu
+EVAL-001993,Land & Revenue,boundary_demarcation,medium,EVAL-000040,1,near,EVAL-000040,hi,Hazaribagh
+EVAL-001241,Welfare & Pensions,widow_pension,medium,EVAL-001241,0,,,en,Pakur
+EVAL-000934,Education,boundary_wall,high,EVAL-000934,0,,,hinglish,Giridih
+EVAL-000748,Welfare & Pensions,pension_delay,high,EVAL-000748,0,,,hi,Gumla
+EVAL-000137,Electricity,solar_streetlight,high,EVAL-000137,0,,,hinglish,Deoghar
+EVAL-000018,Employment & Livelihoods,wage_delay_contract,high,EVAL-000018,0,,,en,Bokaro
+EVAL-000938,Welfare & Pensions,scholarship_delay,high,EVAL-000938,0,,,hi,Bokaro
+EVAL-000616,Food & PDS,new_ration_card,medium,EVAL-000616,0,,,hinglish,East Singhbhum
+EVAL-001453,Healthcare,cold_chain,critical,EVAL-001453,0,,,en,Giridih
+EVAL-001573,Food & PDS,aadhaar_seeding,medium,EVAL-001573,0,,,en,Bokaro
+EVAL-001224,Electricity,low_voltage,high,EVAL-001224,0,,,en,Simdega
+EVAL-000306,Roads & Connectivity,bridge_damage,critical,EVAL-000306,0,,,hinglish,Gumla
+EVAL-001334,Agriculture & Irrigation,canal_irrigation,high,EVAL-001334,0,,,hinglish,Dumka
+EVAL-000010,Roads & Connectivity,bridge_damage,medium,EVAL-000010,0,,,en,Dumka
+EVAL-001035,Land & Revenue,parcha_copy,low,EVAL-001035,0,,,hi,Hazaribagh
+EVAL-001773,Education,textbooks_delay,low,EVAL-001773,0,,,hi,Ranchi
+EVAL-000808,Agriculture & Irrigation,canal_irrigation,high,EVAL-000808,0,,,hi,Deoghar
+EVAL-001956,Education,midday_meal,critical,EVAL-000717,1,near,EVAL-000717,hi,Giridih
+EVAL-001370,Sanitation & Waste,public_toilet_water,medium,EVAL-001370,0,,,en,Hazaribagh
+EVAL-000986,Employment & Livelihoods,job_card,low,EVAL-000986,0,,,en,Bokaro
+EVAL-000845,Sanitation & Waste,toilet_blocked,high,EVAL-000845,0,,,hinglish,East Singhbhum
+EVAL-000428,Welfare & Pensions,scholarship_delay,high,EVAL-000428,0,,,en,Gumla
+EVAL-001976,Land & Revenue,mutation_delay,critical,EVAL-000559,1,near,EVAL-000559,en,Deoghar
+EVAL-000029,Water Supply,public_well,high,EVAL-000029,0,,,hi,Giridih
+EVAL-001216,Roads & Connectivity,road_potholes,high,EVAL-001216,0,,,hi,Ranchi
+EVAL-001088,Land & Revenue,parcha_copy,medium,EVAL-001088,0,,,hinglish,Ranchi
+EVAL-001642,Healthcare,anm_vacancy,high,EVAL-001642,0,,,en,Sahibganj
+EVAL-001364,Healthcare,ambulance_delay,critical,EVAL-001364,0,,,hi,Lohardaga
+EVAL-001357,Welfare & Pensions,pension_delay,medium,EVAL-001357,0,,,en,Deoghar
+EVAL-000665,Agriculture & Irrigation,mandi_procurement,high,EVAL-000665,0,,,hi,Lohardaga
+EVAL-000588,Agriculture & Irrigation,crop_insurance,high,EVAL-000588,0,,,hi,West Singhbhum
+EVAL-000551,Land & Revenue,public_land_encroachment,high,EVAL-000551,0,,,hi,Deoghar
+EVAL-001060,Electricity,bill_error,medium,EVAL-001060,0,,,en,Simdega
+EVAL-000467,Roads & Connectivity,streetlight_road,high,EVAL-000467,0,,,hinglish,Deoghar
+EVAL-000088,Agriculture & Irrigation,seed_supply,high,EVAL-000088,0,,,en,Giridih
+EVAL-001858,Sanitation & Waste,garbage_collection,medium,EVAL-000210,1,near,EVAL-000210,hi,Palamu
+EVAL-000340,Land & Revenue,parcha_copy,high,EVAL-000340,0,,,hi,Ranchi
+EVAL-000969,Healthcare,phc_no_doctor,critical,EVAL-000969,0,,,hinglish,Giridih
+EVAL-000475,Sanitation & Waste,garbage_collection,critical,EVAL-000475,0,,,en,Pakur
+EVAL-000540,Safety & Environment,cyber_fraud,medium,EVAL-000540,0,,,hinglish,Godda
+EVAL-001640,Sanitation & Waste,open_drain,high,EVAL-001640,0,,,hi,Jamtara
+EVAL-000705,Water Supply,water_testing,low,EVAL-000705,0,,,hi,Sahibganj
+EVAL-000680,Land & Revenue,mutation_delay,medium,EVAL-000680,0,,,hi,Gumla
+EVAL-001775,Education,teacher_vacancy,high,EVAL-001775,0,,,hi,Dhanbad
+EVAL-000648,Electricity,feeder_outage,critical,EVAL-000648,0,,,hi,Bokaro
+EVAL-001081,Agriculture & Irrigation,mandi_procurement,critical,EVAL-001081,0,,,en,Giridih
+EVAL-001772,Healthcare,anm_vacancy,high,EVAL-001772,0,,,hinglish,Ranchi
+EVAL-000799,Employment & Livelihoods,job_card,high,EVAL-000799,0,,,hi,Ranchi
+EVAL-000419,Water Supply,tanker_delay,high,EVAL-000419,0,,,hi,Gumla
+EVAL-000109,Healthcare,ambulance_delay,critical,EVAL-000109,0,,,hinglish,Giridih
+EVAL-000383,Water Supply,tap_no_supply,medium,EVAL-000383,0,,,en,Bokaro
+EVAL-000263,Welfare & Pensions,disability_certificate,low,EVAL-000263,0,,,en,Giridih
+EVAL-000468,Food & PDS,ration_shortweight,critical,EVAL-000468,0,,,hinglish,Palamu
+EVAL-000635,Electricity,meter_pending,low,EVAL-000635,0,,,hi,Bokaro
+EVAL-000566,Healthcare,anm_vacancy,high,EVAL-000566,0,,,hi,Giridih
+EVAL-001827,Land & Revenue,mutation_delay,low,EVAL-001731,1,exact,EVAL-001731,hi,Seraikela-Kharsawan
+EVAL-001582,Electricity,low_voltage,medium,EVAL-001582,0,,,hinglish,Ranchi
+EVAL-000051,Sanitation & Waste,drain_overflow,medium,EVAL-000051,0,,,hinglish,East Singhbhum
+EVAL-001979,Agriculture & Irrigation,seed_supply,high,EVAL-001321,1,near,EVAL-001321,hi,Koderma
+EVAL-000004,Electricity,bill_error,low,EVAL-000004,0,,,hi,Palamu
+EVAL-001293,Healthcare,health_camp,low,EVAL-001293,0,,,en,Dumka
+EVAL-000281,Land & Revenue,land_record_error,high,EVAL-000281,0,,,hi,Ramgarh
+EVAL-000541,Employment & Livelihoods,job_card,medium,EVAL-000541,0,,,hi,West Singhbhum
+EVAL-000439,Healthcare,phc_no_doctor,critical,EVAL-000439,0,,,hi,Ranchi
+EVAL-001751,Sanitation & Waste,open_drain,critical,EVAL-001751,0,,,hi,Dhanbad
+EVAL-000948,Land & Revenue,boundary_demarcation,medium,EVAL-000948,0,,,en,Seraikela-Kharsawan
+EVAL-001222,Water Supply,tanker_delay,critical,EVAL-001222,0,,,en,Palamu
+EVAL-000537,Healthcare,anm_vacancy,medium,EVAL-000537,0,,,en,Ranchi
+EVAL-000769,Land & Revenue,registry_appointment,low,EVAL-000769,0,,,hinglish,Bokaro
+EVAL-001936,Agriculture & Irrigation,seed_supply,medium,EVAL-000956,1,near,EVAL-000956,hi,Godda
+EVAL-000351,Water Supply,tanker_delay,high,EVAL-000351,0,,,en,Dhanbad
+EVAL-000877,Agriculture & Irrigation,seed_supply,low,EVAL-000877,0,,,en,Giridih
+EVAL-001769,Healthcare,ambulance_delay,high,EVAL-001769,0,,,hi,Ranchi
+EVAL-000300,Safety & Environment,illegal_liquor,medium,EVAL-000300,0,,,hinglish,Seraikela-Kharsawan
+EVAL-001251,Employment & Livelihoods,migration_support,medium,EVAL-001251,0,,,hi,Bokaro
+EVAL-001325,Water Supply,water_quality,medium,EVAL-001325,0,,,hi,West Singhbhum
+EVAL-001132,Welfare & Pensions,disability_certificate,critical,EVAL-001132,0,,,hinglish,Ramgarh
+EVAL-001186,Safety & Environment,police_response,high,EVAL-001186,0,,,en,Garhwa
+EVAL-000435,Roads & Connectivity,culvert_damage,high,EVAL-000435,0,,,hinglish,Pakur
+EVAL-000742,Welfare & Pensions,widow_pension,high,EVAL-000742,0,,,en,Deoghar
+EVAL-000826,Welfare & Pensions,pension_delay,critical,EVAL-000826,0,,,hi,Dhanbad
+EVAL-000954,Water Supply,tap_no_supply,critical,EVAL-000954,0,,,en,Garhwa
+EVAL-000259,Electricity,feeder_outage,medium,EVAL-000259,0,,,hi,Godda
+EVAL-001761,Healthcare,cold_chain,high,EVAL-001761,0,,,hi,Garhwa
+EVAL-000310,Land & Revenue,boundary_demarcation,medium,EVAL-000310,0,,,en,Garhwa
+EVAL-000342,Education,midday_meal,high,EVAL-000342,0,,,hi,Giridih
+EVAL-000169,Land & Revenue,land_record_error,medium,EVAL-000169,0,,,hi,Giridih
+EVAL-001540,Roads & Connectivity,roadside_drain,critical,EVAL-001540,0,,,en,Godda
+EVAL-000132,Land & Revenue,registry_appointment,high,EVAL-000132,0,,,en,Giridih
+EVAL-001768,Sanitation & Waste,drain_overflow,medium,EVAL-001768,0,,,en,Deoghar
+EVAL-001105,Healthcare,ambulance_delay,critical,EVAL-001105,0,,,en,Godda
+EVAL-001807,Welfare & Pensions,widow_pension,high,EVAL-000326,1,exact,EVAL-000326,hinglish,Palamu
+EVAL-001866,Employment & Livelihoods,job_card,medium,EVAL-001445,1,near,EVAL-001445,en,Seraikela-Kharsawan
+EVAL-000596,Agriculture & Irrigation,crop_insurance,low,EVAL-000596,0,,,hi,West Singhbhum
+EVAL-001372,Land & Revenue,boundary_demarcation,medium,EVAL-001372,0,,,en,Sahibganj
+EVAL-000031,Healthcare,health_camp,high,EVAL-000031,0,,,hi,Dumka
+EVAL-000456,Education,boundary_wall,medium,EVAL-000456,0,,,hi,Giridih
+EVAL-001485,Sanitation & Waste,open_drain,medium,EVAL-001485,0,,,hi,Bokaro
+EVAL-001497,Land & Revenue,mutation_delay,critical,EVAL-001497,0,,,hinglish,Ramgarh
+EVAL-000122,Education,school_roof,high,EVAL-000122,0,,,hinglish,Ranchi
+EVAL-000913,Food & PDS,aadhaar_seeding,medium,EVAL-000913,0,,,en,Seraikela-Kharsawan
+EVAL-001424,Electricity,bill_error,medium,EVAL-001424,0,,,en,Palamu
+EVAL-001446,Education,school_roof,low,EVAL-001446,0,,,hi,East Singhbhum
+EVAL-001484,Electricity,low_voltage,low,EVAL-001484,0,,,en,Ranchi
+EVAL-001868,Education,school_electricity,medium,EVAL-001141,1,near,EVAL-001141,hinglish,Sahibganj
+EVAL-000989,Roads & Connectivity,streetlight_road,medium,EVAL-000989,0,,,hi,Seraikela-Kharsawan
+EVAL-000267,Land & Revenue,parcha_copy,low,EVAL-000267,0,,,en,Giridih
+EVAL-000534,Education,school_roof,medium,EVAL-000534,0,,,en,Ranchi
+EVAL-001527,Electricity,meter_pending,low,EVAL-001527,0,,,en,Dhanbad
+EVAL-001877,Land & Revenue,mutation_delay,high,EVAL-001165,1,near,EVAL-001165,hinglish,Ranchi
+EVAL-001641,Roads & Connectivity,streetlight_road,high,EVAL-001641,0,,,en,Dumka
+EVAL-001235,Sanitation & Waste,toilet_blocked,critical,EVAL-001235,0,,,hinglish,Dhanbad
+EVAL-001747,Roads & Connectivity,culvert_damage,critical,EVAL-001747,0,,,en,Latehar
+EVAL-001287,Roads & Connectivity,bridge_damage,critical,EVAL-001287,0,,,en,Jamtara
+EVAL-000795,Electricity,bill_error,medium,EVAL-000795,0,,,hinglish,East Singhbhum
+EVAL-000426,Education,teacher_vacancy,high,EVAL-000426,0,,,en,Dhanbad
+EVAL-001905,Safety & Environment,illegal_liquor,medium,EVAL-000179,1,near,EVAL-000179,en,Godda
+EVAL-001463,Food & PDS,new_ration_card,low,EVAL-001463,0,,,hi,Palamu
+EVAL-000373,Healthcare,medicine_stock,low,EVAL-000373,0,,,hi,East Singhbhum
+EVAL-000789,Sanitation & Waste,open_drain,medium,EVAL-000789,0,,,hi,Bokaro
+EVAL-000186,Sanitation & Waste,toilet_blocked,medium,EVAL-000186,0,,,hinglish,Bokaro
+EVAL-000104,Education,teacher_vacancy,medium,EVAL-000104,0,,,en,Dhanbad
+EVAL-001618,Food & PDS,grain_quality,medium,EVAL-001618,0,,,hinglish,Deoghar
+EVAL-001683,Sanitation & Waste,public_toilet_water,low,EVAL-001683,0,,,en,Dumka
+EVAL-001374,Food & PDS,aadhaar_seeding,high,EVAL-001374,0,,,hi,Hazaribagh
+EVAL-001632,Welfare & Pensions,mgnrega_wages,high,EVAL-001632,0,,,hinglish,Seraikela-Kharsawan
+EVAL-001093,Agriculture & Irrigation,mandi_procurement,medium,EVAL-001093,0,,,hinglish,Palamu
+EVAL-001232,Water Supply,water_quality,high,EVAL-001232,0,,,hinglish,Dhanbad
+EVAL-001904,Water Supply,tap_no_supply,high,EVAL-000791,1,near,EVAL-000791,en,Ramgarh
+EVAL-001894,Welfare & Pensions,widow_pension,high,EVAL-000786,1,near,EVAL-000786,hi,Simdega
+EVAL-000798,Water Supply,tanker_delay,critical,EVAL-000798,0,,,en,Dhanbad
+EVAL-000752,Land & Revenue,mutation_delay,low,EVAL-000752,0,,,en,Giridih
+EVAL-001995,Water Supply,handpump_dry,medium,EVAL-001750,1,near,EVAL-001750,hi,Giridih
+EVAL-000949,Water Supply,tap_no_supply,medium,EVAL-000949,0,,,hi,Hazaribagh
+EVAL-000991,Food & PDS,new_ration_card,low,EVAL-000991,0,,,en,East Singhbhum
+EVAL-001329,Land & Revenue,land_record_error,low,EVAL-001329,0,,,hi,East Singhbhum
+EVAL-000064,Electricity,transformer_burnt,high,EVAL-000064,0,,,en,Garhwa
+EVAL-000609,Sanitation & Waste,toilet_blocked,medium,EVAL-000609,0,,,hi,Palamu
+EVAL-000725,Sanitation & Waste,toilet_blocked,medium,EVAL-000725,0,,,en,Khunti
+EVAL-001236,Land & Revenue,boundary_demarcation,low,EVAL-001236,0,,,en,Ranchi
+EVAL-000902,Healthcare,phc_no_doctor,critical,EVAL-000902,0,,,hinglish,Dhanbad
+EVAL-001149,Agriculture & Irrigation,mandi_procurement,high,EVAL-001149,0,,,hinglish,West Singhbhum
+EVAL-001902,Water Supply,water_quality,critical,EVAL-000343,1,near,EVAL-000343,hi,Ranchi
+EVAL-001822,Food & PDS,dealer_closed,high,EVAL-000796,1,exact,EVAL-000796,hi,Deoghar
+EVAL-001421,Agriculture & Irrigation,seed_supply,medium,EVAL-001421,0,,,en,Ranchi
+EVAL-000457,Welfare & Pensions,widow_pension,low,EVAL-000457,0,,,hinglish,Sahibganj
+EVAL-000951,Welfare & Pensions,scholarship_delay,high,EVAL-000951,0,,,en,Dumka
+EVAL-000474,Welfare & Pensions,mgnrega_wages,critical,EVAL-000474,0,,,hinglish,Pakur
+EVAL-001745,Welfare & Pensions,pension_delay,high,EVAL-001745,0,,,en,Giridih
+EVAL-000210,Sanitation & Waste,garbage_collection,medium,EVAL-000210,0,,,hi,Palamu
+EVAL-000819,Food & PDS,grain_quality,medium,EVAL-000819,0,,,hi,Sahibganj
+EVAL-001973,Land & Revenue,boundary_demarcation,medium,EVAL-000494,1,near,EVAL-000494,en,Lohardaga
+EVAL-000491,Safety & Environment,womens_safety,high,EVAL-000491,0,,,hi,Palamu
+EVAL-000692,Electricity,bill_error,medium,EVAL-000692,0,,,hinglish,Godda
+EVAL-000597,Welfare & Pensions,ration_card_cancel,high,EVAL-000597,0,,,hi,Giridih
+EVAL-001166,Education,boundary_wall,medium,EVAL-001166,0,,,hinglish,Giridih
+EVAL-001007,Healthcare,health_camp,high,EVAL-001007,0,,,hinglish,Jamtara
+EVAL-001626,Safety & Environment,womens_safety,high,EVAL-001626,0,,,hi,Bokaro
+EVAL-000744,Electricity,solar_streetlight,medium,EVAL-000744,0,,,en,Giridih
+EVAL-001799,Land & Revenue,registry_appointment,medium,EVAL-001799,0,,,en,East Singhbhum
+EVAL-001292,Healthcare,phc_no_doctor,high,EVAL-001292,0,,,en,Simdega
+EVAL-001752,Welfare & Pensions,ration_card_cancel,high,EVAL-001752,0,,,hi,Palamu
+EVAL-000082,Roads & Connectivity,road_potholes,high,EVAL-000082,0,,,en,Giridih
+EVAL-000587,Agriculture & Irrigation,canal_irrigation,high,EVAL-000587,0,,,hi,West Singhbhum
+EVAL-000454,Land & Revenue,public_land_encroachment,high,EVAL-000454,0,,,en,Ranchi
+EVAL-001003,Food & PDS,grain_quality,medium,EVAL-001003,0,,,en,Chatra
+EVAL-001408,Agriculture & Irrigation,seed_supply,medium,EVAL-001408,0,,,en,Seraikela-Kharsawan
+EVAL-000657,Education,textbooks_delay,medium,EVAL-000657,0,,,en,West Singhbhum
+EVAL-001143,Food & PDS,new_ration_card,critical,EVAL-001143,0,,,en,Seraikela-Kharsawan
+EVAL-000164,Electricity,meter_pending,medium,EVAL-000164,0,,,hinglish,Chatra
+EVAL-001651,Electricity,solar_streetlight,low,EVAL-001651,0,,,hi,Chatra
+EVAL-001205,Sanitation & Waste,open_drain,medium,EVAL-001205,0,,,hi,Koderma
+EVAL-000332,Education,midday_meal,low,EVAL-000332,0,,,hi,Dhanbad
+EVAL-000208,Food & PDS,grain_quality,high,EVAL-000208,0,,,hi,Hazaribagh
+EVAL-000119,Land & Revenue,public_land_encroachment,high,EVAL-000119,0,,,hinglish,East Singhbhum
+EVAL-000507,Safety & Environment,flood_drainage,medium,EVAL-000507,0,,,hi,Latehar
+EVAL-001555,Water Supply,water_testing,medium,EVAL-001555,0,,,en,Hazaribagh
+EVAL-001788,Agriculture & Irrigation,seed_supply,medium,EVAL-001788,0,,,en,Deoghar
+EVAL-000952,Agriculture & Irrigation,crop_insurance,high,EVAL-000952,0,,,en,Ranchi
+EVAL-000394,Agriculture & Irrigation,canal_irrigation,high,EVAL-000394,0,,,hinglish,Ranchi
+EVAL-000887,Education,school_electricity,medium,EVAL-000887,0,,,hi,Chatra
+EVAL-001998,Education,textbooks_delay,medium,EVAL-000657,1,near,EVAL-000657,en,West Singhbhum
+EVAL-000929,Agriculture & Irrigation,canal_irrigation,high,EVAL-000929,0,,,hi,Simdega
+EVAL-001108,Welfare & Pensions,pension_delay,medium,EVAL-001108,0,,,hi,Giridih
+EVAL-000079,Safety & Environment,womens_safety,high,EVAL-000079,0,,,hinglish,Ranchi
+EVAL-000068,Roads & Connectivity,road_potholes,low,EVAL-000068,0,,,en,Deoghar
+EVAL-000437,Water Supply,water_quality,medium,EVAL-000437,0,,,hinglish,Palamu
+EVAL-000232,Agriculture & Irrigation,fertiliser_shop,critical,EVAL-000232,0,,,en,Giridih
+EVAL-001130,Electricity,feeder_outage,critical,EVAL-001130,0,,,en,Sahibganj
+EVAL-000917,Education,school_electricity,high,EVAL-000917,0,,,en,West Singhbhum
+EVAL-001098,Safety & Environment,police_response,critical,EVAL-001098,0,,,en,Garhwa
+EVAL-000766,Water Supply,tanker_delay,low,EVAL-000766,0,,,en,Dumka
+EVAL-000662,Electricity,feeder_outage,critical,EVAL-000662,0,,,hi,Giridih
+EVAL-001055,Food & PDS,aadhaar_seeding,low,EVAL-001055,0,,,hinglish,Garhwa
+EVAL-000057,Water Supply,handpump_dry,critical,EVAL-000057,0,,,hi,Giridih
+EVAL-000009,Roads & Connectivity,road_potholes,medium,EVAL-000009,0,,,hi,Gumla
+EVAL-000883,Roads & Connectivity,bus_service,critical,EVAL-000883,0,,,en,Garhwa
+EVAL-000129,Food & PDS,new_ration_card,high,EVAL-000129,0,,,hinglish,Giridih
+EVAL-001793,Land & Revenue,land_record_error,critical,EVAL-001793,0,,,en,Ramgarh
+EVAL-000717,Education,midday_meal,critical,EVAL-000717,0,,,hi,Giridih
+EVAL-000672,Food & PDS,dealer_closed,medium,EVAL-000672,0,,,hi,Ranchi
+EVAL-000939,Education,boundary_wall,high,EVAL-000939,0,,,en,Bokaro
+EVAL-001045,Roads & Connectivity,bus_service,low,EVAL-001045,0,,,hi,Jamtara
+EVAL-001797,Roads & Connectivity,road_potholes,medium,EVAL-001797,0,,,en,Palamu
+EVAL-001607,Food & PDS,pds_portability,medium,EVAL-001607,0,,,en,Dumka
+EVAL-001837,Healthcare,anganwadi_supply,medium,EVAL-000604,1,exact,EVAL-000604,en,Palamu
+EVAL-000017,Education,school_roof,low,EVAL-000017,0,,,hinglish,Hazaribagh
+EVAL-001794,Agriculture & Irrigation,canal_irrigation,critical,EVAL-001794,0,,,hinglish,Simdega
+EVAL-001340,Roads & Connectivity,culvert_damage,high,EVAL-001340,0,,,hi,Deoghar
+EVAL-000715,Employment & Livelihoods,job_card,high,EVAL-000715,0,,,en,Giridih
+EVAL-001496,Agriculture & Irrigation,seed_supply,medium,EVAL-001496,0,,,en,Ranchi
+EVAL-001908,Agriculture & Irrigation,borewell_irrigation,medium,EVAL-001239,1,near,EVAL-001239,en,East Singhbhum
+EVAL-001928,Safety & Environment,womens_safety,medium,EVAL-000683,1,near,EVAL-000683,en,Sahibganj
+EVAL-001725,Electricity,meter_pending,low,EVAL-001725,0,,,hi,West Singhbhum
+EVAL-001204,Healthcare,anganwadi_supply,critical,EVAL-001204,0,,,hi,Sahibganj
+EVAL-000099,Electricity,meter_pending,medium,EVAL-000099,0,,,hi,Giridih
+EVAL-000465,Welfare & Pensions,scholarship_delay,medium,EVAL-000465,0,,,en,Pakur
+EVAL-000203,Safety & Environment,womens_safety,low,EVAL-000203,0,,,hi,Ranchi
+EVAL-001685,Agriculture & Irrigation,crop_insurance,high,EVAL-001685,0,,,hi,Deoghar
+EVAL-001635,Electricity,low_voltage,high,EVAL-001635,0,,,en,Palamu
+EVAL-000423,Welfare & Pensions,mgnrega_wages,medium,EVAL-000423,0,,,en,Ranchi
+EVAL-001211,Healthcare,cold_chain,critical,EVAL-001211,0,,,en,Latehar
+EVAL-001091,Water Supply,water_quality,medium,EVAL-001091,0,,,en,Dhanbad
+EVAL-000282,Sanitation & Waste,drain_overflow,medium,EVAL-000282,0,,,en,Latehar
+EVAL-001849,Employment & Livelihoods,skill_training,high,EVAL-001778,1,near,EVAL-001778,hi,East Singhbhum
+EVAL-001487,Healthcare,anganwadi_supply,medium,EVAL-001487,0,,,hinglish,Ranchi
+EVAL-001220,Water Supply,tap_no_supply,critical,EVAL-001220,0,,,en,Giridih
+EVAL-001823,Agriculture & Irrigation,crop_insurance,high,EVAL-001047,1,exact,EVAL-001047,hi,Garhwa
+EVAL-001195,Land & Revenue,registry_appointment,low,EVAL-001195,0,,,hinglish,Seraikela-Kharsawan
+EVAL-001525,Safety & Environment,womens_safety,low,EVAL-001525,0,,,en,Garhwa
+EVAL-000442,Healthcare,ambulance_delay,critical,EVAL-000442,0,,,hi,Sahibganj
+EVAL-000022,Agriculture & Irrigation,fertiliser_shop,medium,EVAL-000022,0,,,en,Palamu
+EVAL-001504,Safety & Environment,flood_drainage,medium,EVAL-001504,0,,,hi,Lohardaga
+EVAL-001019,Safety & Environment,womens_safety,high,EVAL-001019,0,,,hinglish,Seraikela-Kharsawan
+EVAL-001598,Education,teacher_vacancy,medium,EVAL-001598,0,,,hi,Seraikela-Kharsawan
+EVAL-000575,Water Supply,water_testing,medium,EVAL-000575,0,,,en,Bokaro
+EVAL-000568,Healthcare,anganwadi_supply,high,EVAL-000568,0,,,hinglish,Hazaribagh
+EVAL-001699,Education,midday_meal,medium,EVAL-001699,0,,,hi,Dumka
+EVAL-000963,Safety & Environment,police_response,high,EVAL-000963,0,,,hi,East Singhbhum
+EVAL-001297,Food & PDS,pds_portability,medium,EVAL-001297,0,,,hi,Godda
+EVAL-001870,Employment & Livelihoods,job_card,high,EVAL-000799,1,near,EVAL-000799,hi,Ranchi
+EVAL-000472,Agriculture & Irrigation,canal_irrigation,low,EVAL-000472,0,,,hinglish,Latehar
+EVAL-000509,Welfare & Pensions,disability_certificate,high,EVAL-000509,0,,,en,West Singhbhum
+EVAL-001815,Safety & Environment,flood_drainage,medium,EVAL-001137,1,exact,EVAL-001137,en,Sahibganj
+EVAL-001203,Employment & Livelihoods,skill_training,medium,EVAL-001203,0,,,hi,Godda
+EVAL-000410,Food & PDS,grain_quality,medium,EVAL-000410,0,,,en,West Singhbhum
+EVAL-001049,Roads & Connectivity,culvert_damage,high,EVAL-001049,0,,,hi,Hazaribagh
+EVAL-000520,Agriculture & Irrigation,borewell_irrigation,high,EVAL-000520,0,,,en,Sahibganj
+EVAL-001929,Employment & Livelihoods,migration_support,critical,EVAL-000427,1,near,EVAL-000427,en,Giridih
+EVAL-000655,Food & PDS,pds_portability,high,EVAL-000655,0,,,hinglish,East Singhbhum
+EVAL-000700,Sanitation & Waste,drain_overflow,high,EVAL-000700,0,,,en,Ramgarh
+EVAL-001070,Employment & Livelihoods,job_card,low,EVAL-001070,0,,,en,Simdega
+EVAL-001499,Roads & Connectivity,road_potholes,high,EVAL-001499,0,,,hi,Garhwa
+EVAL-000666,Agriculture & Irrigation,borewell_irrigation,critical,EVAL-000666,0,,,hi,Ranchi
+EVAL-000618,Education,school_roof,high,EVAL-000618,0,,,en,Latehar
+EVAL-001693,Land & Revenue,parcha_copy,high,EVAL-001693,0,,,hi,East Singhbhum
+EVAL-000558,Food & PDS,grain_quality,high,EVAL-000558,0,,,hi,Deoghar
+EVAL-001609,Agriculture & Irrigation,mandi_procurement,high,EVAL-001609,0,,,en,Hazaribagh
+EVAL-001425,Welfare & Pensions,widow_pension,critical,EVAL-001425,0,,,en,Khunti
+EVAL-000242,Welfare & Pensions,ration_card_cancel,medium,EVAL-000242,0,,,hinglish,Deoghar
+EVAL-000015,Employment & Livelihoods,skill_training,high,EVAL-000015,0,,,hi,Ranchi
+EVAL-001809,Education,midday_meal,low,EVAL-000332,1,exact,EVAL-000332,hi,Dhanbad
+EVAL-000667,Welfare & Pensions,scholarship_delay,low,EVAL-000667,0,,,hi,Giridih
+EVAL-000492,Electricity,feeder_outage,high,EVAL-000492,0,,,en,Simdega
+EVAL-000909,Electricity,meter_pending,medium,EVAL-000909,0,,,hinglish,Deoghar
+EVAL-001820,Food & PDS,ration_shortweight,high,EVAL-000591,1,exact,EVAL-000591,hi,Ranchi
+EVAL-001881,Healthcare,cold_chain,critical,EVAL-001453,1,near,EVAL-001453,en,Giridih
+EVAL-001198,Healthcare,medicine_stock,high,EVAL-001198,0,,,en,Hazaribagh
+EVAL-001012,Healthcare,phc_no_doctor,high,EVAL-001012,0,,,hi,West Singhbhum
+EVAL-000095,Roads & Connectivity,streetlight_road,medium,EVAL-000095,0,,,hinglish,Godda
+EVAL-000134,Roads & Connectivity,bridge_damage,low,EVAL-000134,0,,,en,Ranchi
+EVAL-000130,Agriculture & Irrigation,fertiliser_shop,low,EVAL-000130,0,,,hi,Chatra
+EVAL-000431,Electricity,meter_pending,high,EVAL-000431,0,,,en,Bokaro
+EVAL-001568,Safety & Environment,flood_drainage,high,EVAL-001568,0,,,hi,Deoghar
+EVAL-001717,Land & Revenue,boundary_demarcation,high,EVAL-001717,0,,,en,Latehar
+EVAL-001515,Safety & Environment,industrial_dust,critical,EVAL-001515,0,,,hi,Ranchi
+EVAL-000141,Food & PDS,grain_quality,medium,EVAL-000141,0,,,hinglish,Jamtara
+EVAL-000178,Roads & Connectivity,bus_service,high,EVAL-000178,0,,,en,Giridih
+EVAL-001442,Food & PDS,dealer_closed,high,EVAL-001442,0,,,hi,Pakur
+EVAL-001668,Education,school_toilet,high,EVAL-001668,0,,,hi,Garhwa
+EVAL-001009,Welfare & Pensions,scholarship_delay,high,EVAL-001009,0,,,hi,East Singhbhum
+EVAL-000713,Land & Revenue,mutation_delay,critical,EVAL-000713,0,,,en,Sahibganj
+EVAL-000158,Welfare & Pensions,ration_card_cancel,critical,EVAL-000158,0,,,hi,Giridih
+EVAL-001119,Sanitation & Waste,public_toilet_water,high,EVAL-001119,0,,,hi,East Singhbhum
+EVAL-001816,Land & Revenue,mutation_delay,high,EVAL-001378,1,exact,EVAL-001378,en,West Singhbhum
+EVAL-000755,Education,school_electricity,high,EVAL-000755,0,,,hi,Hazaribagh
+EVAL-001886,Electricity,solar_streetlight,high,EVAL-000137,1,near,EVAL-000137,hinglish,Deoghar
+EVAL-000427,Employment & Livelihoods,migration_support,critical,EVAL-000427,0,,,en,Giridih
+EVAL-001445,Employment & Livelihoods,job_card,medium,EVAL-001445,0,,,en,Seraikela-Kharsawan
+EVAL-001732,Sanitation & Waste,drain_overflow,critical,EVAL-001732,0,,,en,Simdega
+EVAL-000552,Land & Revenue,mutation_delay,high,EVAL-000552,0,,,hi,Chatra
+EVAL-000356,Welfare & Pensions,ration_card_cancel,low,EVAL-000356,0,,,hinglish,Bokaro
+EVAL-001202,Water Supply,water_testing,low,EVAL-001202,0,,,hi,Lohardaga
+EVAL-001361,Employment & Livelihoods,skill_training,low,EVAL-001361,0,,,en,Hazaribagh
+EVAL-001305,Employment & Livelihoods,wage_delay_contract,low,EVAL-001305,0,,,hi,Koderma
+EVAL-000880,Safety & Environment,womens_safety,high,EVAL-000880,0,,,hinglish,Godda
+EVAL-001592,Sanitation & Waste,public_toilet_water,low,EVAL-001592,0,,,en,East Singhbhum
+EVAL-001754,Electricity,low_voltage,low,EVAL-001754,0,,,hinglish,Chatra
+EVAL-000121,Safety & Environment,police_response,medium,EVAL-000121,0,,,hinglish,Bokaro
+EVAL-000071,Safety & Environment,womens_safety,critical,EVAL-000071,0,,,hi,Pakur
+EVAL-001042,Food & PDS,new_ration_card,medium,EVAL-001042,0,,,hi,Ramgarh
+EVAL-000321,Education,school_toilet,critical,EVAL-000321,0,,,hi,Jamtara
+EVAL-000228,Safety & Environment,womens_safety,high,EVAL-000228,0,,,en,Bokaro
+EVAL-001704,Welfare & Pensions,widow_pension,critical,EVAL-001704,0,,,en,Pakur
+EVAL-001257,Education,school_roof,high,EVAL-001257,0,,,hi,Seraikela-Kharsawan
+EVAL-001249,Agriculture & Irrigation,crop_insurance,medium,EVAL-001249,0,,,en,Ramgarh
+EVAL-000477,Water Supply,handpump_dry,critical,EVAL-000477,0,,,en,West Singhbhum
+EVAL-000028,Food & PDS,new_ration_card,low,EVAL-000028,0,,,hi,Deoghar
+EVAL-000605,Roads & Connectivity,culvert_damage,high,EVAL-000605,0,,,hinglish,Palamu
+EVAL-000698,Safety & Environment,police_response,low,EVAL-000698,0,,,en,Ranchi
+EVAL-000894,Agriculture & Irrigation,borewell_irrigation,high,EVAL-000894,0,,,hi,Pakur
+EVAL-000081,Welfare & Pensions,ration_card_cancel,medium,EVAL-000081,0,,,hinglish,Bokaro
+EVAL-000753,Sanitation & Waste,open_drain,medium,EVAL-000753,0,,,en,East Singhbhum
+EVAL-001855,Electricity,solar_streetlight,medium,EVAL-001707,1,near,EVAL-001707,hi,Koderma
+EVAL-000024,Education,school_roof,high,EVAL-000024,0,,,hinglish,Koderma
+EVAL-000063,Sanitation & Waste,drain_overflow,high,EVAL-000063,0,,,hi,Bokaro
+EVAL-000735,Sanitation & Waste,toilet_blocked,high,EVAL-000735,0,,,en,Gumla
+EVAL-001567,Agriculture & Irrigation,mandi_procurement,high,EVAL-001567,0,,,hinglish,Hazaribagh
+EVAL-001961,Land & Revenue,boundary_demarcation,high,EVAL-000743,1,near,EVAL-000743,en,Garhwa
+EVAL-000155,Education,textbooks_delay,medium,EVAL-000155,0,,,hinglish,Ranchi
+EVAL-001278,Roads & Connectivity,streetlight_road,high,EVAL-001278,0,,,en,West Singhbhum
+EVAL-000886,Healthcare,health_camp,low,EVAL-000886,0,,,hi,Garhwa
+EVAL-000494,Land & Revenue,boundary_demarcation,medium,EVAL-000494,0,,,en,Lohardaga
+EVAL-001320,Sanitation & Waste,garbage_collection,medium,EVAL-001320,0,,,hinglish,Dhanbad
+EVAL-000637,Safety & Environment,flood_drainage,high,EVAL-000637,0,,,hi,West Singhbhum
+EVAL-000458,Food & PDS,ration_shortweight,high,EVAL-000458,0,,,hi,Koderma
+EVAL-001672,Land & Revenue,parcha_copy,medium,EVAL-001672,0,,,hinglish,West Singhbhum
+EVAL-000834,Employment & Livelihoods,job_card,low,EVAL-000834,0,,,en,Bokaro
+EVAL-001397,Healthcare,cold_chain,high,EVAL-001397,0,,,hi,Dhanbad
+EVAL-001201,Sanitation & Waste,open_drain,low,EVAL-001201,0,,,hi,Deoghar
+EVAL-000097,Water Supply,tanker_delay,critical,EVAL-000097,0,,,hinglish,Bokaro
+EVAL-000044,Roads & Connectivity,culvert_damage,critical,EVAL-000044,0,,,hi,West Singhbhum
+EVAL-000668,Welfare & Pensions,widow_pension,critical,EVAL-000668,0,,,hi,Giridih
+EVAL-000207,Agriculture & Irrigation,crop_insurance,medium,EVAL-000207,0,,,hi,Garhwa
+EVAL-000670,Welfare & Pensions,mgnrega_wages,high,EVAL-000670,0,,,hi,Simdega
+EVAL-001917,Education,school_toilet,critical,EVAL-000321,1,near,EVAL-000321,hi,Jamtara
+EVAL-000343,Water Supply,water_quality,critical,EVAL-000343,0,,,hi,Ranchi
+EVAL-001572,Roads & Connectivity,roadside_drain,critical,EVAL-001572,0,,,en,Bokaro
+EVAL-001173,Welfare & Pensions,widow_pension,critical,EVAL-001173,0,,,hi,Dumka
+EVAL-001534,Roads & Connectivity,streetlight_road,medium,EVAL-001534,0,,,hinglish,Ranchi
+EVAL-001188,Land & Revenue,mutation_delay,high,EVAL-001188,0,,,hi,Dhanbad
+EVAL-000252,Land & Revenue,mutation_delay,medium,EVAL-000252,0,,,en,Ranchi
+EVAL-001489,Healthcare,health_camp,low,EVAL-001489,0,,,hi,Chatra
+EVAL-001806,Food & PDS,ration_shortweight,high,EVAL-001734,1,exact,EVAL-001734,en,Bokaro
+EVAL-000393,Water Supply,tanker_delay,high,EVAL-000393,0,,,hi,Seraikela-Kharsawan
+EVAL-000757,Agriculture & Irrigation,borewell_irrigation,critical,EVAL-000757,0,,,hinglish,Dhanbad
+EVAL-000712,Safety & Environment,flood_drainage,critical,EVAL-000712,0,,,hinglish,Latehar
+EVAL-001391,Education,school_roof,medium,EVAL-001391,0,,,hi,Garhwa
+EVAL-000685,Sanitation & Waste,public_toilet_water,medium,EVAL-000685,0,,,hi,Gumla
+EVAL-000695,Healthcare,anganwadi_supply,critical,EVAL-000695,0,,,hi,Deoghar
+EVAL-001255,Food & PDS,pds_portability,medium,EVAL-001255,0,,,hinglish,West Singhbhum
+EVAL-000896,Education,school_roof,medium,EVAL-000896,0,,,hi,Hazaribagh
+EVAL-001307,Land & Revenue,land_record_error,high,EVAL-001307,0,,,hi,Lohardaga
+EVAL-000424,Electricity,bill_error,medium,EVAL-000424,0,,,hinglish,Giridih
+EVAL-000583,Agriculture & Irrigation,seed_supply,critical,EVAL-000583,0,,,en,Ranchi
+EVAL-000975,Welfare & Pensions,widow_pension,high,EVAL-000975,0,,,en,Palamu
+EVAL-000586,Water Supply,water_testing,low,EVAL-000586,0,,,en,Ramgarh
+EVAL-000417,Roads & Connectivity,bus_service,medium,EVAL-000417,0,,,hi,Hazaribagh
+EVAL-001971,Welfare & Pensions,ration_card_cancel,low,EVAL-000576,1,near,EVAL-000576,en,Giridih
+EVAL-000538,Safety & Environment,womens_safety,medium,EVAL-000538,0,,,hi,Ranchi
+EVAL-001814,Healthcare,phc_no_doctor,critical,EVAL-000439,1,exact,EVAL-000439,hi,Ranchi
+EVAL-001498,Food & PDS,ration_shortweight,high,EVAL-001498,0,,,hi,Bokaro
+EVAL-001377,Electricity,meter_pending,low,EVAL-001377,0,,,en,Giridih
+EVAL-001900,Electricity,solar_streetlight,medium,EVAL-000617,1,near,EVAL-000617,hinglish,Seraikela-Kharsawan
+EVAL-001308,Education,midday_meal,medium,EVAL-001308,0,,,hi,Lohardaga
+EVAL-000579,Roads & Connectivity,bridge_damage,high,EVAL-000579,0,,,en,Giridih
+EVAL-001479,Water Supply,tap_no_supply,critical,EVAL-001479,0,,,hi,Giridih
+EVAL-001859,Agriculture & Irrigation,seed_supply,high,EVAL-000088,1,near,EVAL-000088,en,Giridih
+EVAL-001139,Food & PDS,new_ration_card,high,EVAL-001139,0,,,hi,Ranchi
+EVAL-001589,Education,school_roof,high,EVAL-001589,0,,,hi,Ranchi
+EVAL-000910,Employment & Livelihoods,skill_training,low,EVAL-000910,0,,,hi,Palamu
+EVAL-001843,Welfare & Pensions,mgnrega_wages,medium,EVAL-001518,1,near,EVAL-001518,en,Dhanbad
+EVAL-000985,Water Supply,handpump_dry,high,EVAL-000985,0,,,en,Bokaro
+EVAL-001710,Education,school_roof,high,EVAL-001710,0,,,en,Palamu
+EVAL-000173,Agriculture & Irrigation,seed_supply,high,EVAL-000173,0,,,hi,Hazaribagh
+EVAL-001360,Agriculture & Irrigation,crop_insurance,medium,EVAL-001360,0,,,en,Giridih
+EVAL-000546,Roads & Connectivity,bridge_damage,critical,EVAL-000546,0,,,hi,Godda
+EVAL-001371,Roads & Connectivity,bridge_damage,high,EVAL-001371,0,,,en,Jamtara
+EVAL-000168,Land & Revenue,parcha_copy,low,EVAL-000168,0,,,hi,Dumka
+EVAL-000674,Agriculture & Irrigation,crop_insurance,high,EVAL-000674,0,,,en,East Singhbhum
+EVAL-000999,Electricity,bill_error,medium,EVAL-000999,0,,,en,Godda
+EVAL-000958,Land & Revenue,mutation_delay,critical,EVAL-000958,0,,,hinglish,Dhanbad
+EVAL-000803,Roads & Connectivity,culvert_damage,medium,EVAL-000803,0,,,en,Hazaribagh
+EVAL-001102,Agriculture & Irrigation,crop_insurance,medium,EVAL-001102,0,,,hi,Latehar
+EVAL-000503,Water Supply,tap_no_supply,medium,EVAL-000503,0,,,hinglish,Ranchi
+EVAL-000779,Employment & Livelihoods,migration_support,medium,EVAL-000779,0,,,hinglish,Godda
+EVAL-001480,Roads & Connectivity,roadside_drain,low,EVAL-001480,0,,,en,Ramgarh
+EVAL-001127,Roads & Connectivity,bus_service,medium,EVAL-001127,0,,,hinglish,Dhanbad
+EVAL-001602,Welfare & Pensions,ration_card_cancel,high,EVAL-001602,0,,,en,West Singhbhum
+EVAL-001022,Welfare & Pensions,scholarship_delay,high,EVAL-001022,0,,,hinglish,Dumka
+EVAL-000002,Roads & Connectivity,streetlight_road,low,EVAL-000002,0,,,hi,Deoghar
+EVAL-001587,Agriculture & Irrigation,crop_insurance,medium,EVAL-001587,0,,,hi,Chatra
+EVAL-000329,Land & Revenue,boundary_demarcation,medium,EVAL-000329,0,,,hinglish,Jamtara
+EVAL-000060,Welfare & Pensions,disability_certificate,medium,EVAL-000060,0,,,hi,Ranchi
+EVAL-000149,Welfare & Pensions,pension_delay,critical,EVAL-000149,0,,,en,Ramgarh
+EVAL-001594,Land & Revenue,registry_appointment,medium,EVAL-001594,0,,,hi,Hazaribagh
+EVAL-001417,Land & Revenue,boundary_demarcation,medium,EVAL-001417,0,,,en,Bokaro
+EVAL-000920,Education,school_toilet,critical,EVAL-000920,0,,,hinglish,Gumla
+EVAL-000080,Safety & Environment,industrial_dust,high,EVAL-000080,0,,,hi,Latehar
+EVAL-001106,Education,school_toilet,low,EVAL-001106,0,,,hi,Chatra
+EVAL-000784,Roads & Connectivity,roadside_drain,medium,EVAL-000784,0,,,hi,Simdega
+EVAL-000446,Water Supply,tanker_delay,low,EVAL-000446,0,,,hi,Garhwa
+EVAL-000846,Healthcare,health_camp,medium,EVAL-000846,0,,,en,Ranchi
+EVAL-001259,Agriculture & Irrigation,mandi_procurement,low,EVAL-001259,0,,,en,Dumka
+EVAL-000584,Employment & Livelihoods,skill_training,medium,EVAL-000584,0,,,en,Bokaro
+EVAL-001506,Electricity,transformer_burnt,critical,EVAL-001506,0,,,hi,Hazaribagh
+EVAL-000243,Sanitation & Waste,garbage_collection,medium,EVAL-000243,0,,,hi,Bokaro
+EVAL-001197,Electricity,solar_streetlight,medium,EVAL-001197,0,,,hi,Dumka
+EVAL-000524,Food & PDS,pds_portability,high,EVAL-000524,0,,,hi,Dhanbad
+EVAL-001705,Sanitation & Waste,garbage_collection,medium,EVAL-001705,0,,,hinglish,Deoghar
+EVAL-000506,Food & PDS,grain_quality,critical,EVAL-000506,0,,,hi,Dhanbad
+EVAL-000760,Agriculture & Irrigation,seed_supply,medium,EVAL-000760,0,,,hinglish,Dumka
+EVAL-001306,Employment & Livelihoods,job_card,medium,EVAL-001306,0,,,en,West Singhbhum
+EVAL-000046,Agriculture & Irrigation,mandi_procurement,medium,EVAL-000046,0,,,en,East Singhbhum
+EVAL-001207,Welfare & Pensions,disability_certificate,high,EVAL-001207,0,,,hinglish,East Singhbhum
+EVAL-000146,Education,boundary_wall,medium,EVAL-000146,0,,,hi,East Singhbhum
+EVAL-000988,Welfare & Pensions,ration_card_cancel,medium,EVAL-000988,0,,,hinglish,Latehar
+EVAL-001110,Sanitation & Waste,public_toilet_water,low,EVAL-001110,0,,,hi,West Singhbhum
+EVAL-000108,Agriculture & Irrigation,crop_insurance,high,EVAL-000108,0,,,hi,Bokaro
+EVAL-000074,Food & PDS,new_ration_card,medium,EVAL-000074,0,,,hinglish,Hazaribagh
+EVAL-000167,Electricity,low_voltage,medium,EVAL-000167,0,,,hinglish,Simdega
+EVAL-001355,Sanitation & Waste,garbage_collection,medium,EVAL-001355,0,,,en,Gumla
+EVAL-000759,Agriculture & Irrigation,mandi_procurement,high,EVAL-000759,0,,,hinglish,East Singhbhum
+EVAL-001653,Food & PDS,new_ration_card,low,EVAL-001653,0,,,en,Hazaribagh
+EVAL-000140,Electricity,bill_error,high,EVAL-000140,0,,,en,Pakur
+EVAL-000025,Roads & Connectivity,bridge_damage,critical,EVAL-000025,0,,,en,Dhanbad
+EVAL-001637,Safety & Environment,police_response,high,EVAL-001637,0,,,en,Gumla
+EVAL-000283,Sanitation & Waste,open_drain,high,EVAL-000283,0,,,hi,Palamu
+EVAL-001280,Employment & Livelihoods,skill_training,medium,EVAL-001280,0,,,hi,Garhwa
+EVAL-001350,Welfare & Pensions,ration_card_cancel,medium,EVAL-001350,0,,,hi,Godda
+EVAL-001239,Agriculture & Irrigation,borewell_irrigation,medium,EVAL-001239,0,,,en,East Singhbhum
+EVAL-001903,Education,textbooks_delay,medium,EVAL-000075,1,near,EVAL-000075,hinglish,Garhwa
+EVAL-001657,Safety & Environment,illegal_liquor,high,EVAL-001657,0,,,hinglish,Dhanbad
+EVAL-001738,Education,school_toilet,high,EVAL-001738,0,,,en,East Singhbhum
+EVAL-000348,Healthcare,phc_no_doctor,critical,EVAL-000348,0,,,hi,Deoghar
+EVAL-000291,Welfare & Pensions,mgnrega_wages,medium,EVAL-000291,0,,,hinglish,East Singhbhum
+EVAL-001850,Roads & Connectivity,bus_service,medium,EVAL-000320,1,near,EVAL-000320,en,Ramgarh
+EVAL-001531,Education,boundary_wall,low,EVAL-001531,0,,,hi,Koderma
+EVAL-001345,Education,school_electricity,medium,EVAL-001345,0,,,hinglish,Hazaribagh
+EVAL-000072,Healthcare,anganwadi_supply,low,EVAL-000072,0,,,hinglish,East Singhbhum
+EVAL-000406,Water Supply,tap_no_supply,medium,EVAL-000406,0,,,hi,Giridih
+EVAL-001113,Water Supply,handpump_dry,medium,EVAL-001113,0,,,hi,Sahibganj
+EVAL-000678,Agriculture & Irrigation,canal_irrigation,critical,EVAL-000678,0,,,hi,Hazaribagh
+EVAL-000870,Food & PDS,ration_shortweight,high,EVAL-000870,0,,,hi,Ranchi
+EVAL-000501,Food & PDS,ration_shortweight,critical,EVAL-000501,0,,,hinglish,Dhanbad
+EVAL-001735,Electricity,solar_streetlight,medium,EVAL-001735,0,,,hi,Ranchi
+EVAL-001252,Healthcare,cold_chain,medium,EVAL-001252,0,,,hi,Bokaro
+EVAL-001342,Employment & Livelihoods,job_card,medium,EVAL-001342,0,,,hinglish,Dhanbad
+EVAL-000704,Land & Revenue,mutation_delay,low,EVAL-000704,0,,,en,Ranchi
+EVAL-001622,Safety & Environment,police_response,critical,EVAL-001622,0,,,en,Dumka
+EVAL-001465,Roads & Connectivity,streetlight_road,high,EVAL-001465,0,,,en,Dhanbad
+EVAL-001580,Healthcare,anm_vacancy,medium,EVAL-001580,0,,,hi,Sahibganj
+EVAL-000455,Roads & Connectivity,roadside_drain,medium,EVAL-000455,0,,,hinglish,Bokaro
+EVAL-001151,Welfare & Pensions,scholarship_delay,medium,EVAL-001151,0,,,hi,Deoghar
+EVAL-000295,Food & PDS,grain_quality,high,EVAL-000295,0,,,hinglish,Deoghar
+EVAL-001460,Land & Revenue,parcha_copy,medium,EVAL-001460,0,,,en,Giridih
+EVAL-000288,Food & PDS,dealer_closed,medium,EVAL-000288,0,,,hi,Garhwa
+EVAL-000776,Sanitation & Waste,open_drain,medium,EVAL-000776,0,,,hi,Koderma
+EVAL-001523,Education,school_roof,high,EVAL-001523,0,,,hi,Latehar
+EVAL-000102,Safety & Environment,industrial_dust,high,EVAL-000102,0,,,en,Bokaro
+EVAL-001090,Land & Revenue,parcha_copy,low,EVAL-001090,0,,,hi,Deoghar
+EVAL-000297,Food & PDS,new_ration_card,medium,EVAL-000297,0,,,hi,Seraikela-Kharsawan
+EVAL-000261,Safety & Environment,flood_drainage,critical,EVAL-000261,0,,,hinglish,Gumla
+EVAL-001834,Education,school_toilet,critical,EVAL-000901,1,exact,EVAL-000901,hi,Seraikela-Kharsawan
+EVAL-000687,Sanitation & Waste,drain_overflow,critical,EVAL-000687,0,,,hi,Pakur
+EVAL-000050,Healthcare,anm_vacancy,high,EVAL-000050,0,,,hinglish,Garhwa
+EVAL-001271,Education,boundary_wall,critical,EVAL-001271,0,,,en,Palamu
+EVAL-001217,Sanitation & Waste,public_toilet_water,high,EVAL-001217,0,,,en,West Singhbhum
+EVAL-001912,Education,midday_meal,high,EVAL-000066,1,near,EVAL-000066,hi,Ranchi
+EVAL-001273,Employment & Livelihoods,wage_delay_contract,low,EVAL-001273,0,,,hi,Bokaro
+EVAL-000869,Employment & Livelihoods,wage_delay_contract,medium,EVAL-000869,0,,,hi,West Singhbhum
+EVAL-001218,Agriculture & Irrigation,mandi_procurement,high,EVAL-001218,0,,,en,Dhanbad
+EVAL-001800,Education,textbooks_delay,low,EVAL-001800,0,,,en,Palamu
+EVAL-001182,Welfare & Pensions,mgnrega_wages,high,EVAL-001182,0,,,en,Seraikela-Kharsawan
+EVAL-000828,Healthcare,medicine_stock,critical,EVAL-000828,0,,,hinglish,Seraikela-Kharsawan
+EVAL-000069,Employment & Livelihoods,migration_support,high,EVAL-000069,0,,,en,Gumla
+EVAL-000919,Water Supply,water_testing,high,EVAL-000919,0,,,hi,Sahibganj
+EVAL-001455,Electricity,bill_error,medium,EVAL-001455,0,,,en,Palamu
+EVAL-000858,Education,textbooks_delay,low,EVAL-000858,0,,,hi,Bokaro
+EVAL-000361,Welfare & Pensions,mgnrega_wages,medium,EVAL-000361,0,,,en,Bokaro
+EVAL-001140,Agriculture & Irrigation,crop_insurance,medium,EVAL-001140,0,,,en,Sahibganj
+EVAL-001872,Land & Revenue,public_land_encroachment,medium,EVAL-000204,1,near,EVAL-000204,en,Dhanbad
+EVAL-000775,Healthcare,medicine_stock,high,EVAL-000775,0,,,hi,Jamtara
+EVAL-000234,Welfare & Pensions,widow_pension,low,EVAL-000234,0,,,en,Lohardaga
+EVAL-001112,Agriculture & Irrigation,fertiliser_shop,high,EVAL-001112,0,,,hinglish,Bokaro
+EVAL-001152,Welfare & Pensions,ration_card_cancel,medium,EVAL-001152,0,,,en,Hazaribagh
+EVAL-001604,Welfare & Pensions,mgnrega_wages,high,EVAL-001604,0,,,hi,Bokaro
+EVAL-000182,Welfare & Pensions,disability_certificate,medium,EVAL-000182,0,,,en,Dhanbad
+EVAL-000912,Employment & Livelihoods,migration_support,medium,EVAL-000912,0,,,hi,Khunti
+EVAL-001422,Employment & Livelihoods,migration_support,low,EVAL-001422,0,,,hi,Sahibganj
+EVAL-000075,Education,textbooks_delay,medium,EVAL-000075,0,,,hinglish,Garhwa
+EVAL-000607,Healthcare,ambulance_delay,medium,EVAL-000607,0,,,hi,Palamu
+EVAL-000073,Welfare & Pensions,pension_delay,high,EVAL-000073,0,,,en,Dhanbad
+EVAL-000734,Employment & Livelihoods,skill_training,low,EVAL-000734,0,,,hi,Hazaribagh
+EVAL-001393,Roads & Connectivity,road_potholes,high,EVAL-001393,0,,,hi,Sahibganj
+EVAL-001326,Education,boundary_wall,medium,EVAL-001326,0,,,en,Palamu
+EVAL-001335,Welfare & Pensions,scholarship_delay,low,EVAL-001335,0,,,hi,Dhanbad
+EVAL-001949,Food & PDS,dealer_closed,low,EVAL-001436,1,near,EVAL-001436,en,Godda
+EVAL-001395,Food & PDS,dealer_closed,high,EVAL-001395,0,,,en,Hazaribagh
+EVAL-001857,Welfare & Pensions,disability_certificate,medium,EVAL-000415,1,near,EVAL-000415,hinglish,Seraikela-Kharsawan
+EVAL-001558,Safety & Environment,police_response,critical,EVAL-001558,0,,,hinglish,Hazaribagh
+EVAL-001233,Sanitation & Waste,open_drain,critical,EVAL-001233,0,,,hinglish,Ranchi
+EVAL-001931,Education,school_toilet,medium,EVAL-001309,1,near,EVAL-001309,en,East Singhbhum
+EVAL-000885,Roads & Connectivity,bus_service,medium,EVAL-000885,0,,,hi,Dumka
+EVAL-001476,Employment & Livelihoods,wage_delay_contract,high,EVAL-001476,0,,,en,Dumka
+EVAL-000253,Roads & Connectivity,culvert_damage,medium,EVAL-000253,0,,,en,Giridih
+EVAL-001064,Welfare & Pensions,disability_certificate,high,EVAL-001064,0,,,hi,Hazaribagh
+EVAL-000694,Agriculture & Irrigation,canal_irrigation,medium,EVAL-000694,0,,,hi,Dhanbad
+EVAL-001559,Education,textbooks_delay,high,EVAL-001559,0,,,hinglish,Garhwa
+EVAL-000195,Land & Revenue,parcha_copy,high,EVAL-000195,0,,,en,Sahibganj
+EVAL-001839,Healthcare,cold_chain,medium,EVAL-000531,1,exact,EVAL-000531,hinglish,Dhanbad
+EVAL-001005,Healthcare,ambulance_delay,medium,EVAL-001005,0,,,en,Dhanbad
+EVAL-001193,Electricity,meter_pending,medium,EVAL-001193,0,,,hi,Seraikela-Kharsawan
+EVAL-001690,Welfare & Pensions,scholarship_delay,low,EVAL-001690,0,,,hi,Sahibganj
+EVAL-000782,Food & PDS,ration_shortweight,high,EVAL-000782,0,,,hinglish,Giridih
+EVAL-001674,Water Supply,handpump_dry,critical,EVAL-001674,0,,,hi,West Singhbhum
+EVAL-001447,Welfare & Pensions,disability_certificate,medium,EVAL-001447,0,,,hi,Giridih
+EVAL-000737,Land & Revenue,boundary_demarcation,medium,EVAL-000737,0,,,hi,Deoghar
+EVAL-001223,Welfare & Pensions,disability_certificate,high,EVAL-001223,0,,,hi,Ranchi
+EVAL-001103,Sanitation & Waste,public_toilet_water,high,EVAL-001103,0,,,en,Palamu
+EVAL-000545,Welfare & Pensions,disability_certificate,critical,EVAL-000545,0,,,hi,Ranchi
+EVAL-001833,Agriculture & Irrigation,canal_irrigation,high,EVAL-000078,1,exact,EVAL-000078,en,Hazaribagh
+EVAL-001144,Safety & Environment,illegal_liquor,critical,EVAL-001144,0,,,en,Gumla
+EVAL-001433,Education,school_roof,critical,EVAL-001433,0,,,hinglish,Hazaribagh
+EVAL-001508,Land & Revenue,land_record_error,medium,EVAL-001508,0,,,hinglish,Simdega
+EVAL-001730,Welfare & Pensions,mgnrega_wages,high,EVAL-001730,0,,,hi,Bokaro
+EVAL-000404,Water Supply,tap_no_supply,high,EVAL-000404,0,,,hinglish,East Singhbhum
+EVAL-000967,Education,school_electricity,low,EVAL-000967,0,,,en,Ramgarh
+EVAL-001734,Food & PDS,ration_shortweight,high,EVAL-001734,0,,,en,Bokaro
+EVAL-001403,Water Supply,tap_no_supply,medium,EVAL-001403,0,,,hinglish,Giridih
+EVAL-000308,Food & PDS,aadhaar_seeding,low,EVAL-000308,0,,,en,Lohardaga
+EVAL-001680,Safety & Environment,industrial_dust,high,EVAL-001680,0,,,en,Bokaro
+EVAL-001950,Water Supply,tanker_delay,medium,EVAL-001585,1,near,EVAL-001585,en,West Singhbhum
+EVAL-001128,Education,school_toilet,high,EVAL-001128,0,,,en,Ranchi
+EVAL-001131,Safety & Environment,police_response,high,EVAL-001131,0,,,hinglish,Dumka
+EVAL-000260,Employment & Livelihoods,wage_delay_contract,high,EVAL-000260,0,,,hinglish,West Singhbhum
+EVAL-000794,Healthcare,ambulance_delay,critical,EVAL-000794,0,,,hi,Godda
+EVAL-000639,Healthcare,ambulance_delay,low,EVAL-000639,0,,,hi,Dhanbad
+EVAL-000569,Food & PDS,aadhaar_seeding,medium,EVAL-000569,0,,,hi,Ranchi
+EVAL-000256,Safety & Environment,flood_drainage,critical,EVAL-000256,0,,,en,Gumla
+EVAL-000187,Agriculture & Irrigation,seed_supply,high,EVAL-000187,0,,,hinglish,Godda
+EVAL-000599,Education,teacher_vacancy,medium,EVAL-000599,0,,,hi,Dhanbad
+EVAL-000096,Healthcare,phc_no_doctor,critical,EVAL-000096,0,,,hinglish,Bokaro
+EVAL-000279,Safety & Environment,womens_safety,high,EVAL-000279,0,,,hi,West Singhbhum
+EVAL-001765,Education,midday_meal,low,EVAL-001765,0,,,en,Dhanbad
+EVAL-001547,Water Supply,public_well,low,EVAL-001547,0,,,en,Khunti
+EVAL-001731,Land & Revenue,mutation_delay,low,EVAL-001731,0,,,hi,Seraikela-Kharsawan
+EVAL-001254,Food & PDS,aadhaar_seeding,low,EVAL-001254,0,,,en,Bokaro
+EVAL-001317,Electricity,meter_pending,critical,EVAL-001317,0,,,hinglish,East Singhbhum
+EVAL-001639,Roads & Connectivity,bus_service,low,EVAL-001639,0,,,hinglish,West Singhbhum
+EVAL-001532,Welfare & Pensions,scholarship_delay,critical,EVAL-001532,0,,,hi,Dumka
+EVAL-000085,Roads & Connectivity,culvert_damage,critical,EVAL-000085,0,,,hi,Dhanbad
+EVAL-001879,Safety & Environment,illegal_liquor,critical,EVAL-000854,1,near,EVAL-000854,hi,Pakur
+EVAL-000438,Land & Revenue,public_land_encroachment,low,EVAL-000438,0,,,en,Sahibganj
+EVAL-001125,Agriculture & Irrigation,mandi_procurement,medium,EVAL-001125,0,,,hinglish,Sahibganj
+EVAL-000490,Food & PDS,aadhaar_seeding,medium,EVAL-000490,0,,,hi,Palamu
+EVAL-001256,Welfare & Pensions,pension_delay,critical,EVAL-001256,0,,,hi,Khunti
+EVAL-001963,Electricity,feeder_outage,high,EVAL-001215,1,near,EVAL-001215,hi,Dhanbad
+EVAL-001381,Electricity,low_voltage,low,EVAL-001381,0,,,hi,Deoghar
+EVAL-000746,Food & PDS,ration_shortweight,medium,EVAL-000746,0,,,en,East Singhbhum
+EVAL-001670,Sanitation & Waste,drain_overflow,critical,EVAL-001670,0,,,hi,Godda
+EVAL-001434,Food & PDS,ration_shortweight,critical,EVAL-001434,0,,,en,Ramgarh
+EVAL-001473,Healthcare,ambulance_delay,high,EVAL-001473,0,,,hinglish,Khunti
+EVAL-001930,Safety & Environment,cyber_fraud,medium,EVAL-000540,1,near,EVAL-000540,hinglish,Godda
+EVAL-001153,Electricity,solar_streetlight,medium,EVAL-001153,0,,,en,Ranchi
+EVAL-000642,Food & PDS,dealer_closed,high,EVAL-000642,0,,,hi,Deoghar
+EVAL-000604,Healthcare,anganwadi_supply,medium,EVAL-000604,0,,,en,Palamu
+EVAL-001066,Land & Revenue,land_record_error,medium,EVAL-001066,0,,,hi,Dumka
+EVAL-000374,Sanitation & Waste,public_toilet_water,high,EVAL-000374,0,,,en,Seraikela-Kharsawan
+EVAL-001901,Healthcare,ambulance_delay,critical,EVAL-000109,1,near,EVAL-000109,hinglish,Giridih
+EVAL-001129,Roads & Connectivity,bridge_damage,critical,EVAL-001129,0,,,en,Ranchi
+EVAL-000879,Electricity,low_voltage,critical,EVAL-000879,0,,,hi,Godda
+EVAL-000691,Healthcare,health_camp,high,EVAL-000691,0,,,hi,Garhwa
+EVAL-000866,Safety & Environment,flood_drainage,critical,EVAL-000866,0,,,hi,Ranchi
+EVAL-000159,Agriculture & Irrigation,seed_supply,critical,EVAL-000159,0,,,en,Seraikela-Kharsawan
+EVAL-000043,Roads & Connectivity,bus_service,medium,EVAL-000043,0,,,en,East Singhbhum
+EVAL-001937,Food & PDS,new_ration_card,high,EVAL-000129,1,near,EVAL-000129,hinglish,Giridih
+EVAL-000387,Sanitation & Waste,toilet_blocked,critical,EVAL-000387,0,,,hinglish,Simdega
+EVAL-000619,Food & PDS,dealer_closed,high,EVAL-000619,0,,,en,Dumka
+EVAL-000633,Welfare & Pensions,disability_certificate,low,EVAL-000633,0,,,en,Pakur
+EVAL-001702,Safety & Environment,illegal_liquor,medium,EVAL-001702,0,,,en,Palamu
+EVAL-000206,Welfare & Pensions,widow_pension,high,EVAL-000206,0,,,hi,Dhanbad
+EVAL-001095,Land & Revenue,public_land_encroachment,high,EVAL-001095,0,,,en,Giridih
+EVAL-001916,Food & PDS,pds_portability,medium,EVAL-001607,1,near,EVAL-001607,en,Dumka
+EVAL-001423,Electricity,solar_streetlight,critical,EVAL-001423,0,,,hi,Seraikela-Kharsawan
+EVAL-001400,Healthcare,anm_vacancy,medium,EVAL-001400,0,,,hi,Dhanbad
+EVAL-000733,Healthcare,ambulance_delay,critical,EVAL-000733,0,,,hi,Palamu
+EVAL-000966,Employment & Livelihoods,skill_training,low,EVAL-000966,0,,,hi,Sahibganj
+EVAL-000231,Electricity,transformer_burnt,high,EVAL-000231,0,,,hi,Gumla
+EVAL-000111,Welfare & Pensions,scholarship_delay,high,EVAL-000111,0,,,hi,Khunti
+EVAL-000959,Food & PDS,grain_quality,high,EVAL-000959,0,,,hi,Sahibganj
+EVAL-001836,Agriculture & Irrigation,mandi_procurement,low,EVAL-000632,1,exact,EVAL-000632,hinglish,Dhanbad
+EVAL-000628,Agriculture & Irrigation,mandi_procurement,high,EVAL-000628,0,,,hinglish,Jamtara
+EVAL-000286,Land & Revenue,mutation_delay,critical,EVAL-000286,0,,,hi,West Singhbhum
+EVAL-001530,Welfare & Pensions,mgnrega_wages,critical,EVAL-001530,0,,,en,Palamu
+EVAL-000517,Water Supply,water_quality,medium,EVAL-000517,0,,,en,Khunti
+EVAL-001758,Sanitation & Waste,public_toilet_water,critical,EVAL-001758,0,,,en,Ramgarh
+EVAL-001659,Land & Revenue,boundary_demarcation,low,EVAL-001659,0,,,hi,Latehar
+EVAL-000653,Sanitation & Waste,public_toilet_water,medium,EVAL-000653,0,,,hi,Ranchi
+EVAL-001696,Sanitation & Waste,drain_overflow,medium,EVAL-001696,0,,,hi,Ranchi
+EVAL-000196,Education,school_electricity,low,EVAL-000196,0,,,en,Hazaribagh
+EVAL-001575,Roads & Connectivity,bridge_damage,critical,EVAL-001575,0,,,en,Dumka
+EVAL-000402,Education,teacher_vacancy,medium,EVAL-000402,0,,,hi,Hazaribagh
+EVAL-000732,Roads & Connectivity,streetlight_road,high,EVAL-000732,0,,,hinglish,Palamu
+EVAL-000209,Water Supply,water_testing,low,EVAL-000209,0,,,en,Giridih
+EVAL-000699,Welfare & Pensions,widow_pension,high,EVAL-000699,0,,,hi,Hazaribagh
+EVAL-001616,Roads & Connectivity,bus_service,medium,EVAL-001616,0,,,en,Simdega
+EVAL-001985,Sanitation & Waste,open_drain,medium,EVAL-001044,1,near,EVAL-001044,hi,Lohardaga
+EVAL-000476,Healthcare,anm_vacancy,medium,EVAL-000476,0,,,hinglish,Dumka
+EVAL-000904,Roads & Connectivity,streetlight_road,medium,EVAL-000904,0,,,en,Giridih
+EVAL-000547,Agriculture & Irrigation,canal_irrigation,medium,EVAL-000547,0,,,hi,Lohardaga
+EVAL-001419,Water Supply,water_quality,critical,EVAL-001419,0,,,hi,Giridih
+EVAL-001781,Roads & Connectivity,road_potholes,low,EVAL-001781,0,,,hi,Ranchi
+EVAL-001474,Employment & Livelihoods,migration_support,low,EVAL-001474,0,,,en,Ramgarh
+EVAL-001669,Agriculture & Irrigation,crop_insurance,high,EVAL-001669,0,,,hi,Sahibganj
+EVAL-001002,Roads & Connectivity,bus_service,low,EVAL-001002,0,,,hi,East Singhbhum
+EVAL-000831,Roads & Connectivity,bridge_damage,medium,EVAL-000831,0,,,hi,East Singhbhum
+EVAL-000131,Water Supply,tap_no_supply,critical,EVAL-000131,0,,,en,Dhanbad
+EVAL-001291,Food & PDS,ration_shortweight,high,EVAL-001291,0,,,en,Gumla
+EVAL-001610,Healthcare,anganwadi_supply,medium,EVAL-001610,0,,,en,Simdega
+EVAL-000136,Water Supply,handpump_dry,medium,EVAL-000136,0,,,hinglish,Koderma
+EVAL-001655,Roads & Connectivity,streetlight_road,high,EVAL-001655,0,,,en,East Singhbhum
+EVAL-001134,Land & Revenue,registry_appointment,low,EVAL-001134,0,,,hi,Khunti
+EVAL-001177,Employment & Livelihoods,skill_training,low,EVAL-001177,0,,,en,Chatra
+EVAL-001470,Electricity,low_voltage,medium,EVAL-001470,0,,,en,East Singhbhum
+EVAL-001842,Roads & Connectivity,culvert_damage,high,EVAL-000435,1,near,EVAL-000435,hinglish,Pakur
+EVAL-001546,Roads & Connectivity,bridge_damage,critical,EVAL-001546,0,,,hinglish,Deoghar
+EVAL-001579,Safety & Environment,flood_drainage,high,EVAL-001579,0,,,hi,Godda
+EVAL-001450,Water Supply,water_quality,critical,EVAL-001450,0,,,en,Pakur
+EVAL-001126,Electricity,transformer_burnt,high,EVAL-001126,0,,,en,Seraikela-Kharsawan
+EVAL-001645,Safety & Environment,police_response,high,EVAL-001645,0,,,en,Bokaro
+EVAL-000249,Healthcare,cold_chain,high,EVAL-000249,0,,,hi,Seraikela-Kharsawan
+EVAL-001863,Food & PDS,grain_quality,medium,EVAL-001003,1,near,EVAL-001003,en,Chatra
+EVAL-001339,Sanitation & Waste,toilet_blocked,high,EVAL-001339,0,,,hinglish,Hazaribagh
+EVAL-000591,Food & PDS,ration_shortweight,high,EVAL-000591,0,,,hi,Ranchi
+EVAL-000839,Welfare & Pensions,ration_card_cancel,high,EVAL-000839,0,,,hi,Bokaro
+EVAL-000323,Healthcare,phc_no_doctor,critical,EVAL-000323,0,,,en,Ranchi
+EVAL-001999,Safety & Environment,police_response,high,EVAL-000963,1,near,EVAL-000963,hi,East Singhbhum
+EVAL-000651,Safety & Environment,womens_safety,critical,EVAL-000651,0,,,hinglish,Ranchi
+EVAL-000147,Healthcare,cold_chain,critical,EVAL-000147,0,,,hi,Sahibganj
+EVAL-001227,Water Supply,water_testing,medium,EVAL-001227,0,,,en,Palamu
+EVAL-001117,Food & PDS,new_ration_card,medium,EVAL-001117,0,,,hi,Bokaro
+EVAL-001380,Roads & Connectivity,bridge_damage,medium,EVAL-001380,0,,,hinglish,Latehar
+EVAL-001646,Water Supply,handpump_dry,high,EVAL-001646,0,,,hi,Giridih
+EVAL-001656,Employment & Livelihoods,migration_support,critical,EVAL-001656,0,,,hi,Bokaro
+EVAL-001208,Welfare & Pensions,scholarship_delay,medium,EVAL-001208,0,,,hinglish,Dumka
+EVAL-001860,Agriculture & Irrigation,borewell_irrigation,high,EVAL-000894,1,near,EVAL-000894,hi,Pakur
+EVAL-001780,Food & PDS,aadhaar_seeding,high,EVAL-001780,0,,,hi,Palamu
+EVAL-000901,Education,school_toilet,critical,EVAL-000901,0,,,hi,Seraikela-Kharsawan
+EVAL-000714,Roads & Connectivity,culvert_damage,critical,EVAL-000714,0,,,hi,Godda
+EVAL-001748,Food & PDS,ration_shortweight,medium,EVAL-001748,0,,,en,Chatra
+EVAL-000276,Electricity,meter_pending,medium,EVAL-000276,0,,,en,Ramgarh
+EVAL-001986,Welfare & Pensions,pension_delay,medium,EVAL-001437,1,near,EVAL-001437,en,East Singhbhum
+EVAL-000709,Employment & Livelihoods,migration_support,high,EVAL-000709,0,,,en,Chatra
+EVAL-001802,Healthcare,ambulance_delay,medium,EVAL-000607,1,exact,EVAL-000607,hi,Palamu
+EVAL-001817,Safety & Environment,womens_safety,medium,EVAL-000112,1,exact,EVAL-000112,hinglish,Deoghar
+EVAL-000811,Safety & Environment,industrial_dust,critical,EVAL-000811,0,,,en,Giridih
+EVAL-001500,Agriculture & Irrigation,canal_irrigation,critical,EVAL-001500,0,,,en,Palamu
+EVAL-001636,Welfare & Pensions,widow_pension,medium,EVAL-001636,0,,,en,Hazaribagh
+EVAL-000229,Land & Revenue,registry_appointment,medium,EVAL-000229,0,,,hinglish,Simdega
+EVAL-000199,Roads & Connectivity,roadside_drain,low,EVAL-000199,0,,,hi,Seraikela-Kharsawan
+EVAL-001885,Agriculture & Irrigation,fertiliser_shop,low,EVAL-000470,1,near,EVAL-000470,en,Gumla
+EVAL-001109,Land & Revenue,mutation_delay,medium,EVAL-001109,0,,,hi,East Singhbhum
+EVAL-001184,Employment & Livelihoods,job_card,low,EVAL-001184,0,,,en,Bokaro
+EVAL-000968,Welfare & Pensions,pension_delay,critical,EVAL-000968,0,,,hi,Giridih
+EVAL-000101,Land & Revenue,boundary_demarcation,high,EVAL-000101,0,,,hi,Khunti
+EVAL-000787,Education,school_roof,medium,EVAL-000787,0,,,hi,Palamu
+EVAL-001043,Healthcare,health_camp,high,EVAL-001043,0,,,hi,Khunti
+EVAL-000867,Food & PDS,new_ration_card,medium,EVAL-000867,0,,,hi,Giridih
+EVAL-001890,Water Supply,tanker_delay,critical,EVAL-000701,1,near,EVAL-000701,hinglish,Jamtara
+EVAL-000154,Welfare & Pensions,ration_card_cancel,high,EVAL-000154,0,,,hinglish,Bokaro
+EVAL-001631,Safety & Environment,illegal_liquor,critical,EVAL-001631,0,,,hi,Pakur
+EVAL-001562,Electricity,low_voltage,medium,EVAL-001562,0,,,hi,Pakur
+EVAL-001121,Agriculture & Irrigation,canal_irrigation,medium,EVAL-001121,0,,,en,Dhanbad
+EVAL-001078,Safety & Environment,womens_safety,medium,EVAL-001078,0,,,hi,Khunti
+EVAL-000955,Education,textbooks_delay,low,EVAL-000955,0,,,hi,Ramgarh
+EVAL-000813,Safety & Environment,flood_drainage,critical,EVAL-000813,0,,,en,Bokaro
+EVAL-000098,Electricity,bill_error,high,EVAL-000098,0,,,hi,Seraikela-Kharsawan
+EVAL-001785,Healthcare,phc_no_doctor,critical,EVAL-001785,0,,,en,East Singhbhum
+EVAL-000224,Employment & Livelihoods,skill_training,low,EVAL-000224,0,,,hinglish,Ranchi
+EVAL-001428,Agriculture & Irrigation,crop_insurance,medium,EVAL-001428,0,,,hinglish,Garhwa
+EVAL-001779,Education,midday_meal,high,EVAL-001779,0,,,en,Giridih
+EVAL-000226,Sanitation & Waste,open_drain,high,EVAL-000226,0,,,hinglish,Dhanbad
+EVAL-000227,Healthcare,medicine_stock,medium,EVAL-000227,0,,,hi,Giridih
+EVAL-001253,Electricity,transformer_burnt,critical,EVAL-001253,0,,,hi,Hazaribagh
+EVAL-001290,Sanitation & Waste,open_drain,medium,EVAL-001290,0,,,hi,Godda
+EVAL-001352,Safety & Environment,police_response,high,EVAL-001352,0,,,hi,Deoghar
+EVAL-000500,Roads & Connectivity,road_potholes,high,EVAL-000500,0,,,hinglish,West Singhbhum
+EVAL-000673,Agriculture & Irrigation,seed_supply,high,EVAL-000673,0,,,hinglish,Sahibganj
+EVAL-000314,Education,school_roof,low,EVAL-000314,0,,,en,Lohardaga
+EVAL-000696,Sanitation & Waste,garbage_collection,high,EVAL-000696,0,,,hi,Latehar
+EVAL-001187,Electricity,transformer_burnt,critical,EVAL-001187,0,,,hi,Ranchi
+EVAL-001170,Electricity,bill_error,low,EVAL-001170,0,,,en,Deoghar
+EVAL-001721,Roads & Connectivity,road_potholes,high,EVAL-001721,0,,,hi,Seraikela-Kharsawan
+EVAL-000728,Healthcare,health_camp,critical,EVAL-000728,0,,,hi,Giridih
+EVAL-001286,Agriculture & Irrigation,borewell_irrigation,low,EVAL-001286,0,,,en,Simdega
+EVAL-001989,Land & Revenue,mutation_delay,high,EVAL-001188,1,near,EVAL-001188,hi,Dhanbad
+EVAL-000731,Agriculture & Irrigation,borewell_irrigation,critical,EVAL-000731,0,,,hi,Seraikela-Kharsawan
+EVAL-000391,Education,boundary_wall,low,EVAL-000391,0,,,en,Giridih
+EVAL-000462,Employment & Livelihoods,migration_support,low,EVAL-000462,0,,,hi,Deoghar
+EVAL-001486,Healthcare,ambulance_delay,medium,EVAL-001486,0,,,hinglish,Dhanbad
+EVAL-000198,Sanitation & Waste,drain_overflow,high,EVAL-000198,0,,,hi,East Singhbhum
+EVAL-001774,Water Supply,water_quality,high,EVAL-001774,0,,,hi,Palamu
+EVAL-001563,Food & PDS,pds_portability,medium,EVAL-001563,0,,,hinglish,Giridih
+EVAL-000608,Education,boundary_wall,high,EVAL-000608,0,,,hinglish,Deoghar
+EVAL-000184,Sanitation & Waste,toilet_blocked,medium,EVAL-000184,0,,,en,West Singhbhum
+EVAL-000856,Healthcare,ambulance_delay,critical,EVAL-000856,0,,,hi,Khunti
+EVAL-001733,Water Supply,public_well,critical,EVAL-001733,0,,,en,Palamu
+EVAL-001240,Sanitation & Waste,public_toilet_water,critical,EVAL-001240,0,,,en,Seraikela-Kharsawan
+EVAL-001675,Sanitation & Waste,drain_overflow,high,EVAL-001675,0,,,en,West Singhbhum
+EVAL-000562,Food & PDS,pds_portability,high,EVAL-000562,0,,,hi,Latehar
+EVAL-000052,Roads & Connectivity,roadside_drain,medium,EVAL-000052,0,,,en,Bokaro
+EVAL-000160,Employment & Livelihoods,job_card,high,EVAL-000160,0,,,en,Khunti
+EVAL-001011,Food & PDS,new_ration_card,low,EVAL-001011,0,,,hinglish,Godda
+EVAL-000221,Agriculture & Irrigation,seed_supply,critical,EVAL-000221,0,,,en,Hazaribagh
+EVAL-001282,Welfare & Pensions,scholarship_delay,high,EVAL-001282,0,,,hinglish,East Singhbhum
+EVAL-001026,Land & Revenue,land_record_error,critical,EVAL-001026,0,,,hi,Garhwa
+EVAL-001331,Sanitation & Waste,open_drain,critical,EVAL-001331,0,,,hinglish,Palamu
+EVAL-001221,Agriculture & Irrigation,crop_insurance,medium,EVAL-001221,0,,,en,Ranchi
+EVAL-001154,Water Supply,water_testing,low,EVAL-001154,0,,,hinglish,Hazaribagh
+EVAL-001865,Employment & Livelihoods,job_card,low,EVAL-001184,1,near,EVAL-001184,en,Bokaro
+EVAL-000225,Water Supply,tanker_delay,high,EVAL-000225,0,,,hinglish,East Singhbhum
+EVAL-001230,Welfare & Pensions,mgnrega_wages,high,EVAL-001230,0,,,en,Hazaribagh
+EVAL-001970,Electricity,bill_error,medium,EVAL-000692,1,near,EVAL-000692,hinglish,Godda
+EVAL-000449,Food & PDS,new_ration_card,low,EVAL-000449,0,,,hi,Sahibganj
+EVAL-001591,Agriculture & Irrigation,mandi_procurement,medium,EVAL-001591,0,,,hi,Koderma
+EVAL-000070,Land & Revenue,mutation_delay,high,EVAL-000070,0,,,hi,Godda
+EVAL-001300,Land & Revenue,registry_appointment,critical,EVAL-001300,0,,,hi,West Singhbhum
+EVAL-000459,Land & Revenue,mutation_delay,high,EVAL-000459,0,,,en,Ranchi
+EVAL-000937,Roads & Connectivity,roadside_drain,medium,EVAL-000937,0,,,hinglish,East Singhbhum
+EVAL-000094,Welfare & Pensions,disability_certificate,critical,EVAL-000094,0,,,hi,Garhwa
+EVAL-001175,Roads & Connectivity,bridge_damage,critical,EVAL-001175,0,,,hinglish,Godda
+EVAL-000371,Welfare & Pensions,ration_card_cancel,medium,EVAL-000371,0,,,hi,Simdega
+EVAL-000510,Employment & Livelihoods,skill_training,medium,EVAL-000510,0,,,hi,Ranchi
+EVAL-001518,Welfare & Pensions,mgnrega_wages,medium,EVAL-001518,0,,,en,Dhanbad
+EVAL-001174,Electricity,feeder_outage,medium,EVAL-001174,0,,,hi,Giridih
+EVAL-001167,Electricity,transformer_burnt,critical,EVAL-001167,0,,,en,Palamu
+EVAL-001786,Welfare & Pensions,scholarship_delay,low,EVAL-001786,0,,,en,Dhanbad
+EVAL-000645,Sanitation & Waste,garbage_collection,low,EVAL-000645,0,,,hinglish,Ranchi
+EVAL-001373,Water Supply,water_testing,medium,EVAL-001373,0,,,en,Deoghar
+EVAL-000827,Water Supply,handpump_dry,high,EVAL-000827,0,,,hi,Garhwa
+EVAL-000379,Education,school_toilet,high,EVAL-000379,0,,,hi,Khunti
+EVAL-000027,Education,boundary_wall,medium,EVAL-000027,0,,,hinglish,Jamtara
+EVAL-000034,Education,teacher_vacancy,critical,EVAL-000034,0,,,hinglish,Bokaro
+EVAL-001853,Electricity,low_voltage,low,EVAL-001381,1,near,EVAL-001381,hi,Deoghar
+EVAL-001708,Sanitation & Waste,open_drain,high,EVAL-001708,0,,,hi,Dumka
+EVAL-001402,Water Supply,public_well,critical,EVAL-001402,0,,,en,Dhanbad
+EVAL-001365,Employment & Livelihoods,job_card,low,EVAL-001365,0,,,en,Deoghar
+EVAL-001960,Sanitation & Waste,toilet_blocked,medium,EVAL-000138,1,near,EVAL-000138,hinglish,Simdega
+EVAL-000386,Electricity,feeder_outage,critical,EVAL-000386,0,,,en,Jamtara
+EVAL-000914,Sanitation & Waste,open_drain,medium,EVAL-000914,0,,,hi,West Singhbhum
+EVAL-001169,Water Supply,tap_no_supply,high,EVAL-001169,0,,,hi,Bokaro
+EVAL-001502,Sanitation & Waste,public_toilet_water,high,EVAL-001502,0,,,en,Ranchi
+EVAL-001023,Safety & Environment,womens_safety,high,EVAL-001023,0,,,hi,Dhanbad
+EVAL-001828,Education,school_roof,medium,EVAL-000581,1,exact,EVAL-000581,en,Godda
+EVAL-000578,Welfare & Pensions,ration_card_cancel,high,EVAL-000578,0,,,hi,Ranchi
+EVAL-000675,Welfare & Pensions,ration_card_cancel,high,EVAL-000675,0,,,hinglish,Simdega
+EVAL-000453,Healthcare,anm_vacancy,medium,EVAL-000453,0,,,en,Gumla
+EVAL-001076,Agriculture & Irrigation,mandi_procurement,high,EVAL-001076,0,,,hi,Deoghar
+EVAL-001179,Education,school_roof,medium,EVAL-001179,0,,,en,Godda
+EVAL-001359,Employment & Livelihoods,wage_delay_contract,high,EVAL-001359,0,,,hi,Ramgarh
+EVAL-001338,Safety & Environment,cyber_fraud,low,EVAL-001338,0,,,en,Latehar
+EVAL-000849,Land & Revenue,land_record_error,critical,EVAL-000849,0,,,hi,Palamu
+EVAL-001750,Water Supply,handpump_dry,medium,EVAL-001750,0,,,hi,Giridih
+EVAL-000381,Electricity,solar_streetlight,low,EVAL-000381,0,,,en,West Singhbhum
+EVAL-000100,Roads & Connectivity,roadside_drain,high,EVAL-000100,0,,,hinglish,East Singhbhum
+EVAL-000407,Food & PDS,aadhaar_seeding,low,EVAL-000407,0,,,hi,Latehar
+EVAL-000090,Food & PDS,pds_portability,high,EVAL-000090,0,,,hinglish,Dhanbad
+EVAL-001914,Employment & Livelihoods,migration_support,medium,EVAL-000223,1,near,EVAL-000223,hinglish,Palamu
+EVAL-001666,Roads & Connectivity,streetlight_road,medium,EVAL-001666,0,,,hi,Palamu
+EVAL-000309,Agriculture & Irrigation,seed_supply,medium,EVAL-000309,0,,,hi,West Singhbhum
+EVAL-001243,Sanitation & Waste,toilet_blocked,high,EVAL-001243,0,,,en,Palamu
+EVAL-001608,Food & PDS,aadhaar_seeding,critical,EVAL-001608,0,,,hinglish,Giridih
+EVAL-000201,Water Supply,public_well,low,EVAL-000201,0,,,hinglish,Ranchi
+EVAL-001581,Education,midday_meal,high,EVAL-001581,0,,,en,Ranchi
+EVAL-000660,Water Supply,water_testing,medium,EVAL-000660,0,,,en,West Singhbhum
+EVAL-001524,Employment & Livelihoods,job_card,high,EVAL-001524,0,,,hi,West Singhbhum
+EVAL-000763,Land & Revenue,mutation_delay,medium,EVAL-000763,0,,,hi,East Singhbhum
+EVAL-000303,Food & PDS,new_ration_card,low,EVAL-000303,0,,,en,Ranchi
+EVAL-000274,Safety & Environment,police_response,high,EVAL-000274,0,,,en,Palamu
+EVAL-001295,Safety & Environment,womens_safety,critical,EVAL-001295,0,,,hi,Ranchi
+EVAL-001852,Education,boundary_wall,high,EVAL-001536,1,near,EVAL-001536,hinglish,West Singhbhum
+EVAL-001526,Education,school_roof,critical,EVAL-001526,0,,,hi,Pakur
+EVAL-000741,Education,teacher_vacancy,medium,EVAL-000741,0,,,en,Godda
+EVAL-000971,Education,boundary_wall,medium,EVAL-000971,0,,,hinglish,Koderma
+EVAL-000906,Roads & Connectivity,bridge_damage,critical,EVAL-000906,0,,,en,Khunti
+EVAL-001764,Agriculture & Irrigation,seed_supply,medium,EVAL-001764,0,,,en,Simdega
+EVAL-000461,Food & PDS,aadhaar_seeding,high,EVAL-000461,0,,,en,Simdega
+EVAL-001638,Agriculture & Irrigation,seed_supply,high,EVAL-001638,0,,,en,Deoghar
+EVAL-001250,Food & PDS,dealer_closed,medium,EVAL-001250,0,,,hi,Pakur
+EVAL-000594,Welfare & Pensions,scholarship_delay,medium,EVAL-000594,0,,,en,Jamtara
+EVAL-001613,Welfare & Pensions,pension_delay,high,EVAL-001613,0,,,en,Simdega
+EVAL-000983,Education,school_roof,low,EVAL-000983,0,,,hi,Garhwa
+EVAL-000106,Safety & Environment,illegal_liquor,high,EVAL-000106,0,,,hi,Giridih
+EVAL-000355,Land & Revenue,public_land_encroachment,high,EVAL-000355,0,,,en,Garhwa
+EVAL-000553,Water Supply,tap_no_supply,high,EVAL-000553,0,,,hi,Dumka
+EVAL-001072,Agriculture & Irrigation,borewell_irrigation,medium,EVAL-001072,0,,,hi,Palamu
+EVAL-000823,Safety & Environment,industrial_dust,critical,EVAL-000823,0,,,en,Giridih
+EVAL-000411,Healthcare,medicine_stock,high,EVAL-000411,0,,,hi,Seraikela-Kharsawan
+EVAL-001044,Sanitation & Waste,open_drain,medium,EVAL-001044,0,,,hi,Lohardaga
+EVAL-000686,Roads & Connectivity,streetlight_road,low,EVAL-000686,0,,,en,Koderma
+EVAL-001940,Roads & Connectivity,roadside_drain,low,EVAL-001480,1,near,EVAL-001480,en,Ramgarh
+EVAL-001156,Welfare & Pensions,disability_certificate,low,EVAL-001156,0,,,en,Dumka
+EVAL-000065,Electricity,low_voltage,high,EVAL-000065,0,,,hinglish,Dhanbad
+EVAL-001600,Electricity,low_voltage,medium,EVAL-001600,0,,,hi,Giridih
+EVAL-000365,Roads & Connectivity,roadside_drain,medium,EVAL-000365,0,,,hinglish,Dhanbad
+EVAL-001521,Safety & Environment,illegal_liquor,high,EVAL-001521,0,,,hi,West Singhbhum
+EVAL-001353,Food & PDS,ration_shortweight,critical,EVAL-001353,0,,,hinglish,Simdega
+EVAL-000730,Land & Revenue,registry_appointment,medium,EVAL-000730,0,,,hinglish,Seraikela-Kharsawan
+EVAL-000589,Healthcare,medicine_stock,high,EVAL-000589,0,,,en,Chatra
+EVAL-001553,Safety & Environment,cyber_fraud,high,EVAL-001553,0,,,hi,Gumla
+EVAL-001010,Education,textbooks_delay,high,EVAL-001010,0,,,hinglish,Simdega
+EVAL-000078,Agriculture & Irrigation,canal_irrigation,high,EVAL-000078,0,,,en,Hazaribagh
+EVAL-000251,Water Supply,tap_no_supply,critical,EVAL-000251,0,,,en,Dhanbad
+EVAL-001025,Education,teacher_vacancy,medium,EVAL-001025,0,,,hi,Ramgarh
+EVAL-000443,Agriculture & Irrigation,borewell_irrigation,critical,EVAL-000443,0,,,en,Palamu
+EVAL-001444,Land & Revenue,parcha_copy,low,EVAL-001444,0,,,hi,Bokaro
+EVAL-000702,Healthcare,anm_vacancy,high,EVAL-000702,0,,,hi,Dhanbad
+EVAL-001810,Food & PDS,new_ration_card,high,EVAL-001549,1,exact,EVAL-001549,hi,Deoghar
+EVAL-001550,Sanitation & Waste,public_toilet_water,high,EVAL-001550,0,,,hi,Hazaribagh
+EVAL-001918,Welfare & Pensions,pension_delay,medium,EVAL-000513,1,near,EVAL-000513,hi,Lohardaga
+EVAL-000008,Healthcare,phc_no_doctor,critical,EVAL-000008,0,,,en,Garhwa
+EVAL-000749,Education,school_electricity,low,EVAL-000749,0,,,en,Ramgarh
+EVAL-000531,Healthcare,cold_chain,medium,EVAL-000531,0,,,hinglish,Dhanbad
+EVAL-000513,Welfare & Pensions,pension_delay,medium,EVAL-000513,0,,,hi,Lohardaga
+EVAL-000544,Electricity,feeder_outage,high,EVAL-000544,0,,,hinglish,Hazaribagh
+EVAL-001983,Education,school_electricity,low,EVAL-000196,1,near,EVAL-000196,en,Hazaribagh
+EVAL-001648,Safety & Environment,cyber_fraud,high,EVAL-001648,0,,,hi,Garhwa
+EVAL-000812,Safety & Environment,illegal_liquor,high,EVAL-000812,0,,,en,Pakur
+EVAL-000625,Welfare & Pensions,disability_certificate,medium,EVAL-000625,0,,,en,East Singhbhum
+EVAL-001051,Welfare & Pensions,pension_delay,medium,EVAL-001051,0,,,hi,Dhanbad
+EVAL-000590,Education,textbooks_delay,high,EVAL-000590,0,,,en,Dhanbad
+EVAL-000631,Land & Revenue,mutation_delay,medium,EVAL-000631,0,,,hi,Latehar
+EVAL-000677,Employment & Livelihoods,job_card,medium,EVAL-000677,0,,,en,East Singhbhum
+EVAL-000982,Electricity,feeder_outage,medium,EVAL-000982,0,,,en,Deoghar
+EVAL-000463,Food & PDS,new_ration_card,medium,EVAL-000463,0,,,hi,Jamtara
+EVAL-001509,Land & Revenue,boundary_demarcation,low,EVAL-001509,0,,,en,West Singhbhum
+EVAL-000747,Healthcare,cold_chain,critical,EVAL-000747,0,,,hinglish,Dumka
+EVAL-001234,Healthcare,ambulance_delay,critical,EVAL-001234,0,,,hi,Pakur
+EVAL-001318,Employment & Livelihoods,job_card,medium,EVAL-001318,0,,,hi,Ranchi
+EVAL-001804,Welfare & Pensions,mgnrega_wages,high,EVAL-001632,1,exact,EVAL-001632,hinglish,Seraikela-Kharsawan
+EVAL-001040,Land & Revenue,public_land_encroachment,high,EVAL-001040,0,,,hi,Gumla
+EVAL-000567,Welfare & Pensions,widow_pension,medium,EVAL-000567,0,,,hi,Godda
+EVAL-001087,Land & Revenue,mutation_delay,low,EVAL-001087,0,,,hinglish,Palamu
+EVAL-001014,Safety & Environment,womens_safety,high,EVAL-001014,0,,,hinglish,Dumka
+EVAL-001266,Land & Revenue,boundary_demarcation,medium,EVAL-001266,0,,,en,Chatra
+EVAL-001722,Food & PDS,new_ration_card,medium,EVAL-001722,0,,,en,Sahibganj
+EVAL-001041,Electricity,transformer_burnt,high,EVAL-001041,0,,,hi,West Singhbhum
+EVAL-001366,Education,school_roof,critical,EVAL-001366,0,,,en,Seraikela-Kharsawan
+EVAL-001347,Food & PDS,pds_portability,low,EVAL-001347,0,,,en,West Singhbhum
+EVAL-001492,Welfare & Pensions,ration_card_cancel,medium,EVAL-001492,0,,,hinglish,Dumka
+EVAL-001285,Water Supply,handpump_dry,critical,EVAL-001285,0,,,en,Giridih
+EVAL-000244,Healthcare,anm_vacancy,critical,EVAL-000244,0,,,hi,Hazaribagh
+EVAL-001514,Employment & Livelihoods,wage_delay_contract,low,EVAL-001514,0,,,hinglish,Dhanbad
+EVAL-001915,Sanitation & Waste,public_toilet_water,medium,EVAL-000685,1,near,EVAL-000685,hi,Gumla
+EVAL-001265,Sanitation & Waste,garbage_collection,critical,EVAL-001265,0,,,hi,Giridih
+EVAL-001079,Land & Revenue,public_land_encroachment,medium,EVAL-001079,0,,,hi,Ranchi
+EVAL-001396,Water Supply,water_quality,high,EVAL-001396,0,,,hinglish,Dumka
+EVAL-001878,Sanitation & Waste,open_drain,high,EVAL-000162,1,near,EVAL-000162,hinglish,Simdega
+EVAL-000193,Electricity,bill_error,medium,EVAL-000193,0,,,hi,Sahibganj
+EVAL-001787,Employment & Livelihoods,skill_training,low,EVAL-001787,0,,,hinglish,Ramgarh
+EVAL-000526,Education,boundary_wall,low,EVAL-000526,0,,,hi,East Singhbhum
+EVAL-000369,Water Supply,handpump_dry,critical,EVAL-000369,0,,,en,Dumka
+EVAL-001778,Employment & Livelihoods,skill_training,high,EVAL-001778,0,,,hi,East Singhbhum
+EVAL-000921,Roads & Connectivity,bridge_damage,high,EVAL-000921,0,,,hi,Seraikela-Kharsawan
+EVAL-001096,Land & Revenue,public_land_encroachment,high,EVAL-001096,0,,,en,Palamu
+EVAL-001065,Agriculture & Irrigation,borewell_irrigation,critical,EVAL-001065,0,,,hinglish,Dumka
+EVAL-001952,Land & Revenue,registry_appointment,low,EVAL-000807,1,near,EVAL-000807,hi,Garhwa
+EVAL-001288,Safety & Environment,industrial_dust,medium,EVAL-001288,0,,,hi,Deoghar
+EVAL-001551,Agriculture & Irrigation,mandi_procurement,high,EVAL-001551,0,,,en,Garhwa
+EVAL-001741,Food & PDS,aadhaar_seeding,high,EVAL-001741,0,,,hinglish,Ramgarh
+EVAL-000762,Water Supply,public_well,medium,EVAL-000762,0,,,en,Hazaribagh
+EVAL-000679,Water Supply,tanker_delay,low,EVAL-000679,0,,,en,Seraikela-Kharsawan
+EVAL-000181,Electricity,feeder_outage,high,EVAL-000181,0,,,en,Giridih
+EVAL-000944,Welfare & Pensions,mgnrega_wages,high,EVAL-000944,0,,,en,Garhwa
+EVAL-001601,Employment & Livelihoods,skill_training,medium,EVAL-001601,0,,,hi,Dumka
+EVAL-001394,Electricity,low_voltage,low,EVAL-001394,0,,,hi,Dhanbad
+EVAL-000115,Sanitation & Waste,public_toilet_water,high,EVAL-000115,0,,,en,Simdega
+EVAL-001611,Employment & Livelihoods,job_card,high,EVAL-001611,0,,,en,East Singhbhum
+EVAL-001313,Sanitation & Waste,drain_overflow,medium,EVAL-001313,0,,,hi,Koderma
+EVAL-000585,Food & PDS,pds_portability,medium,EVAL-000585,0,,,hinglish,Koderma
+EVAL-000793,Sanitation & Waste,garbage_collection,high,EVAL-000793,0,,,hi,Ramgarh
+EVAL-000293,Agriculture & Irrigation,canal_irrigation,high,EVAL-000293,0,,,hinglish,Dhanbad
+EVAL-000372,Agriculture & Irrigation,crop_insurance,critical,EVAL-000372,0,,,en,Dhanbad
+EVAL-000418,Electricity,meter_pending,high,EVAL-000418,0,,,hinglish,Dhanbad
+EVAL-000487,Food & PDS,pds_portability,medium,EVAL-000487,0,,,hi,Palamu
+EVAL-000997,Roads & Connectivity,road_potholes,high,EVAL-000997,0,,,hi,Latehar
+EVAL-001414,Sanitation & Waste,toilet_blocked,high,EVAL-001414,0,,,en,Pakur
+EVAL-001955,Education,boundary_wall,high,EVAL-000939,1,near,EVAL-000939,en,Bokaro
+EVAL-001981,Water Supply,water_quality,high,EVAL-001774,1,near,EVAL-001774,hi,Palamu
+EVAL-000103,Land & Revenue,registry_appointment,medium,EVAL-000103,0,,,hi,Bokaro
+EVAL-000710,Sanitation & Waste,open_drain,medium,EVAL-000710,0,,,en,Sahibganj
+EVAL-000480,Sanitation & Waste,drain_overflow,medium,EVAL-000480,0,,,hi,Dhanbad
+EVAL-000581,Education,school_roof,medium,EVAL-000581,0,,,en,Godda
+EVAL-001606,Water Supply,tanker_delay,critical,EVAL-001606,0,,,hinglish,Chatra
+EVAL-000960,Safety & Environment,womens_safety,medium,EVAL-000960,0,,,hi,Gumla
+EVAL-001344,Land & Revenue,boundary_demarcation,low,EVAL-001344,0,,,hi,Ranchi
+EVAL-001469,Education,school_toilet,medium,EVAL-001469,0,,,en,Giridih
+EVAL-001718,Healthcare,ambulance_delay,critical,EVAL-001718,0,,,hi,Latehar
+EVAL-000202,Roads & Connectivity,bridge_damage,high,EVAL-000202,0,,,hinglish,Ranchi
+EVAL-000113,Food & PDS,new_ration_card,medium,EVAL-000113,0,,,hi,Pakur
+EVAL-001024,Employment & Livelihoods,wage_delay_contract,high,EVAL-001024,0,,,hi,Giridih
+EVAL-001037,Safety & Environment,illegal_liquor,medium,EVAL-001037,0,,,hinglish,Hazaribagh
+EVAL-000429,Roads & Connectivity,streetlight_road,critical,EVAL-000429,0,,,en,Ranchi
+EVAL-001871,Land & Revenue,land_record_error,high,EVAL-000570,1,near,EVAL-000570,hi,Giridih
+EVAL-000658,Sanitation & Waste,drain_overflow,medium,EVAL-000658,0,,,en,Lohardaga
+EVAL-000636,Employment & Livelihoods,job_card,medium,EVAL-000636,0,,,hi,Palamu
+EVAL-001015,Food & PDS,new_ration_card,medium,EVAL-001015,0,,,hi,Ranchi
+EVAL-000810,Food & PDS,ration_shortweight,medium,EVAL-000810,0,,,hi,Dhanbad
+EVAL-001873,Healthcare,health_camp,high,EVAL-000031,1,near,EVAL-000031,hi,Dumka
+EVAL-001621,Roads & Connectivity,bridge_damage,critical,EVAL-001621,0,,,en,Bokaro
+EVAL-000611,Healthcare,anm_vacancy,high,EVAL-000611,0,,,en,East Singhbhum
+EVAL-000835,Welfare & Pensions,disability_certificate,medium,EVAL-000835,0,,,en,Garhwa
+EVAL-001910,Electricity,transformer_burnt,critical,EVAL-001506,1,near,EVAL-001506,hi,Hazaribagh
+EVAL-000012,Agriculture & Irrigation,seed_supply,low,EVAL-000012,0,,,hinglish,Palamu
+EVAL-001415,Welfare & Pensions,widow_pension,high,EVAL-001415,0,,,hinglish,Hazaribagh
+EVAL-000844,Education,textbooks_delay,critical,EVAL-000844,0,,,hi,Seraikela-Kharsawan
+EVAL-000641,Electricity,solar_streetlight,high,EVAL-000641,0,,,hinglish,Pakur
+EVAL-000344,Food & PDS,pds_portability,high,EVAL-000344,0,,,en,Ranchi
+EVAL-001571,Agriculture & Irrigation,canal_irrigation,critical,EVAL-001571,0,,,en,Ranchi
+EVAL-000977,Welfare & Pensions,widow_pension,medium,EVAL-000977,0,,,hinglish,Jamtara
+EVAL-001593,Employment & Livelihoods,migration_support,medium,EVAL-001593,0,,,en,Deoghar
+EVAL-001624,Land & Revenue,registry_appointment,high,EVAL-001624,0,,,en,Hazaribagh
+EVAL-000956,Agriculture & Irrigation,seed_supply,medium,EVAL-000956,0,,,hi,Godda
+EVAL-001468,Education,boundary_wall,medium,EVAL-001468,0,,,en,Dhanbad
+EVAL-001298,Education,school_roof,high,EVAL-001298,0,,,hi,Godda
+EVAL-001038,Education,school_toilet,low,EVAL-001038,0,,,hi,Garhwa
+EVAL-001483,Land & Revenue,public_land_encroachment,high,EVAL-001483,0,,,hinglish,Dhanbad
+EVAL-001825,Welfare & Pensions,pension_delay,high,EVAL-000748,1,exact,EVAL-000748,hi,Gumla
+EVAL-000945,Electricity,transformer_burnt,medium,EVAL-000945,0,,,hi,Chatra
+EVAL-001846,Water Supply,water_quality,critical,EVAL-000930,1,near,EVAL-000930,en,Chatra
+EVAL-001384,Employment & Livelihoods,migration_support,medium,EVAL-001384,0,,,hi,Lohardaga
+EVAL-000020,Water Supply,water_quality,medium,EVAL-000020,0,,,en,East Singhbhum
+EVAL-001225,Safety & Environment,police_response,critical,EVAL-001225,0,,,hi,Pakur
+EVAL-001944,Employment & Livelihoods,skill_training,high,EVAL-001684,1,near,EVAL-001684,hi,West Singhbhum
+EVAL-001795,Education,school_electricity,high,EVAL-001795,0,,,hi,Sahibganj
+EVAL-000451,Welfare & Pensions,mgnrega_wages,high,EVAL-000451,0,,,hi,East Singhbhum
+EVAL-000156,Electricity,meter_pending,medium,EVAL-000156,0,,,hi,West Singhbhum
+EVAL-000932,Healthcare,medicine_stock,medium,EVAL-000932,0,,,hi,Sahibganj
+EVAL-000422,Education,teacher_vacancy,critical,EVAL-000422,0,,,en,Koderma
+EVAL-000719,Water Supply,tanker_delay,medium,EVAL-000719,0,,,en,Lohardaga
+EVAL-000890,Electricity,feeder_outage,critical,EVAL-000890,0,,,en,Sahibganj
+EVAL-000729,Education,school_electricity,low,EVAL-000729,0,,,en,Dhanbad
+EVAL-001269,Healthcare,health_camp,critical,EVAL-001269,0,,,hinglish,Dhanbad
+EVAL-000814,Sanitation & Waste,garbage_collection,critical,EVAL-000814,0,,,hinglish,Palamu
+EVAL-001533,Safety & Environment,flood_drainage,high,EVAL-001533,0,,,en,Khunti
+EVAL-001471,Safety & Environment,womens_safety,critical,EVAL-001471,0,,,hi,Sahibganj
+EVAL-000756,Water Supply,water_quality,critical,EVAL-000756,0,,,hi,Giridih
+EVAL-000644,Roads & Connectivity,culvert_damage,critical,EVAL-000644,0,,,en,Ranchi
+EVAL-000822,Agriculture & Irrigation,canal_irrigation,critical,EVAL-000822,0,,,en,Lohardaga
+EVAL-001440,Sanitation & Waste,toilet_blocked,high,EVAL-001440,0,,,hinglish,Chatra
+EVAL-001028,Education,school_toilet,critical,EVAL-001028,0,,,hinglish,Palamu
+EVAL-001862,Safety & Environment,flood_drainage,medium,EVAL-000507,1,near,EVAL-000507,hi,Latehar
+EVAL-001466,Food & PDS,aadhaar_seeding,medium,EVAL-001466,0,,,en,Godda
+EVAL-000401,Sanitation & Waste,public_toilet_water,critical,EVAL-000401,0,,,en,Hazaribagh
+EVAL-000816,Roads & Connectivity,roadside_drain,medium,EVAL-000816,0,,,hi,Gumla
+EVAL-000116,Employment & Livelihoods,migration_support,critical,EVAL-000116,0,,,hi,Hazaribagh
+EVAL-000183,Agriculture & Irrigation,canal_irrigation,high,EVAL-000183,0,,,en,Dhanbad
+EVAL-000049,Water Supply,water_testing,high,EVAL-000049,0,,,hi,Giridih
+EVAL-000030,Education,teacher_vacancy,medium,EVAL-000030,0,,,en,East Singhbhum
+EVAL-001753,Safety & Environment,police_response,critical,EVAL-001753,0,,,hinglish,Simdega
+EVAL-000175,Education,school_toilet,critical,EVAL-000175,0,,,hinglish,Latehar
+EVAL-001122,Agriculture & Irrigation,borewell_irrigation,high,EVAL-001122,0,,,en,East Singhbhum
+EVAL-001570,Sanitation & Waste,garbage_collection,medium,EVAL-001570,0,,,hi,Palamu
+EVAL-001707,Electricity,solar_streetlight,medium,EVAL-001707,0,,,hi,Koderma
+EVAL-001875,Healthcare,medicine_stock,high,EVAL-000589,1,near,EVAL-000589,en,Chatra
+EVAL-001692,Roads & Connectivity,roadside_drain,low,EVAL-001692,0,,,en,Deoghar
+EVAL-000239,Food & PDS,dealer_closed,low,EVAL-000239,0,,,hi,Dumka
+EVAL-000535,Roads & Connectivity,roadside_drain,high,EVAL-000535,0,,,hi,Lohardaga
+EVAL-000399,Safety & Environment,police_response,high,EVAL-000399,0,,,hi,Ranchi
+EVAL-000230,Welfare & Pensions,ration_card_cancel,high,EVAL-000230,0,,,hinglish,Deoghar
+EVAL-001426,Sanitation & Waste,public_toilet_water,medium,EVAL-001426,0,,,hinglish,Garhwa
+EVAL-000150,Water Supply,tap_no_supply,high,EVAL-000150,0,,,hi,Godda
+EVAL-000271,Employment & Livelihoods,migration_support,medium,EVAL-000271,0,,,hinglish,Gumla
+EVAL-000777,Water Supply,water_testing,medium,EVAL-000777,0,,,hinglish,Dhanbad
+EVAL-000859,Sanitation & Waste,open_drain,high,EVAL-000859,0,,,hinglish,Seraikela-Kharsawan
+EVAL-000664,Agriculture & Irrigation,mandi_procurement,critical,EVAL-000664,0,,,hi,Dhanbad
+EVAL-001111,Welfare & Pensions,disability_certificate,critical,EVAL-001111,0,,,hinglish,Garhwa
+EVAL-001430,Food & PDS,dealer_closed,high,EVAL-001430,0,,,hi,Dumka
+EVAL-000773,Food & PDS,grain_quality,high,EVAL-000773,0,,,en,Ramgarh
+EVAL-000368,Agriculture & Irrigation,canal_irrigation,low,EVAL-000368,0,,,hi,Giridih
+EVAL-001311,Healthcare,anm_vacancy,high,EVAL-001311,0,,,en,Hazaribagh
+EVAL-001824,Sanitation & Waste,open_drain,high,EVAL-001640,1,exact,EVAL-001640,hi,Jamtara
+EVAL-001744,Safety & Environment,cyber_fraud,high,EVAL-001744,0,,,hinglish,Bokaro
+EVAL-000363,Education,midday_meal,high,EVAL-000363,0,,,en,Dumka
+EVAL-000615,Food & PDS,new_ration_card,low,EVAL-000615,0,,,hinglish,Palamu
+EVAL-000358,Agriculture & Irrigation,fertiliser_shop,high,EVAL-000358,0,,,en,Khunti
+EVAL-001210,Safety & Environment,flood_drainage,critical,EVAL-001210,0,,,en,Dhanbad
+EVAL-001726,Welfare & Pensions,scholarship_delay,medium,EVAL-001726,0,,,hi,Lohardaga
+EVAL-000125,Agriculture & Irrigation,seed_supply,medium,EVAL-000125,0,,,en,Dhanbad
+EVAL-000353,Welfare & Pensions,ration_card_cancel,medium,EVAL-000353,0,,,hi,Garhwa
+EVAL-000895,Land & Revenue,boundary_demarcation,low,EVAL-000895,0,,,hi,West Singhbhum
+EVAL-000595,Healthcare,anganwadi_supply,high,EVAL-000595,0,,,en,Ramgarh
+EVAL-001759,Water Supply,handpump_dry,high,EVAL-001759,0,,,hi,Giridih
+EVAL-000204,Land & Revenue,public_land_encroachment,medium,EVAL-000204,0,,,en,Dhanbad
+EVAL-001376,Welfare & Pensions,ration_card_cancel,medium,EVAL-001376,0,,,hinglish,Dhanbad
+EVAL-000237,Electricity,low_voltage,medium,EVAL-000237,0,,,hi,East Singhbhum
+EVAL-001811,Land & Revenue,land_record_error,low,EVAL-001329,1,exact,EVAL-001329,hi,East Singhbhum
+EVAL-001801,Electricity,solar_streetlight,high,EVAL-000641,1,exact,EVAL-000641,hinglish,Pakur
+EVAL-001942,Agriculture & Irrigation,mandi_procurement,high,EVAL-000214,1,near,EVAL-000214,hi,Sahibganj
+EVAL-000238,Safety & Environment,industrial_dust,high,EVAL-000238,0,,,hi,Ranchi
+EVAL-000519,Electricity,low_voltage,medium,EVAL-000519,0,,,hi,Deoghar
+EVAL-001416,Education,textbooks_delay,critical,EVAL-001416,0,,,hi,West Singhbhum
+EVAL-001789,Safety & Environment,illegal_liquor,medium,EVAL-001789,0,,,hi,Hazaribagh
+EVAL-001584,Land & Revenue,mutation_delay,high,EVAL-001584,0,,,hi,East Singhbhum
+EVAL-001688,Electricity,feeder_outage,medium,EVAL-001688,0,,,en,West Singhbhum
+EVAL-000326,Welfare & Pensions,widow_pension,high,EVAL-000326,0,,,hinglish,Palamu
+EVAL-000215,Sanitation & Waste,public_toilet_water,medium,EVAL-000215,0,,,hi,Khunti
+EVAL-000180,Roads & Connectivity,bridge_damage,high,EVAL-000180,0,,,hi,Deoghar
+EVAL-000797,Safety & Environment,illegal_liquor,medium,EVAL-000797,0,,,hi,East Singhbhum
+EVAL-001716,Water Supply,tanker_delay,low,EVAL-001716,0,,,en,Deoghar
+EVAL-001033,Education,teacher_vacancy,medium,EVAL-001033,0,,,hi,Seraikela-Kharsawan
+EVAL-000077,Sanitation & Waste,public_toilet_water,high,EVAL-000077,0,,,en,Dhanbad
+EVAL-001449,Food & PDS,aadhaar_seeding,critical,EVAL-001449,0,,,en,Pakur
+EVAL-001913,Healthcare,ambulance_delay,critical,EVAL-000325,1,near,EVAL-000325,hi,Ramgarh
+EVAL-001882,Healthcare,anganwadi_supply,medium,EVAL-000965,1,near,EVAL-000965,hi,Godda
+EVAL-001548,Food & PDS,pds_portability,critical,EVAL-001548,0,,,en,West Singhbhum
+EVAL-001709,Water Supply,tap_no_supply,medium,EVAL-001709,0,,,hi,Sahibganj
+EVAL-000796,Food & PDS,dealer_closed,high,EVAL-000796,0,,,hi,Deoghar
+EVAL-000333,Water Supply,water_quality,critical,EVAL-000333,0,,,hinglish,West Singhbhum
+EVAL-000891,Roads & Connectivity,roadside_drain,medium,EVAL-000891,0,,,hi,Giridih
+EVAL-000661,Education,school_toilet,high,EVAL-000661,0,,,hi,Deoghar
+EVAL-000171,Agriculture & Irrigation,crop_insurance,low,EVAL-000171,0,,,hinglish,Bokaro
+EVAL-000930,Water Supply,water_quality,critical,EVAL-000930,0,,,en,Chatra
+EVAL-001386,Safety & Environment,womens_safety,critical,EVAL-001386,0,,,hi,Ranchi
+EVAL-000992,Food & PDS,pds_portability,medium,EVAL-000992,0,,,hi,Dhanbad
+EVAL-001994,Electricity,solar_streetlight,low,EVAL-000381,1,near,EVAL-000381,en,West Singhbhum
+EVAL-001398,Sanitation & Waste,public_toilet_water,low,EVAL-001398,0,,,en,Dumka
+EVAL-000580,Land & Revenue,boundary_demarcation,low,EVAL-000580,0,,,en,Ranchi
+EVAL-001980,Land & Revenue,boundary_demarcation,medium,EVAL-000737,1,near,EVAL-000737,hi,Deoghar
+EVAL-001441,Land & Revenue,registry_appointment,low,EVAL-001441,0,,,en,Latehar
+EVAL-001808,Welfare & Pensions,ration_card_cancel,high,EVAL-000675,1,exact,EVAL-000675,hinglish,Simdega
+EVAL-000362,Safety & Environment,womens_safety,high,EVAL-000362,0,,,hinglish,Dhanbad
+EVAL-001020,Agriculture & Irrigation,mandi_procurement,high,EVAL-001020,0,,,hinglish,Chatra
+EVAL-001196,Welfare & Pensions,disability_certificate,low,EVAL-001196,0,,,hinglish,West Singhbhum
+EVAL-000600,Safety & Environment,cyber_fraud,critical,EVAL-000600,0,,,hi,Pakur
+EVAL-000163,Healthcare,health_camp,medium,EVAL-000163,0,,,hi,Palamu
+EVAL-001884,Sanitation & Waste,public_toilet_water,critical,EVAL-001728,1,near,EVAL-001728,hi,Palamu
+EVAL-001399,Roads & Connectivity,culvert_damage,medium,EVAL-001399,0,,,hi,Khunti
+EVAL-000953,Land & Revenue,boundary_demarcation,medium,EVAL-000953,0,,,hi,Jamtara
+EVAL-000337,Land & Revenue,parcha_copy,high,EVAL-000337,0,,,en,East Singhbhum
+EVAL-000091,Education,textbooks_delay,low,EVAL-000091,0,,,hi,Giridih
+EVAL-000807,Land & Revenue,registry_appointment,low,EVAL-000807,0,,,hi,Garhwa
+EVAL-001876,Land & Revenue,parcha_copy,low,EVAL-000868,1,near,EVAL-000868,hinglish,East Singhbhum
+EVAL-000504,Employment & Livelihoods,job_card,medium,EVAL-000504,0,,,hinglish,Godda
+EVAL-000416,Sanitation & Waste,public_toilet_water,low,EVAL-000416,0,,,hinglish,West Singhbhum
+EVAL-000285,Education,midday_meal,medium,EVAL-000285,0,,,hinglish,Sahibganj
+EVAL-000185,Agriculture & Irrigation,borewell_irrigation,high,EVAL-000185,0,,,hi,East Singhbhum
+EVAL-000872,Water Supply,tap_no_supply,high,EVAL-000872,0,,,en,East Singhbhum
+EVAL-000864,Water Supply,handpump_dry,medium,EVAL-000864,0,,,hinglish,Jamtara
+EVAL-000190,Food & PDS,dealer_closed,high,EVAL-000190,0,,,en,Koderma
+EVAL-000659,Healthcare,anganwadi_supply,high,EVAL-000659,0,,,hinglish,Khunti
+EVAL-000325,Healthcare,ambulance_delay,critical,EVAL-000325,0,,,hi,Ramgarh
+EVAL-001906,Food & PDS,pds_portability,high,EVAL-000655,1,near,EVAL-000655,hinglish,East Singhbhum
+EVAL-001346,Education,school_electricity,medium,EVAL-001346,0,,,hi,Ranchi
+EVAL-001272,Healthcare,cold_chain,critical,EVAL-001272,0,,,hi,Dhanbad
+EVAL-001058,Land & Revenue,registry_appointment,low,EVAL-001058,0,,,en,Lohardaga
+EVAL-000117,Food & PDS,dealer_closed,medium,EVAL-000117,0,,,hinglish,Deoghar
+EVAL-001649,Education,school_toilet,medium,EVAL-001649,0,,,hinglish,Sahibganj
+EVAL-000873,Land & Revenue,land_record_error,critical,EVAL-000873,0,,,en,Chatra
+EVAL-001643,Sanitation & Waste,public_toilet_water,high,EVAL-001643,0,,,hi,Sahibganj
+EVAL-001314,Employment & Livelihoods,wage_delay_contract,high,EVAL-001314,0,,,hinglish,Gumla
+EVAL-000612,Employment & Livelihoods,migration_support,medium,EVAL-000612,0,,,en,Jamtara
+EVAL-000170,Food & PDS,dealer_closed,high,EVAL-000170,0,,,en,East Singhbhum
+EVAL-000802,Safety & Environment,police_response,critical,EVAL-000802,0,,,en,Garhwa
+EVAL-001556,Safety & Environment,police_response,high,EVAL-001556,0,,,hinglish,Garhwa
+EVAL-000630,Water Supply,handpump_dry,medium,EVAL-000630,0,,,hi,Pakur
+EVAL-000176,Healthcare,cold_chain,high,EVAL-000176,0,,,en,Sahibganj
+EVAL-000931,Land & Revenue,parcha_copy,medium,EVAL-000931,0,,,hi,Giridih
+EVAL-001736,Food & PDS,dealer_closed,low,EVAL-001736,0,,,hi,Hazaribagh
+EVAL-001909,Roads & Connectivity,bus_service,low,EVAL-001045,1,near,EVAL-001045,hi,Jamtara
+EVAL-000557,Education,midday_meal,medium,EVAL-000557,0,,,hi,Dhanbad
+EVAL-000366,Land & Revenue,parcha_copy,critical,EVAL-000366,0,,,hinglish,Bokaro
+EVAL-001776,Healthcare,anganwadi_supply,high,EVAL-001776,0,,,hi,Hazaribagh
+EVAL-000792,Safety & Environment,illegal_liquor,high,EVAL-000792,0,,,hinglish,Deoghar
+EVAL-000278,Healthcare,medicine_stock,critical,EVAL-000278,0,,,hinglish,East Singhbhum
+EVAL-000400,Water Supply,tap_no_supply,high,EVAL-000400,0,,,hi,Hazaribagh
+EVAL-001343,Food & PDS,ration_shortweight,high,EVAL-001343,0,,,hi,Pakur
+EVAL-001413,Agriculture & Irrigation,fertiliser_shop,medium,EVAL-001413,0,,,en,East Singhbhum
+EVAL-001941,Education,midday_meal,high,EVAL-001779,1,near,EVAL-001779,en,Giridih
+EVAL-000606,Sanitation & Waste,open_drain,high,EVAL-000606,0,,,hi,Simdega
+EVAL-000006,Water Supply,public_well,low,EVAL-000006,0,,,hi,Giridih
+EVAL-001711,Land & Revenue,mutation_delay,high,EVAL-001711,0,,,hi,Dhanbad
+EVAL-001727,Water Supply,tanker_delay,low,EVAL-001727,0,,,hi,Seraikela-Kharsawan
+EVAL-001959,Safety & Environment,womens_safety,high,EVAL-001522,1,near,EVAL-001522,hi,East Singhbhum
+EVAL-001456,Agriculture & Irrigation,crop_insurance,critical,EVAL-001456,0,,,hi,Deoghar
+EVAL-001746,Electricity,low_voltage,high,EVAL-001746,0,,,hi,East Singhbhum
+EVAL-000689,Agriculture & Irrigation,mandi_procurement,high,EVAL-000689,0,,,hi,Koderma
+EVAL-001682,Water Supply,public_well,critical,EVAL-001682,0,,,hi,East Singhbhum
+EVAL-001766,Agriculture & Irrigation,canal_irrigation,high,EVAL-001766,0,,,en,Jamtara
+EVAL-001047,Agriculture & Irrigation,crop_insurance,high,EVAL-001047,0,,,hi,Garhwa
+EVAL-001684,Employment & Livelihoods,skill_training,high,EVAL-001684,0,,,hi,West Singhbhum
+EVAL-000059,Safety & Environment,industrial_dust,medium,EVAL-000059,0,,,hi,Dhanbad
+EVAL-001034,Land & Revenue,mutation_delay,medium,EVAL-001034,0,,,hinglish,East Singhbhum
+EVAL-001439,Welfare & Pensions,disability_certificate,high,EVAL-001439,0,,,hi,East Singhbhum
+EVAL-001420,Roads & Connectivity,bridge_damage,critical,EVAL-001420,0,,,en,Palamu
+EVAL-000961,Safety & Environment,flood_drainage,high,EVAL-000961,0,,,en,Chatra
+EVAL-000375,Education,boundary_wall,low,EVAL-000375,0,,,hi,East Singhbhum
+EVAL-000950,Healthcare,cold_chain,medium,EVAL-000950,0,,,hi,Dhanbad
+EVAL-001982,Electricity,low_voltage,critical,EVAL-001448,1,near,EVAL-001448,en,East Singhbhum
+EVAL-000783,Food & PDS,dealer_closed,medium,EVAL-000783,0,,,en,East Singhbhum
+EVAL-001086,Electricity,feeder_outage,medium,EVAL-001086,0,,,en,Palamu
+EVAL-000629,Safety & Environment,industrial_dust,high,EVAL-000629,0,,,hi,Ramgarh
+EVAL-000888,Land & Revenue,public_land_encroachment,low,EVAL-000888,0,,,hi,Giridih
+EVAL-001406,Food & PDS,pds_portability,high,EVAL-001406,0,,,hi,Ranchi
+EVAL-001330,Roads & Connectivity,roadside_drain,high,EVAL-001330,0,,,hinglish,Gumla
+EVAL-000084,Sanitation & Waste,open_drain,critical,EVAL-000084,0,,,hi,Deoghar
+EVAL-000055,Food & PDS,new_ration_card,low,EVAL-000055,0,,,hinglish,Pakur
+EVAL-000669,Water Supply,water_testing,low,EVAL-000669,0,,,hi,East Singhbhum
+EVAL-001385,Education,teacher_vacancy,medium,EVAL-001385,0,,,hi,Simdega
+EVAL-001493,Food & PDS,pds_portability,high,EVAL-001493,0,,,en,Ranchi
+EVAL-000790,Safety & Environment,police_response,critical,EVAL-000790,0,,,hi,Pakur
+EVAL-001262,Roads & Connectivity,culvert_damage,critical,EVAL-001262,0,,,hi,Giridih
+EVAL-001006,Electricity,low_voltage,high,EVAL-001006,0,,,hinglish,Ranchi
+EVAL-000277,Welfare & Pensions,disability_certificate,medium,EVAL-000277,0,,,hi,Dumka
+EVAL-000444,Electricity,bill_error,medium,EVAL-000444,0,,,en,Pakur
+EVAL-000772,Sanitation & Waste,garbage_collection,low,EVAL-000772,0,,,en,Sahibganj
+EVAL-001522,Safety & Environment,womens_safety,high,EVAL-001522,0,,,hi,East Singhbhum
+EVAL-001310,Education,boundary_wall,low,EVAL-001310,0,,,hi,Simdega
+EVAL-001089,Land & Revenue,land_record_error,medium,EVAL-001089,0,,,hi,Dhanbad
+EVAL-000832,Healthcare,phc_no_doctor,critical,EVAL-000832,0,,,hi,East Singhbhum
+EVAL-001159,Safety & Environment,industrial_dust,low,EVAL-001159,0,,,hinglish,Simdega
+EVAL-001054,Healthcare,ambulance_delay,high,EVAL-001054,0,,,hinglish,Ranchi
+EVAL-000350,Electricity,transformer_burnt,critical,EVAL-000350,0,,,en,Dhanbad
+EVAL-000841,Land & Revenue,boundary_demarcation,medium,EVAL-000841,0,,,hi,Pakur
+EVAL-001770,Healthcare,medicine_stock,high,EVAL-001770,0,,,hi,Latehar
+EVAL-001281,Sanitation & Waste,toilet_blocked,high,EVAL-001281,0,,,en,Jamtara
+EVAL-001332,Roads & Connectivity,culvert_damage,critical,EVAL-001332,0,,,hi,Bokaro
+EVAL-001578,Education,boundary_wall,high,EVAL-001578,0,,,en,Ramgarh
+EVAL-001896,Agriculture & Irrigation,canal_irrigation,high,EVAL-000788,1,near,EVAL-000788,hi,Dhanbad
+EVAL-001443,Electricity,low_voltage,high,EVAL-001443,0,,,hi,Ranchi
+EVAL-000561,Land & Revenue,public_land_encroachment,medium,EVAL-000561,0,,,en,Lohardaga
+EVAL-000367,Agriculture & Irrigation,mandi_procurement,high,EVAL-000367,0,,,hinglish,Giridih
+EVAL-001574,Roads & Connectivity,streetlight_road,high,EVAL-001574,0,,,hinglish,Ranchi
+EVAL-001296,Sanitation & Waste,drain_overflow,high,EVAL-001296,0,,,en,West Singhbhum
+EVAL-001319,Sanitation & Waste,garbage_collection,high,EVAL-001319,0,,,hi,East Singhbhum
+EVAL-001742,Healthcare,anm_vacancy,high,EVAL-001742,0,,,hi,Godda
+EVAL-001181,Sanitation & Waste,drain_overflow,critical,EVAL-001181,0,,,hi,Dhanbad
+EVAL-001663,Land & Revenue,registry_appointment,high,EVAL-001663,0,,,hi,Palamu
+EVAL-000409,Food & PDS,dealer_closed,low,EVAL-000409,0,,,hinglish,Bokaro
+EVAL-001013,Healthcare,phc_no_doctor,high,EVAL-001013,0,,,en,Bokaro
+EVAL-000833,Welfare & Pensions,disability_certificate,low,EVAL-000833,0,,,hi,Gumla
+EVAL-001226,Food & PDS,ration_shortweight,high,EVAL-001226,0,,,hinglish,East Singhbhum
+EVAL-001576,Roads & Connectivity,road_potholes,medium,EVAL-001576,0,,,en,Khunti
+EVAL-000275,Safety & Environment,industrial_dust,high,EVAL-000275,0,,,en,Chatra
+EVAL-001552,Education,school_electricity,low,EVAL-001552,0,,,hinglish,Ranchi
+EVAL-001351,Electricity,solar_streetlight,medium,EVAL-001351,0,,,hi,Latehar
+EVAL-000621,Employment & Livelihoods,migration_support,high,EVAL-000621,0,,,en,Palamu
+EVAL-001039,Safety & Environment,flood_drainage,critical,EVAL-001039,0,,,en,Giridih
+EVAL-000514,Food & PDS,grain_quality,high,EVAL-000514,0,,,hi,Garhwa
+EVAL-001141,Education,school_electricity,medium,EVAL-001141,0,,,hinglish,Sahibganj
+EVAL-001577,Water Supply,public_well,medium,EVAL-001577,0,,,en,Dumka
+EVAL-000774,Employment & Livelihoods,skill_training,medium,EVAL-000774,0,,,en,Dhanbad
+EVAL-000246,Roads & Connectivity,road_potholes,high,EVAL-000246,0,,,en,West Singhbhum
+EVAL-000718,Land & Revenue,boundary_demarcation,low,EVAL-000718,0,,,en,Sahibganj
+EVAL-001694,Healthcare,medicine_stock,high,EVAL-001694,0,,,hi,Ranchi
+EVAL-000652,Agriculture & Irrigation,canal_irrigation,medium,EVAL-000652,0,,,en,Deoghar
+EVAL-001701,Agriculture & Irrigation,fertiliser_shop,medium,EVAL-001701,0,,,hi,Godda
+EVAL-001387,Education,school_roof,medium,EVAL-001387,0,,,hi,Dumka
+EVAL-000045,Healthcare,cold_chain,low,EVAL-000045,0,,,hi,West Singhbhum
+EVAL-000432,Employment & Livelihoods,job_card,low,EVAL-000432,0,,,hinglish,Ranchi
+EVAL-001782,Healthcare,anganwadi_supply,medium,EVAL-001782,0,,,hinglish,Palamu
+EVAL-001897,Land & Revenue,boundary_demarcation,low,EVAL-000895,1,near,EVAL-000895,hi,West Singhbhum
+EVAL-001954,Water Supply,water_quality,critical,EVAL-000023,1,near,EVAL-000023,en,Seraikela-Kharsawan
+EVAL-000336,Education,school_electricity,medium,EVAL-000336,0,,,hi,Hazaribagh
+EVAL-000248,Land & Revenue,parcha_copy,high,EVAL-000248,0,,,en,Dhanbad
+EVAL-000947,Healthcare,anm_vacancy,high,EVAL-000947,0,,,hi,Bokaro
+EVAL-001565,Water Supply,water_quality,high,EVAL-001565,0,,,en,Deoghar
+EVAL-000647,Welfare & Pensions,widow_pension,critical,EVAL-000647,0,,,hi,Giridih
+EVAL-000013,Safety & Environment,illegal_liquor,low,EVAL-000013,0,,,hinglish,Palamu
+EVAL-000257,Water Supply,public_well,medium,EVAL-000257,0,,,hi,Giridih
+EVAL-001189,Welfare & Pensions,mgnrega_wages,high,EVAL-001189,0,,,en,East Singhbhum
+EVAL-001228,Food & PDS,pds_portability,low,EVAL-001228,0,,,en,Seraikela-Kharsawan
+EVAL-000512,Education,teacher_vacancy,critical,EVAL-000512,0,,,hi,Deoghar
+EVAL-000570,Land & Revenue,land_record_error,high,EVAL-000570,0,,,hi,Giridih
+EVAL-001432,Healthcare,health_camp,medium,EVAL-001432,0,,,hi,Dumka
+EVAL-001677,Healthcare,cold_chain,high,EVAL-001677,0,,,en,Bokaro
+EVAL-001246,Water Supply,public_well,high,EVAL-001246,0,,,hi,East Singhbhum
+EVAL-001477,Agriculture & Irrigation,seed_supply,critical,EVAL-001477,0,,,hi,Ramgarh
+EVAL-001146,Land & Revenue,land_record_error,medium,EVAL-001146,0,,,hi,Chatra
+EVAL-000270,Safety & Environment,illegal_liquor,critical,EVAL-000270,0,,,hi,Bokaro
+EVAL-000722,Water Supply,water_testing,high,EVAL-000722,0,,,en,Simdega
+EVAL-001543,Roads & Connectivity,bridge_damage,low,EVAL-001543,0,,,en,Ranchi
+EVAL-000614,Healthcare,health_camp,high,EVAL-000614,0,,,hi,Seraikela-Kharsawan
+EVAL-000189,Electricity,feeder_outage,medium,EVAL-000189,0,,,en,Sahibganj
+EVAL-000328,Employment & Livelihoods,skill_training,low,EVAL-000328,0,,,hinglish,Deoghar
+EVAL-001383,Safety & Environment,police_response,medium,EVAL-001383,0,,,en,Ranchi
+EVAL-001729,Healthcare,health_camp,medium,EVAL-001729,0,,,hinglish,Bokaro
+EVAL-000620,Food & PDS,dealer_closed,high,EVAL-000620,0,,,hinglish,Jamtara
+EVAL-000197,Water Supply,handpump_dry,critical,EVAL-000197,0,,,en,West Singhbhum
+EVAL-001596,Roads & Connectivity,roadside_drain,high,EVAL-001596,0,,,hi,Gumla
+EVAL-000522,Welfare & Pensions,widow_pension,low,EVAL-000522,0,,,en,Chatra
+EVAL-001303,Welfare & Pensions,scholarship_delay,medium,EVAL-001303,0,,,hi,Dumka
+EVAL-000923,Land & Revenue,parcha_copy,low,EVAL-000923,0,,,en,Hazaribagh
+EVAL-000847,Education,school_toilet,high,EVAL-000847,0,,,hi,Dumka
+EVAL-000352,Welfare & Pensions,widow_pension,critical,EVAL-000352,0,,,hinglish,Palamu
+EVAL-001798,Healthcare,medicine_stock,high,EVAL-001798,0,,,hi,Godda
+EVAL-001008,Land & Revenue,parcha_copy,medium,EVAL-001008,0,,,en,Sahibganj
+EVAL-000218,Healthcare,health_camp,high,EVAL-000218,0,,,hinglish,Giridih
+EVAL-001409,Sanitation & Waste,drain_overflow,high,EVAL-001409,0,,,en,Ranchi
+EVAL-001841,Agriculture & Irrigation,mandi_procurement,high,EVAL-001020,1,near,EVAL-001020,hinglish,Chatra
+EVAL-000900,Healthcare,phc_no_doctor,high,EVAL-000900,0,,,en,Hazaribagh
+EVAL-001057,Education,school_toilet,critical,EVAL-001057,0,,,hinglish,Hazaribagh
+EVAL-000482,Water Supply,public_well,critical,EVAL-000482,0,,,hi,Gumla
+EVAL-000865,Healthcare,phc_no_doctor,critical,EVAL-000865,0,,,hi,Bokaro
+EVAL-001304,Food & PDS,new_ration_card,medium,EVAL-001304,0,,,en,Ranchi
+EVAL-000990,Food & PDS,aadhaar_seeding,high,EVAL-000990,0,,,hi,Pakur
+EVAL-000205,Education,teacher_vacancy,high,EVAL-000205,0,,,hi,East Singhbhum
+EVAL-000114,Agriculture & Irrigation,seed_supply,high,EVAL-000114,0,,,en,Dhanbad
+EVAL-000707,Water Supply,public_well,medium,EVAL-000707,0,,,hi,Ranchi
+EVAL-000177,Water Supply,water_testing,high,EVAL-000177,0,,,en,West Singhbhum
+EVAL-001851,Water Supply,water_testing,low,EVAL-001202,1,near,EVAL-001202,hi,Lohardaga
+EVAL-000761,Education,textbooks_delay,high,EVAL-000761,0,,,en,Godda
+EVAL-001157,Food & PDS,aadhaar_seeding,medium,EVAL-001157,0,,,en,Deoghar
+EVAL-000322,Education,teacher_vacancy,medium,EVAL-000322,0,,,hi,West Singhbhum
+EVAL-000995,Safety & Environment,industrial_dust,low,EVAL-000995,0,,,en,Sahibganj
+EVAL-001503,Land & Revenue,boundary_demarcation,medium,EVAL-001503,0,,,hi,Dumka
+EVAL-001595,Agriculture & Irrigation,seed_supply,medium,EVAL-001595,0,,,hi,Giridih
+EVAL-000706,Agriculture & Irrigation,borewell_irrigation,high,EVAL-000706,0,,,hinglish,Bokaro
+EVAL-001107,Welfare & Pensions,disability_certificate,high,EVAL-001107,0,,,hi,Godda
+EVAL-001274,Food & PDS,pds_portability,low,EVAL-001274,0,,,hinglish,Bokaro
+EVAL-001136,Safety & Environment,illegal_liquor,high,EVAL-001136,0,,,hi,Hazaribagh
+EVAL-001190,Welfare & Pensions,scholarship_delay,medium,EVAL-001190,0,,,hi,Gumla
+EVAL-001728,Sanitation & Waste,public_toilet_water,critical,EVAL-001728,0,,,hi,Palamu
+EVAL-000843,Land & Revenue,mutation_delay,medium,EVAL-000843,0,,,hi,Bokaro
+EVAL-000076,Electricity,bill_error,high,EVAL-000076,0,,,en,Godda
+EVAL-001349,Sanitation & Waste,open_drain,critical,EVAL-001349,0,,,hinglish,Dhanbad
+EVAL-000447,Roads & Connectivity,road_potholes,critical,EVAL-000447,0,,,en,Garhwa
+EVAL-001767,Land & Revenue,mutation_delay,high,EVAL-001767,0,,,hi,Deoghar
+EVAL-001247,Employment & Livelihoods,job_card,medium,EVAL-001247,0,,,hi,Hazaribagh
+EVAL-001560,Electricity,low_voltage,medium,EVAL-001560,0,,,en,Jamtara
+EVAL-000739,Healthcare,phc_no_doctor,critical,EVAL-000739,0,,,en,Sahibganj
+EVAL-001664,Sanitation & Waste,public_toilet_water,medium,EVAL-001664,0,,,hi,Latehar
+EVAL-001073,Electricity,meter_pending,high,EVAL-001073,0,,,en,Giridih
+EVAL-001939,Employment & Livelihoods,job_card,medium,EVAL-000874,1,near,EVAL-000874,hinglish,Hazaribagh
+EVAL-001137,Safety & Environment,flood_drainage,medium,EVAL-001137,0,,,en,Sahibganj
+EVAL-000646,Healthcare,anm_vacancy,high,EVAL-000646,0,,,hinglish,Jamtara
+EVAL-001214,Food & PDS,grain_quality,high,EVAL-001214,0,,,hi,Godda
+EVAL-000346,Agriculture & Irrigation,crop_insurance,high,EVAL-000346,0,,,hinglish,Palamu
+EVAL-000488,Food & PDS,grain_quality,low,EVAL-000488,0,,,en,Giridih
+EVAL-000496,Safety & Environment,womens_safety,high,EVAL-000496,0,,,en,Giridih
+EVAL-001472,Education,boundary_wall,high,EVAL-001472,0,,,en,West Singhbhum
+EVAL-000434,Healthcare,anm_vacancy,high,EVAL-000434,0,,,hinglish,Deoghar
+EVAL-000536,Land & Revenue,land_record_error,medium,EVAL-000536,0,,,hinglish,Sahibganj
+EVAL-000940,Electricity,transformer_burnt,high,EVAL-000940,0,,,hi,Garhwa
+EVAL-001629,Welfare & Pensions,ration_card_cancel,medium,EVAL-001629,0,,,hinglish,Dhanbad
+EVAL-001926,Land & Revenue,mutation_delay,low,EVAL-000704,1,near,EVAL-000704,en,Ranchi
+EVAL-001713,Safety & Environment,police_response,high,EVAL-001713,0,,,hinglish,Hazaribagh
+EVAL-001703,Safety & Environment,industrial_dust,critical,EVAL-001703,0,,,hinglish,West Singhbhum
+EVAL-000357,Agriculture & Irrigation,fertiliser_shop,high,EVAL-000357,0,,,en,Bokaro
+EVAL-001085,Welfare & Pensions,disability_certificate,high,EVAL-001085,0,,,en,Giridih
+EVAL-001978,Land & Revenue,land_record_error,high,EVAL-001475,1,near,EVAL-001475,hi,Khunti
+EVAL-000481,Welfare & Pensions,ration_card_cancel,low,EVAL-000481,0,,,en,East Singhbhum
+EVAL-001363,Healthcare,health_camp,high,EVAL-001363,0,,,hi,Koderma
+EVAL-001762,Sanitation & Waste,public_toilet_water,medium,EVAL-001762,0,,,en,Ranchi
+EVAL-000222,Safety & Environment,illegal_liquor,high,EVAL-000222,0,,,hi,Seraikela-Kharsawan
+EVAL-000315,Education,textbooks_delay,high,EVAL-000315,0,,,en,Palamu
+EVAL-000788,Agriculture & Irrigation,canal_irrigation,high,EVAL-000788,0,,,hi,Dhanbad
+EVAL-001569,Water Supply,water_quality,high,EVAL-001569,0,,,hinglish,Jamtara
+EVAL-000791,Water Supply,tap_no_supply,high,EVAL-000791,0,,,en,Ramgarh
+EVAL-000533,Electricity,transformer_burnt,critical,EVAL-000533,0,,,hi,Godda
+EVAL-001116,Roads & Connectivity,bus_service,low,EVAL-001116,0,,,hi,Seraikela-Kharsawan
+EVAL-000736,Agriculture & Irrigation,canal_irrigation,medium,EVAL-000736,0,,,hi,Palamu
+EVAL-001697,Healthcare,anm_vacancy,low,EVAL-001697,0,,,en,Giridih
+EVAL-001536,Education,boundary_wall,high,EVAL-001536,0,,,hinglish,West Singhbhum
+EVAL-001958,Welfare & Pensions,scholarship_delay,high,EVAL-001075,1,near,EVAL-001075,hi,Seraikela-Kharsawan
+EVAL-001429,Safety & Environment,flood_drainage,critical,EVAL-001429,0,,,hinglish,Ranchi
+EVAL-001887,Land & Revenue,registry_appointment,high,EVAL-001663,1,near,EVAL-001663,hi,Palamu
+EVAL-000413,Electricity,solar_streetlight,low,EVAL-000413,0,,,hi,Hazaribagh
+EVAL-001566,Water Supply,tap_no_supply,critical,EVAL-001566,0,,,hi,Garhwa
+EVAL-001194,Water Supply,public_well,high,EVAL-001194,0,,,hi,Palamu
+EVAL-000157,Roads & Connectivity,bus_service,low,EVAL-000157,0,,,hinglish,Ranchi
+EVAL-001032,Roads & Connectivity,road_potholes,high,EVAL-001032,0,,,en,Palamu
+EVAL-000247,Electricity,solar_streetlight,critical,EVAL-000247,0,,,hinglish,Latehar
+EVAL-001652,Food & PDS,ration_shortweight,high,EVAL-001652,0,,,hinglish,East Singhbhum
+EVAL-000924,Welfare & Pensions,disability_certificate,low,EVAL-000924,0,,,en,Gumla
+EVAL-001192,Food & PDS,new_ration_card,medium,EVAL-001192,0,,,hinglish,Jamtara
+EVAL-001219,Land & Revenue,land_record_error,high,EVAL-001219,0,,,hinglish,Latehar
+EVAL-001245,Electricity,meter_pending,high,EVAL-001245,0,,,hinglish,Gumla
+EVAL-001883,Employment & Livelihoods,wage_delay_contract,high,EVAL-001359,1,near,EVAL-001359,hi,Ramgarh
+EVAL-000212,Electricity,low_voltage,medium,EVAL-000212,0,,,hi,Seraikela-Kharsawan
+EVAL-000767,Healthcare,anm_vacancy,critical,EVAL-000767,0,,,en,Bokaro
+EVAL-000830,Land & Revenue,boundary_demarcation,high,EVAL-000830,0,,,en,Giridih
+EVAL-001407,Employment & Livelihoods,migration_support,low,EVAL-001407,0,,,hi,Deoghar
+EVAL-000857,Welfare & Pensions,scholarship_delay,medium,EVAL-000857,0,,,hi,Jamtara
+EVAL-000145,Healthcare,ambulance_delay,medium,EVAL-000145,0,,,hinglish,Latehar
+EVAL-001135,Welfare & Pensions,scholarship_delay,medium,EVAL-001135,0,,,hi,Bokaro
+EVAL-001755,Agriculture & Irrigation,canal_irrigation,high,EVAL-001755,0,,,hi,Chatra
+EVAL-001068,Welfare & Pensions,widow_pension,critical,EVAL-001068,0,,,en,Palamu
+EVAL-000280,Electricity,feeder_outage,low,EVAL-000280,0,,,en,Gumla
+EVAL-001191,Agriculture & Irrigation,mandi_procurement,medium,EVAL-001191,0,,,en,West Singhbhum
+EVAL-001617,Food & PDS,aadhaar_seeding,high,EVAL-001617,0,,,en,Dhanbad
+EVAL-000650,Food & PDS,aadhaar_seeding,low,EVAL-000650,0,,,hi,Ramgarh
+EVAL-000905,Water Supply,water_quality,high,EVAL-000905,0,,,hinglish,Seraikela-Kharsawan
+EVAL-000946,Welfare & Pensions,pension_delay,critical,EVAL-000946,0,,,hi,Godda
+EVAL-001275,Welfare & Pensions,ration_card_cancel,low,EVAL-001275,0,,,en,Giridih
+EVAL-000223,Employment & Livelihoods,migration_support,medium,EVAL-000223,0,,,hinglish,Palamu
+EVAL-001650,Electricity,bill_error,high,EVAL-001650,0,,,hi,Palamu
+EVAL-001953,Employment & Livelihoods,wage_delay_contract,critical,EVAL-000041,1,near,EVAL-000041,hi,Latehar
+EVAL-000688,Safety & Environment,illegal_liquor,medium,EVAL-000688,0,,,hi,East Singhbhum
+EVAL-000711,Safety & Environment,cyber_fraud,critical,EVAL-000711,0,,,hi,Bokaro
+EVAL-001438,Healthcare,phc_no_doctor,high,EVAL-001438,0,,,en,Giridih
+EVAL-000265,Education,school_electricity,medium,EVAL-000265,0,,,en,Bokaro
+EVAL-000316,Sanitation & Waste,open_drain,high,EVAL-000316,0,,,hi,Ranchi
+EVAL-001082,Safety & Environment,cyber_fraud,low,EVAL-001082,0,,,hinglish,Seraikela-Kharsawan
+EVAL-001478,Roads & Connectivity,road_potholes,critical,EVAL-001478,0,,,hi,Ranchi
+EVAL-001390,Water Supply,public_well,medium,EVAL-001390,0,,,en,Dhanbad
+EVAL-000528,Land & Revenue,registry_appointment,high,EVAL-000528,0,,,hi,Garhwa
+EVAL-000815,Healthcare,anganwadi_supply,high,EVAL-000815,0,,,hi,Dhanbad
+EVAL-000035,Safety & Environment,illegal_liquor,medium,EVAL-000035,0,,,hi,Giridih
+EVAL-001561,Sanitation & Waste,public_toilet_water,critical,EVAL-001561,0,,,hi,Dhanbad
+EVAL-000750,Agriculture & Irrigation,seed_supply,low,EVAL-000750,0,,,en,Garhwa
+EVAL-000785,Sanitation & Waste,toilet_blocked,low,EVAL-000785,0,,,hi,Giridih
+EVAL-000370,Education,boundary_wall,low,EVAL-000370,0,,,hinglish,Palamu
+EVAL-000473,Safety & Environment,womens_safety,critical,EVAL-000473,0,,,hi,Deoghar
+EVAL-000943,Land & Revenue,public_land_encroachment,medium,EVAL-000943,0,,,hinglish,Koderma
+EVAL-001614,Food & PDS,dealer_closed,high,EVAL-001614,0,,,hinglish,Dumka
+EVAL-000397,Education,midday_meal,low,EVAL-000397,0,,,hi,Seraikela-Kharsawan
+EVAL-000899,Healthcare,phc_no_doctor,critical,EVAL-000899,0,,,hi,Dhanbad
+EVAL-000165,Safety & Environment,flood_drainage,high,EVAL-000165,0,,,en,Dhanbad
+EVAL-000829,Land & Revenue,land_record_error,medium,EVAL-000829,0,,,hi,East Singhbhum
+EVAL-001264,Food & PDS,aadhaar_seeding,low,EVAL-001264,0,,,hi,Dhanbad
+EVAL-001715,Welfare & Pensions,widow_pension,high,EVAL-001715,0,,,hi,Ranchi
+EVAL-001784,Safety & Environment,illegal_liquor,critical,EVAL-001784,0,,,en,Garhwa
+EVAL-000067,Safety & Environment,womens_safety,high,EVAL-000067,0,,,en,Hazaribagh
+EVAL-000469,Education,midday_meal,high,EVAL-000469,0,,,hi,Dhanbad
+EVAL-001263,Sanitation & Waste,garbage_collection,low,EVAL-001263,0,,,hinglish,Gumla
+EVAL-001172,Roads & Connectivity,bus_service,critical,EVAL-001172,0,,,en,Seraikela-Kharsawan
+EVAL-000040,Land & Revenue,boundary_demarcation,medium,EVAL-000040,0,,,hi,Hazaribagh
+EVAL-000726,Safety & Environment,police_response,medium,EVAL-000726,0,,,en,Dhanbad
+EVAL-001583,Healthcare,anm_vacancy,high,EVAL-001583,0,,,hinglish,Palamu
+EVAL-000758,Education,textbooks_delay,medium,EVAL-000758,0,,,en,East Singhbhum
+EVAL-001322,Education,textbooks_delay,medium,EVAL-001322,0,,,en,Ranchi
+EVAL-000296,Employment & Livelihoods,wage_delay_contract,high,EVAL-000296,0,,,hinglish,Pakur
+EVAL-001336,Roads & Connectivity,bus_service,high,EVAL-001336,0,,,hi,Deoghar
+EVAL-001133,Electricity,low_voltage,medium,EVAL-001133,0,,,hi,Seraikela-Kharsawan
+EVAL-001676,Agriculture & Irrigation,fertiliser_shop,high,EVAL-001676,0,,,hinglish,Dumka
+EVAL-001459,Healthcare,ambulance_delay,high,EVAL-001459,0,,,hi,Ranchi
+EVAL-001077,Roads & Connectivity,culvert_damage,critical,EVAL-001077,0,,,hi,Jamtara
+EVAL-000056,Healthcare,phc_no_doctor,critical,EVAL-000056,0,,,en,Hazaribagh
+EVAL-000213,Welfare & Pensions,scholarship_delay,medium,EVAL-000213,0,,,en,Chatra
+EVAL-000918,Water Supply,tap_no_supply,medium,EVAL-000918,0,,,en,Godda
+EVAL-001838,Land & Revenue,parcha_copy,medium,EVAL-000144,1,exact,EVAL-000144,hi,Ranchi
+EVAL-001888,Sanitation & Waste,drain_overflow,critical,EVAL-000687,1,near,EVAL-000687,hi,Pakur
+EVAL-001488,Education,midday_meal,medium,EVAL-001488,0,,,en,Giridih
+EVAL-001545,Healthcare,anganwadi_supply,high,EVAL-001545,0,,,en,West Singhbhum
+EVAL-001517,Roads & Connectivity,culvert_damage,critical,EVAL-001517,0,,,en,Giridih
+EVAL-001840,Safety & Environment,womens_safety,high,EVAL-000656,1,exact,EVAL-000656,en,Ramgarh
+EVAL-000993,Water Supply,tanker_delay,high,EVAL-000993,0,,,en,Giridih
+EVAL-000962,Education,boundary_wall,medium,EVAL-000962,0,,,hi,West Singhbhum
+EVAL-000058,Agriculture & Irrigation,seed_supply,medium,EVAL-000058,0,,,hi,Bokaro
+EVAL-001830,Welfare & Pensions,widow_pension,high,EVAL-000699,1,exact,EVAL-000699,hi,Hazaribagh
+EVAL-001392,Sanitation & Waste,public_toilet_water,high,EVAL-001392,0,,,hi,Simdega
+EVAL-000632,Agriculture & Irrigation,mandi_procurement,low,EVAL-000632,0,,,hinglish,Dhanbad
+EVAL-001052,Education,midday_meal,critical,EVAL-001052,0,,,hi,Giridih
+EVAL-001628,Water Supply,tanker_delay,high,EVAL-001628,0,,,en,Palamu
+EVAL-001036,Water Supply,handpump_dry,critical,EVAL-001036,0,,,hi,Seraikela-Kharsawan
+EVAL-001923,Water Supply,tanker_delay,high,EVAL-000172,1,near,EVAL-000172,en,Deoghar
+EVAL-001481,Land & Revenue,mutation_delay,high,EVAL-001481,0,,,hi,Ranchi
+EVAL-000638,Food & PDS,pds_portability,low,EVAL-000638,0,,,hinglish,Dhanbad
+EVAL-000339,Food & PDS,grain_quality,critical,EVAL-000339,0,,,hinglish,East Singhbhum
+EVAL-001737,Healthcare,phc_no_doctor,high,EVAL-001737,0,,,hinglish,Dhanbad
+EVAL-000836,Education,midday_meal,medium,EVAL-000836,0,,,en,West Singhbhum
+EVAL-000626,Agriculture & Irrigation,crop_insurance,medium,EVAL-000626,0,,,en,East Singhbhum
+EVAL-000330,Agriculture & Irrigation,mandi_procurement,medium,EVAL-000330,0,,,hi,Sahibganj
+EVAL-000019,Roads & Connectivity,culvert_damage,high,EVAL-000019,0,,,en,Dhanbad
+EVAL-001494,Electricity,meter_pending,low,EVAL-001494,0,,,hinglish,Ranchi
+EVAL-001164,Safety & Environment,womens_safety,high,EVAL-001164,0,,,hi,Hazaribagh
+EVAL-001284,Healthcare,health_camp,critical,EVAL-001284,0,,,hi,West Singhbhum
+EVAL-000425,Education,school_toilet,high,EVAL-000425,0,,,hi,Dumka
+EVAL-000359,Electricity,feeder_outage,high,EVAL-000359,0,,,hinglish,Sahibganj
+EVAL-000483,Employment & Livelihoods,wage_delay_contract,critical,EVAL-000483,0,,,hinglish,Jamtara
+EVAL-000697,Healthcare,cold_chain,high,EVAL-000697,0,,,hi,Latehar
+EVAL-000123,Agriculture & Irrigation,crop_insurance,medium,EVAL-000123,0,,,en,Ramgarh
+EVAL-001389,Land & Revenue,boundary_demarcation,medium,EVAL-001389,0,,,hinglish,West Singhbhum
+EVAL-001603,Welfare & Pensions,scholarship_delay,medium,EVAL-001603,0,,,en,Latehar
+EVAL-000266,Education,teacher_vacancy,high,EVAL-000266,0,,,hi,Garhwa
+EVAL-000151,Land & Revenue,mutation_delay,high,EVAL-000151,0,,,hi,West Singhbhum
+EVAL-000126,Education,boundary_wall,medium,EVAL-000126,0,,,hi,Godda
+EVAL-000061,Safety & Environment,illegal_liquor,high,EVAL-000061,0,,,hi,Giridih
+EVAL-001301,Agriculture & Irrigation,mandi_procurement,medium,EVAL-001301,0,,,en,East Singhbhum
+EVAL-000515,Sanitation & Waste,open_drain,high,EVAL-000515,0,,,hi,Dhanbad
+EVAL-000542,Food & PDS,pds_portability,high,EVAL-000542,0,,,hinglish,Gumla
+EVAL-000529,Food & PDS,grain_quality,low,EVAL-000529,0,,,en,Khunti
+EVAL-000926,Healthcare,health_camp,medium,EVAL-000926,0,,,en,Dumka
+EVAL-001333,Food & PDS,aadhaar_seeding,critical,EVAL-001333,0,,,en,Palamu
+EVAL-000033,Land & Revenue,land_record_error,critical,EVAL-000033,0,,,hi,East Singhbhum
+EVAL-001826,Food & PDS,dealer_closed,high,EVAL-001430,1,exact,EVAL-001430,hi,Dumka
+EVAL-001706,Roads & Connectivity,streetlight_road,critical,EVAL-001706,0,,,hinglish,Gumla
+EVAL-001229,Sanitation & Waste,drain_overflow,high,EVAL-001229,0,,,en,East Singhbhum
+EVAL-001673,Agriculture & Irrigation,seed_supply,medium,EVAL-001673,0,,,hinglish,Dhanbad
+EVAL-000214,Agriculture & Irrigation,mandi_procurement,high,EVAL-000214,0,,,hi,Sahibganj
+EVAL-000105,Safety & Environment,womens_safety,medium,EVAL-000105,0,,,hi,Dumka
+EVAL-001452,Water Supply,tanker_delay,high,EVAL-001452,0,,,hi,Ranchi
+EVAL-001467,Sanitation & Waste,toilet_blocked,high,EVAL-001467,0,,,hi,Bokaro
+EVAL-000138,Sanitation & Waste,toilet_blocked,medium,EVAL-000138,0,,,hinglish,Simdega
+EVAL-000133,Agriculture & Irrigation,seed_supply,medium,EVAL-000133,0,,,hi,Dhanbad
+EVAL-001712,Education,textbooks_delay,medium,EVAL-001712,0,,,hi,East Singhbhum
+EVAL-001512,Sanitation & Waste,drain_overflow,high,EVAL-001512,0,,,hinglish,Sahibganj
+EVAL-000824,Land & Revenue,land_record_error,low,EVAL-000824,0,,,hinglish,Lohardaga
+EVAL-001388,Education,school_roof,medium,EVAL-001388,0,,,en,Latehar
+EVAL-000307,Electricity,meter_pending,medium,EVAL-000307,0,,,hi,Palamu
+EVAL-000574,Safety & Environment,industrial_dust,critical,EVAL-000574,0,,,hinglish,Deoghar
+EVAL-000036,Food & PDS,grain_quality,low,EVAL-000036,0,,,hi,Bokaro
+EVAL-000855,Water Supply,handpump_dry,critical,EVAL-000855,0,,,hi,Sahibganj
+EVAL-000062,Water Supply,tap_no_supply,critical,EVAL-000062,0,,,hi,Garhwa
+EVAL-000738,Healthcare,health_camp,high,EVAL-000738,0,,,hi,Giridih
+EVAL-000854,Safety & Environment,illegal_liquor,critical,EVAL-000854,0,,,hi,Pakur
+EVAL-000851,Healthcare,anganwadi_supply,high,EVAL-000851,0,,,en,Garhwa
+EVAL-000093,Electricity,low_voltage,medium,EVAL-000093,0,,,hinglish,Hazaribagh
+EVAL-001921,Electricity,meter_pending,medium,EVAL-001016,1,near,EVAL-001016,hinglish,Chatra
+EVAL-001933,Safety & Environment,police_response,medium,EVAL-000121,1,near,EVAL-000121,hinglish,Bokaro
+EVAL-001660,Employment & Livelihoods,migration_support,low,EVAL-001660,0,,,hi,Latehar
+EVAL-001279,Healthcare,anganwadi_supply,low,EVAL-001279,0,,,hinglish,West Singhbhum
+EVAL-000320,Roads & Connectivity,bus_service,medium,EVAL-000320,0,,,en,Ramgarh
+EVAL-001965,Education,school_roof,medium,EVAL-001391,1,near,EVAL-001391,hi,Garhwa
+EVAL-000656,Safety & Environment,womens_safety,high,EVAL-000656,0,,,en,Ramgarh
+EVAL-000048,Healthcare,ambulance_delay,high,EVAL-000048,0,,,hi,Garhwa
+EVAL-000287,Roads & Connectivity,culvert_damage,medium,EVAL-000287,0,,,hi,Lohardaga
+EVAL-000563,Water Supply,water_testing,high,EVAL-000563,0,,,en,Dumka
+EVAL-000555,Agriculture & Irrigation,borewell_irrigation,medium,EVAL-000555,0,,,hinglish,Khunti
+EVAL-000433,Safety & Environment,police_response,medium,EVAL-000433,0,,,hi,Jamtara
+EVAL-000505,Water Supply,tap_no_supply,medium,EVAL-000505,0,,,hi,West Singhbhum
+EVAL-001535,Welfare & Pensions,pension_delay,high,EVAL-001535,0,,,hi,Ramgarh
+EVAL-001899,Land & Revenue,mutation_delay,medium,EVAL-000680,1,near,EVAL-000680,hi,Gumla
+EVAL-001507,Sanitation & Waste,drain_overflow,medium,EVAL-001507,0,,,en,Palamu
+EVAL-001661,Food & PDS,ration_shortweight,high,EVAL-001661,0,,,hi,Bokaro
+EVAL-000516,Land & Revenue,land_record_error,medium,EVAL-000516,0,,,hi,Koderma
+EVAL-000188,Education,school_toilet,low,EVAL-000188,0,,,hi,Garhwa
+EVAL-001756,Healthcare,health_camp,low,EVAL-001756,0,,,hinglish,Giridih
+EVAL-001062,Employment & Livelihoods,migration_support,high,EVAL-001062,0,,,en,Godda
+EVAL-000047,Roads & Connectivity,bridge_damage,high,EVAL-000047,0,,,hi,Deoghar
+EVAL-001171,Water Supply,water_testing,low,EVAL-001171,0,,,en,East Singhbhum
+EVAL-001115,Welfare & Pensions,ration_card_cancel,critical,EVAL-001115,0,,,en,Hazaribagh
+EVAL-001059,Land & Revenue,land_record_error,critical,EVAL-001059,0,,,hinglish,Dumka
+EVAL-001299,Food & PDS,aadhaar_seeding,low,EVAL-001299,0,,,hi,Giridih
+EVAL-001972,Safety & Environment,flood_drainage,high,EVAL-001533,1,near,EVAL-001533,en,Khunti
+EVAL-001315,Electricity,low_voltage,high,EVAL-001315,0,,,hi,West Singhbhum
+EVAL-001490,Roads & Connectivity,road_potholes,critical,EVAL-001490,0,,,en,Bokaro
+EVAL-001451,Welfare & Pensions,widow_pension,high,EVAL-001451,0,,,hi,Palamu
+EVAL-000235,Roads & Connectivity,bus_service,medium,EVAL-000235,0,,,hinglish,Palamu
+EVAL-000436,Electricity,solar_streetlight,low,EVAL-000436,0,,,en,Giridih
+EVAL-001597,Healthcare,anm_vacancy,medium,EVAL-001597,0,,,hi,Bokaro
+EVAL-000144,Land & Revenue,parcha_copy,medium,EVAL-000144,0,,,hi,Ranchi
+EVAL-001739,Education,boundary_wall,low,EVAL-001739,0,,,hinglish,Seraikela-Kharsawan
+EVAL-000592,Electricity,meter_pending,medium,EVAL-000592,0,,,hi,Ranchi
+EVAL-001212,Education,midday_meal,high,EVAL-001212,0,,,hinglish,Khunti
+EVAL-000495,Healthcare,anm_vacancy,high,EVAL-000495,0,,,hi,East Singhbhum
+EVAL-001046,Roads & Connectivity,culvert_damage,low,EVAL-001046,0,,,hinglish,Ranchi
+EVAL-000092,Welfare & Pensions,disability_certificate,medium,EVAL-000092,0,,,hi,Simdega
+EVAL-001714,Healthcare,medicine_stock,critical,EVAL-001714,0,,,hi,Bokaro
+EVAL-001513,Safety & Environment,police_response,high,EVAL-001513,0,,,hi,Garhwa
+EVAL-000441,Water Supply,handpump_dry,critical,EVAL-000441,0,,,hinglish,Garhwa
+EVAL-000292,Healthcare,medicine_stock,critical,EVAL-000292,0,,,hinglish,Dhanbad
+EVAL-001056,Employment & Livelihoods,wage_delay_contract,medium,EVAL-001056,0,,,hi,Dumka
+EVAL-000874,Employment & Livelihoods,job_card,medium,EVAL-000874,0,,,hinglish,Hazaribagh
+EVAL-001743,Electricity,feeder_outage,high,EVAL-001743,0,,,en,Seraikela-Kharsawan
+EVAL-001658,Education,school_toilet,high,EVAL-001658,0,,,hi,Giridih
+EVAL-000941,Agriculture & Irrigation,mandi_procurement,critical,EVAL-000941,0,,,hinglish,West Singhbhum
+EVAL-001458,Roads & Connectivity,bridge_damage,high,EVAL-001458,0,,,hi,Simdega
+EVAL-001984,Water Supply,handpump_dry,high,EVAL-001759,1,near,EVAL-001759,hi,Giridih
+EVAL-000311,Welfare & Pensions,widow_pension,critical,EVAL-000311,0,,,hinglish,West Singhbhum
+EVAL-001861,Safety & Environment,flood_drainage,high,EVAL-001579,1,near,EVAL-001579,hi,Godda
+EVAL-000576,Welfare & Pensions,ration_card_cancel,low,EVAL-000576,0,,,en,Giridih
+EVAL-000152,Food & PDS,dealer_closed,low,EVAL-000152,0,,,hi,Dhanbad
+EVAL-001667,Welfare & Pensions,pension_delay,critical,EVAL-001667,0,,,hi,Gumla
+EVAL-001763,Agriculture & Irrigation,seed_supply,high,EVAL-001763,0,,,en,East Singhbhum
+EVAL-001895,Roads & Connectivity,road_potholes,medium,EVAL-000978,1,near,EVAL-000978,en,West Singhbhum
+EVAL-000957,Roads & Connectivity,streetlight_road,high,EVAL-000957,0,,,en,Ranchi
+EVAL-000965,Healthcare,anganwadi_supply,medium,EVAL-000965,0,,,hi,Godda
+EVAL-001324,Food & PDS,ration_shortweight,high,EVAL-001324,0,,,hi,Pakur
+EVAL-000162,Sanitation & Waste,open_drain,high,EVAL-000162,0,,,hinglish,Simdega
+EVAL-000335,Agriculture & Irrigation,borewell_irrigation,low,EVAL-000335,0,,,hi,Dumka
+EVAL-000396,Agriculture & Irrigation,borewell_irrigation,high,EVAL-000396,0,,,hi,Giridih
+EVAL-000087,Electricity,low_voltage,medium,EVAL-000087,0,,,en,Seraikela-Kharsawan
+EVAL-001302,Roads & Connectivity,streetlight_road,high,EVAL-001302,0,,,hi,Ranchi
+EVAL-000312,Food & PDS,grain_quality,low,EVAL-000312,0,,,en,Hazaribagh
+EVAL-001934,Water Supply,tanker_delay,critical,EVAL-000097,1,near,EVAL-000097,hinglish,Bokaro
+EVAL-001097,Sanitation & Waste,open_drain,high,EVAL-001097,0,,,en,Deoghar
+EVAL-000299,Land & Revenue,public_land_encroachment,high,EVAL-000299,0,,,hinglish,Lohardaga
+EVAL-000861,Electricity,solar_streetlight,high,EVAL-000861,0,,,hi,Sahibganj
+EVAL-001215,Electricity,feeder_outage,high,EVAL-001215,0,,,hi,Dhanbad
+EVAL-000800,Roads & Connectivity,road_potholes,high,EVAL-000800,0,,,hinglish,Lohardaga
+EVAL-000933,Safety & Environment,illegal_liquor,medium,EVAL-000933,0,,,hinglish,Palamu
+EVAL-001856,Healthcare,anm_vacancy,high,EVAL-001454,1,near,EVAL-001454,en,Giridih
+EVAL-001063,Healthcare,phc_no_doctor,high,EVAL-001063,0,,,hi,Giridih
+EVAL-000023,Water Supply,water_quality,critical,EVAL-000023,0,,,en,Seraikela-Kharsawan
+EVAL-000470,Agriculture & Irrigation,fertiliser_shop,low,EVAL-000470,0,,,en,Gumla
+EVAL-001061,Roads & Connectivity,road_potholes,critical,EVAL-001061,0,,,hi,Dhanbad
+EVAL-001633,Water Supply,handpump_dry,critical,EVAL-001633,0,,,hinglish,Bokaro
+EVAL-000723,Food & PDS,grain_quality,medium,EVAL-000723,0,,,en,Garhwa
+EVAL-000254,Welfare & Pensions,widow_pension,medium,EVAL-000254,0,,,en,Ranchi
+EVAL-000922,Water Supply,tap_no_supply,high,EVAL-000922,0,,,en,Hazaribagh
+EVAL-001337,Food & PDS,dealer_closed,high,EVAL-001337,0,,,hi,Deoghar
+EVAL-001104,Sanitation & Waste,drain_overflow,medium,EVAL-001104,0,,,hi,Koderma
+EVAL-001590,Agriculture & Irrigation,crop_insurance,medium,EVAL-001590,0,,,hi,Bokaro
+EVAL-001461,Welfare & Pensions,pension_delay,low,EVAL-001461,0,,,hinglish,Deoghar
+EVAL-000876,Agriculture & Irrigation,seed_supply,medium,EVAL-000876,0,,,hi,East Singhbhum
+EVAL-000161,Sanitation & Waste,public_toilet_water,medium,EVAL-000161,0,,,hi,Seraikela-Kharsawan
+EVAL-000996,Safety & Environment,illegal_liquor,high,EVAL-000996,0,,,en,Koderma
+EVAL-000751,Electricity,solar_streetlight,medium,EVAL-000751,0,,,hinglish,Ranchi
+EVAL-001790,Water Supply,tap_no_supply,high,EVAL-001790,0,,,en,Godda
+EVAL-000820,Education,school_toilet,critical,EVAL-000820,0,,,en,Palamu
+EVAL-001123,Food & PDS,aadhaar_seeding,medium,EVAL-001123,0,,,hi,Latehar
+EVAL-001021,Water Supply,tap_no_supply,low,EVAL-001021,0,,,hi,Deoghar
+EVAL-001242,Employment & Livelihoods,migration_support,critical,EVAL-001242,0,,,en,Ranchi
+EVAL-000821,Agriculture & Irrigation,mandi_procurement,high,EVAL-000821,0,,,en,Chatra
+EVAL-001048,Welfare & Pensions,mgnrega_wages,low,EVAL-001048,0,,,hi,West Singhbhum
+EVAL-000245,Healthcare,health_camp,medium,EVAL-000245,0,,,hinglish,Garhwa
+EVAL-001378,Land & Revenue,mutation_delay,high,EVAL-001378,0,,,en,West Singhbhum
+EVAL-000415,Welfare & Pensions,disability_certificate,medium,EVAL-000415,0,,,hinglish,Seraikela-Kharsawan
+EVAL-000601,Agriculture & Irrigation,mandi_procurement,high,EVAL-000601,0,,,hi,Godda
+EVAL-001927,Healthcare,anm_vacancy,high,EVAL-000646,1,near,EVAL-000646,hinglish,Jamtara
+EVAL-000770,Roads & Connectivity,roadside_drain,low,EVAL-000770,0,,,hi,East Singhbhum
+EVAL-000577,Roads & Connectivity,culvert_damage,critical,EVAL-000577,0,,,hi,East Singhbhum
+EVAL-001723,Sanitation & Waste,garbage_collection,medium,EVAL-001723,0,,,hi,Garhwa
+EVAL-001966,Water Supply,tap_no_supply,low,EVAL-001021,1,near,EVAL-001021,hi,Deoghar
+EVAL-001309,Education,school_toilet,medium,EVAL-001309,0,,,en,East Singhbhum
+EVAL-000640,Healthcare,health_camp,low,EVAL-000640,0,,,hi,Garhwa
+EVAL-000964,Water Supply,water_quality,high,EVAL-000964,0,,,hi,Dhanbad
+EVAL-000976,Land & Revenue,boundary_demarcation,low,EVAL-000976,0,,,en,Hazaribagh
+EVAL-000478,Healthcare,medicine_stock,high,EVAL-000478,0,,,hinglish,Latehar
+EVAL-001821,Food & PDS,new_ration_card,high,EVAL-001139,1,exact,EVAL-001139,hi,Ranchi
+EVAL-001150,Education,boundary_wall,low,EVAL-001150,0,,,hi,Garhwa
+EVAL-000485,Sanitation & Waste,toilet_blocked,high,EVAL-000485,0,,,hi,Giridih
+EVAL-001520,Roads & Connectivity,road_potholes,medium,EVAL-001520,0,,,hinglish,Latehar
+EVAL-001436,Food & PDS,dealer_closed,low,EVAL-001436,0,,,en,Godda
+EVAL-001791,Welfare & Pensions,scholarship_delay,medium,EVAL-001791,0,,,hinglish,Bokaro
+EVAL-000032,Welfare & Pensions,scholarship_delay,low,EVAL-000032,0,,,en,Deoghar
+EVAL-000414,Sanitation & Waste,open_drain,high,EVAL-000414,0,,,hinglish,Deoghar
+EVAL-000258,Electricity,solar_streetlight,medium,EVAL-000258,0,,,hi,Palamu
+EVAL-001544,Food & PDS,pds_portability,critical,EVAL-001544,0,,,hi,Hazaribagh
+EVAL-000347,Food & PDS,grain_quality,medium,EVAL-000347,0,,,hi,East Singhbhum
+EVAL-001557,Safety & Environment,industrial_dust,high,EVAL-001557,0,,,hi,Jamtara
+EVAL-000681,Safety & Environment,police_response,high,EVAL-000681,0,,,hi,Bokaro
+EVAL-000907,Land & Revenue,parcha_copy,medium,EVAL-000907,0,,,hi,Latehar
+EVAL-000571,Food & PDS,grain_quality,critical,EVAL-000571,0,,,en,Hazaribagh
+EVAL-000908,Electricity,feeder_outage,medium,EVAL-000908,0,,,en,West Singhbhum
+EVAL-000445,Electricity,low_voltage,high,EVAL-000445,0,,,hi,Dhanbad
+EVAL-000532,Healthcare,ambulance_delay,medium,EVAL-000532,0,,,hi,Latehar
+EVAL-000565,Welfare & Pensions,pension_delay,medium,EVAL-000565,0,,,en,Godda
+EVAL-000979,Roads & Connectivity,bridge_damage,high,EVAL-000979,0,,,hi,Latehar
+EVAL-001719,Water Supply,water_testing,medium,EVAL-001719,0,,,en,East Singhbhum
+EVAL-000974,Education,school_toilet,high,EVAL-000974,0,,,hinglish,Godda
+EVAL-000319,Water Supply,tap_no_supply,high,EVAL-000319,0,,,hi,Dumka
+EVAL-001889,Land & Revenue,land_record_error,medium,EVAL-001066,1,near,EVAL-001066,hi,Dumka
+EVAL-001029,Water Supply,handpump_dry,high,EVAL-001029,0,,,en,Lohardaga
+EVAL-000745,Land & Revenue,land_record_error,medium,EVAL-000745,0,,,hi,Pakur
+EVAL-000837,Safety & Environment,flood_drainage,critical,EVAL-000837,0,,,en,Chatra
+EVAL-000172,Water Supply,tanker_delay,high,EVAL-000172,0,,,en,Deoghar
+EVAL-000497,Welfare & Pensions,mgnrega_wages,high,EVAL-000497,0,,,hinglish,Dumka
+EVAL-001069,Water Supply,handpump_dry,critical,EVAL-001069,0,,,hinglish,Garhwa
+EVAL-000194,Employment & Livelihoods,job_card,low,EVAL-000194,0,,,en,Hazaribagh
+EVAL-000840,Safety & Environment,illegal_liquor,medium,EVAL-000840,0,,,hinglish,Palamu
+EVAL-000627,Agriculture & Irrigation,borewell_irrigation,high,EVAL-000627,0,,,en,East Singhbhum
+EVAL-000868,Land & Revenue,parcha_copy,low,EVAL-000868,0,,,hinglish,East Singhbhum
+EVAL-001454,Healthcare,anm_vacancy,high,EVAL-001454,0,,,en,Giridih
+EVAL-000984,Food & PDS,aadhaar_seeding,low,EVAL-000984,0,,,en,Palamu
+EVAL-000936,Roads & Connectivity,roadside_drain,high,EVAL-000936,0,,,en,Dhanbad
+EVAL-000143,Welfare & Pensions,scholarship_delay,high,EVAL-000143,0,,,hinglish,Pakur
+EVAL-001975,Education,school_roof,high,EVAL-001298,1,near,EVAL-001298,hi,Godda
+EVAL-001348,Water Supply,handpump_dry,high,EVAL-001348,0,,,hinglish,East Singhbhum
+EVAL-000916,Agriculture & Irrigation,crop_insurance,critical,EVAL-000916,0,,,hi,Ranchi
+EVAL-000039,Sanitation & Waste,open_drain,medium,EVAL-000039,0,,,hi,Ranchi
+EVAL-001647,Agriculture & Irrigation,fertiliser_shop,low,EVAL-001647,0,,,en,Latehar
+EVAL-000233,Water Supply,water_quality,critical,EVAL-000233,0,,,en,Dhanbad
+EVAL-000981,Healthcare,cold_chain,critical,EVAL-000981,0,,,hi,Gumla
+EVAL-000539,Land & Revenue,parcha_copy,medium,EVAL-000539,0,,,hi,Chatra
+EVAL-000818,Sanitation & Waste,toilet_blocked,high,EVAL-000818,0,,,en,Dhanbad
+EVAL-001619,Education,midday_meal,low,EVAL-001619,0,,,en,Khunti
+EVAL-001206,Welfare & Pensions,mgnrega_wages,medium,EVAL-001206,0,,,hi,Sahibganj
+EVAL-001760,Safety & Environment,flood_drainage,critical,EVAL-001760,0,,,hi,East Singhbhum
+EVAL-001935,Safety & Environment,police_response,critical,EVAL-001622,1,near,EVAL-001622,en,Dumka
+EVAL-000593,Agriculture & Irrigation,seed_supply,medium,EVAL-000593,0,,,hinglish,Sahibganj
+EVAL-000582,Employment & Livelihoods,migration_support,critical,EVAL-000582,0,,,hi,Khunti
+EVAL-000135,Roads & Connectivity,roadside_drain,high,EVAL-000135,0,,,hinglish,Giridih
+EVAL-000430,Education,textbooks_delay,high,EVAL-000430,0,,,hi,Deoghar
+EVAL-000743,Land & Revenue,boundary_demarcation,high,EVAL-000743,0,,,en,Garhwa
+EVAL-001237,Education,school_roof,critical,EVAL-001237,0,,,en,Jamtara
+EVAL-001294,Safety & Environment,womens_safety,high,EVAL-001294,0,,,hi,Ranchi
+EVAL-001819,Safety & Environment,womens_safety,medium,EVAL-000960,1,exact,EVAL-000960,hi,Gumla
+EVAL-001938,Sanitation & Waste,open_drain,medium,EVAL-001485,1,near,EVAL-001485,hi,Bokaro
+EVAL-001844,Water Supply,tap_no_supply,medium,EVAL-000383,1,near,EVAL-000383,en,Bokaro
+EVAL-001094,Agriculture & Irrigation,canal_irrigation,medium,EVAL-001094,0,,,hi,Bokaro
+EVAL-001620,Roads & Connectivity,road_potholes,medium,EVAL-001620,0,,,hi,Jamtara
+EVAL-000676,Safety & Environment,illegal_liquor,medium,EVAL-000676,0,,,en,Giridih
+EVAL-001992,Agriculture & Irrigation,crop_insurance,medium,EVAL-000626,1,near,EVAL-000626,en,East Singhbhum
+EVAL-000860,Employment & Livelihoods,job_card,low,EVAL-000860,0,,,en,Ramgarh
+EVAL-001001,Agriculture & Irrigation,mandi_procurement,high,EVAL-001001,0,,,en,Simdega
+EVAL-000499,Employment & Livelihoods,skill_training,critical,EVAL-000499,0,,,en,Palamu
+EVAL-001864,Education,teacher_vacancy,medium,EVAL-001025,1,near,EVAL-001025,hi,Ramgarh
+EVAL-000508,Electricity,solar_streetlight,high,EVAL-000508,0,,,hi,Garhwa
+EVAL-000863,Roads & Connectivity,streetlight_road,high,EVAL-000863,0,,,en,Godda
+EVAL-000398,Land & Revenue,boundary_demarcation,high,EVAL-000398,0,,,en,Ranchi
+EVAL-001168,Roads & Connectivity,roadside_drain,high,EVAL-001168,0,,,hinglish,Palamu
+EVAL-001783,Land & Revenue,land_record_error,critical,EVAL-001783,0,,,hinglish,Sahibganj
+EVAL-001401,Education,school_roof,low,EVAL-001401,0,,,hi,Deoghar
+EVAL-001418,Roads & Connectivity,culvert_damage,medium,EVAL-001418,0,,,en,Seraikela-Kharsawan
+EVAL-001180,Land & Revenue,mutation_delay,high,EVAL-001180,0,,,en,Giridih
+EVAL-000192,Employment & Livelihoods,migration_support,low,EVAL-000192,0,,,hi,Palamu
+EVAL-000911,Sanitation & Waste,open_drain,critical,EVAL-000911,0,,,hi,Ranchi
+EVAL-001412,Welfare & Pensions,widow_pension,critical,EVAL-001412,0,,,en,West Singhbhum
+EVAL-001854,Education,boundary_wall,medium,EVAL-000456,1,near,EVAL-000456,hi,Giridih
+EVAL-001777,Welfare & Pensions,widow_pension,high,EVAL-001777,0,,,hinglish,East Singhbhum
+EVAL-000298,Welfare & Pensions,disability_certificate,low,EVAL-000298,0,,,en,Gumla
+EVAL-001368,Employment & Livelihoods,skill_training,critical,EVAL-001368,0,,,hinglish,Jamtara
+EVAL-000016,Healthcare,phc_no_doctor,medium,EVAL-000016,0,,,hi,Bokaro
+EVAL-001462,Agriculture & Irrigation,borewell_irrigation,medium,EVAL-001462,0,,,hinglish,Hazaribagh
+EVAL-001283,Land & Revenue,mutation_delay,high,EVAL-001283,0,,,hi,Ranchi
+EVAL-000118,Land & Revenue,registry_appointment,medium,EVAL-000118,0,,,hi,Khunti
+EVAL-001145,Electricity,feeder_outage,high,EVAL-001145,0,,,hi,West Singhbhum
+EVAL-000518,Employment & Livelihoods,skill_training,low,EVAL-000518,0,,,hinglish,Dumka
+EVAL-000559,Land & Revenue,mutation_delay,critical,EVAL-000559,0,,,en,Deoghar
+EVAL-000364,Welfare & Pensions,scholarship_delay,medium,EVAL-000364,0,,,en,Godda
+EVAL-001148,Safety & Environment,cyber_fraud,high,EVAL-001148,0,,,en,West Singhbhum
+EVAL-000294,Agriculture & Irrigation,borewell_irrigation,high,EVAL-000294,0,,,en,Palamu
+EVAL-000403,Land & Revenue,registry_appointment,low,EVAL-000403,0,,,hinglish,Dhanbad
+EVAL-000817,Electricity,solar_streetlight,medium,EVAL-000817,0,,,hi,East Singhbhum
+EVAL-001075,Welfare & Pensions,scholarship_delay,high,EVAL-001075,0,,,hi,Seraikela-Kharsawan
+EVAL-000003,Electricity,bill_error,high,EVAL-000003,0,,,hi,Bokaro
+EVAL-001200,Food & PDS,grain_quality,low,EVAL-001200,0,,,en,East Singhbhum
+EVAL-001199,Healthcare,anganwadi_supply,high,EVAL-001199,0,,,en,Latehar
+EVAL-001405,Sanitation & Waste,garbage_collection,medium,EVAL-001405,0,,,en,Bokaro
+EVAL-000550,Employment & Livelihoods,wage_delay_contract,high,EVAL-000550,0,,,hinglish,Hazaribagh
+EVAL-000556,Healthcare,phc_no_doctor,critical,EVAL-000556,0,,,en,East Singhbhum
+EVAL-000313,Land & Revenue,boundary_demarcation,low,EVAL-000313,0,,,hi,East Singhbhum
+EVAL-001120,Agriculture & Irrigation,crop_insurance,medium,EVAL-001120,0,,,hi,Chatra
+EVAL-000842,Safety & Environment,womens_safety,high,EVAL-000842,0,,,hinglish,Ranchi
+EVAL-001634,Land & Revenue,mutation_delay,high,EVAL-001634,0,,,en,Hazaribagh
+EVAL-001554,Water Supply,tap_no_supply,high,EVAL-001554,0,,,en,East Singhbhum
+EVAL-001671,Electricity,meter_pending,medium,EVAL-001671,0,,,hi,Dhanbad
+EVAL-001270,Sanitation & Waste,public_toilet_water,medium,EVAL-001270,0,,,en,Ranchi
+EVAL-000317,Education,textbooks_delay,medium,EVAL-000317,0,,,en,Garhwa
+EVAL-000011,Healthcare,anganwadi_supply,low,EVAL-000011,0,,,hi,Pakur
+EVAL-001891,Roads & Connectivity,bridge_damage,critical,EVAL-001287,1,near,EVAL-001287,en,Jamtara
+EVAL-000654,Roads & Connectivity,bridge_damage,high,EVAL-000654,0,,,en,Seraikela-Kharsawan
+EVAL-000825,Sanitation & Waste,open_drain,medium,EVAL-000825,0,,,hi,Simdega
+EVAL-000809,Safety & Environment,cyber_fraud,medium,EVAL-000809,0,,,hi,Ranchi
+EVAL-000573,Sanitation & Waste,garbage_collection,high,EVAL-000573,0,,,hinglish,Pakur
+EVAL-001016,Electricity,meter_pending,medium,EVAL-001016,0,,,hinglish,Chatra
+EVAL-000392,Electricity,meter_pending,medium,EVAL-000392,0,,,hi,Ranchi
+EVAL-001720,Safety & Environment,illegal_liquor,medium,EVAL-001720,0,,,hi,East Singhbhum
+EVAL-001448,Electricity,low_voltage,critical,EVAL-001448,0,,,en,East Singhbhum
+EVAL-000525,Safety & Environment,cyber_fraud,high,EVAL-000525,0,,,en,Ranchi
+EVAL-000420,Welfare & Pensions,widow_pension,medium,EVAL-000420,0,,,en,East Singhbhum
+EVAL-001528,Education,midday_meal,critical,EVAL-001528,0,,,hinglish,Seraikela-Kharsawan
+EVAL-000523,Healthcare,health_camp,medium,EVAL-000523,0,,,hi,Simdega
+EVAL-000804,Electricity,solar_streetlight,high,EVAL-000804,0,,,en,West Singhbhum
+EVAL-000405,Electricity,meter_pending,low,EVAL-000405,0,,,hi,Garhwa
+EVAL-000268,Healthcare,phc_no_doctor,high,EVAL-000268,0,,,hi,Dhanbad
+EVAL-000174,Land & Revenue,public_land_encroachment,high,EVAL-000174,0,,,en,Seraikela-Kharsawan
+EVAL-001289,Water Supply,water_testing,high,EVAL-001289,0,,,hinglish,Godda
+EVAL-001261,Water Supply,water_testing,critical,EVAL-001261,0,,,hi,East Singhbhum
+EVAL-001829,Education,school_electricity,high,EVAL-001795,1,exact,EVAL-001795,hi,Sahibganj
+EVAL-001354,Water Supply,public_well,high,EVAL-001354,0,,,hi,Ranchi
+EVAL-000301,Roads & Connectivity,streetlight_road,high,EVAL-000301,0,,,hi,Deoghar
+EVAL-001327,Electricity,bill_error,medium,EVAL-001327,0,,,hinglish,East Singhbhum
+EVAL-001018,Education,boundary_wall,high,EVAL-001018,0,,,hi,Palamu
+EVAL-001542,Safety & Environment,womens_safety,medium,EVAL-001542,0,,,hi,Jamtara
+EVAL-001231,Healthcare,health_camp,high,EVAL-001231,0,,,hinglish,Latehar
+EVAL-000527,Food & PDS,new_ration_card,low,EVAL-000527,0,,,hinglish,Bokaro
+EVAL-000683,Safety & Environment,womens_safety,medium,EVAL-000683,0,,,en,Sahibganj
+EVAL-000806,Education,school_toilet,medium,EVAL-000806,0,,,en,Ranchi
+EVAL-000838,Healthcare,phc_no_doctor,critical,EVAL-000838,0,,,en,Hazaribagh
+EVAL-001431,Sanitation & Waste,garbage_collection,medium,EVAL-001431,0,,,en,Palamu
+EVAL-000560,Employment & Livelihoods,wage_delay_contract,high,EVAL-000560,0,,,hi,Dumka
+EVAL-001491,Land & Revenue,public_land_encroachment,high,EVAL-001491,0,,,en,Godda
+EVAL-001356,Healthcare,ambulance_delay,critical,EVAL-001356,0,,,hi,East Singhbhum
+EVAL-001686,Roads & Connectivity,culvert_damage,medium,EVAL-001686,0,,,hi,Giridih
+EVAL-001757,Food & PDS,pds_portability,high,EVAL-001757,0,,,hi,Palamu
+EVAL-000716,Roads & Connectivity,roadside_drain,medium,EVAL-000716,0,,,hinglish,Chatra
+EVAL-000388,Agriculture & Irrigation,canal_irrigation,medium,EVAL-000388,0,,,hinglish,Chatra
+EVAL-001805,Education,school_electricity,high,EVAL-000917,1,exact,EVAL-000917,en,West Singhbhum
+EVAL-001869,Welfare & Pensions,disability_certificate,high,EVAL-000110,1,near,EVAL-000110,en,Bokaro
+EVAL-000898,Water Supply,water_testing,high,EVAL-000898,0,,,hi,Godda
+EVAL-000341,Food & PDS,dealer_closed,medium,EVAL-000341,0,,,en,Dhanbad
+EVAL-001427,Sanitation & Waste,garbage_collection,medium,EVAL-001427,0,,,hi,Godda
+EVAL-001358,Roads & Connectivity,streetlight_road,high,EVAL-001358,0,,,en,Godda
+EVAL-000466,Land & Revenue,public_land_encroachment,medium,EVAL-000466,0,,,en,Bokaro
+EVAL-001375,Electricity,meter_pending,low,EVAL-001375,0,,,hinglish,Ranchi
+EVAL-001951,Agriculture & Irrigation,mandi_procurement,medium,EVAL-001093,1,near,EVAL-001093,hinglish,Palamu
+EVAL-000440,Healthcare,cold_chain,critical,EVAL-000440,0,,,en,Gumla
+EVAL-000107,Education,teacher_vacancy,medium,EVAL-000107,0,,,hi,Deoghar
+EVAL-001362,Roads & Connectivity,bridge_damage,critical,EVAL-001362,0,,,hi,Bokaro
+EVAL-000460,Agriculture & Irrigation,crop_insurance,medium,EVAL-000460,0,,,hi,Jamtara
+EVAL-000120,Sanitation & Waste,toilet_blocked,medium,EVAL-000120,0,,,hinglish,East Singhbhum
+EVAL-000875,Healthcare,anganwadi_supply,medium,EVAL-000875,0,,,en,East Singhbhum
+EVAL-001898,Education,boundary_wall,medium,EVAL-001468,1,near,EVAL-001468,en,Dhanbad
+EVAL-001369,Food & PDS,ration_shortweight,critical,EVAL-001369,0,,,hi,Seraikela-Kharsawan
+EVAL-000598,Agriculture & Irrigation,canal_irrigation,low,EVAL-000598,0,,,hi,Dhanbad
+EVAL-001700,Electricity,meter_pending,medium,EVAL-001700,0,,,hinglish,Bokaro
+EVAL-001511,Electricity,bill_error,medium,EVAL-001511,0,,,en,East Singhbhum
+EVAL-000521,Agriculture & Irrigation,seed_supply,low,EVAL-000521,0,,,hi,West Singhbhum
+EVAL-001691,Agriculture & Irrigation,canal_irrigation,low,EVAL-001691,0,,,hinglish,Palamu
+EVAL-001990,Employment & Livelihoods,wage_delay_contract,high,EVAL-000018,1,near,EVAL-000018,en,Bokaro
+EVAL-000378,Education,boundary_wall,low,EVAL-000378,0,,,en,Godda
+EVAL-000622,Food & PDS,new_ration_card,high,EVAL-000622,0,,,hi,Dhanbad
+EVAL-001847,Land & Revenue,boundary_demarcation,low,EVAL-000580,1,near,EVAL-000580,en,Ranchi
+EVAL-000083,Agriculture & Irrigation,mandi_procurement,low,EVAL-000083,0,,,hi,Dhanbad
+EVAL-000464,Electricity,low_voltage,critical,EVAL-000464,0,,,hi,West Singhbhum
+EVAL-001367,Roads & Connectivity,road_potholes,medium,EVAL-001367,0,,,hi,Giridih
+EVAL-001943,Safety & Environment,police_response,low,EVAL-000698,1,near,EVAL-000698,en,Ranchi
+EVAL-000272,Water Supply,water_quality,high,EVAL-000272,0,,,hi,Garhwa
+EVAL-000771,Roads & Connectivity,bus_service,low,EVAL-000771,0,,,en,Godda
+EVAL-000690,Welfare & Pensions,widow_pension,high,EVAL-000690,0,,,en,Bokaro
+EVAL-000543,Healthcare,phc_no_doctor,critical,EVAL-000543,0,,,hinglish,Hazaribagh
+EVAL-000273,Sanitation & Waste,toilet_blocked,critical,EVAL-000273,0,,,hinglish,West Singhbhum
+EVAL-000502,Safety & Environment,illegal_liquor,high,EVAL-000502,0,,,hinglish,Ranchi
+EVAL-000980,Agriculture & Irrigation,fertiliser_shop,medium,EVAL-000980,0,,,hinglish,Palamu
+EVAL-000327,Roads & Connectivity,bus_service,high,EVAL-000327,0,,,hi,Hazaribagh
+EVAL-000498,Land & Revenue,registry_appointment,medium,EVAL-000498,0,,,en,Pakur
+EVAL-001475,Land & Revenue,land_record_error,high,EVAL-001475,0,,,hi,Khunti
+EVAL-000893,Land & Revenue,registry_appointment,critical,EVAL-000893,0,,,hi,Godda
+EVAL-000377,Water Supply,tanker_delay,low,EVAL-000377,0,,,hi,Palamu
+EVAL-000349,Safety & Environment,womens_safety,low,EVAL-000349,0,,,hinglish,Bokaro
+EVAL-000240,Employment & Livelihoods,wage_delay_contract,high,EVAL-000240,0,,,en,Ranchi
+EVAL-000881,Education,school_toilet,high,EVAL-000881,0,,,hi,Khunti
+EVAL-000153,Healthcare,ambulance_delay,critical,EVAL-000153,0,,,en,Godda
+EVAL-001071,Safety & Environment,industrial_dust,high,EVAL-001071,0,,,hi,Hazaribagh
+EVAL-000978,Roads & Connectivity,road_potholes,medium,EVAL-000978,0,,,en,West Singhbhum
+EVAL-000236,Education,boundary_wall,medium,EVAL-000236,0,,,en,Dumka
+EVAL-000038,Agriculture & Irrigation,fertiliser_shop,high,EVAL-000038,0,,,en,Ranchi
+EVAL-000110,Welfare & Pensions,disability_certificate,high,EVAL-000110,0,,,en,Bokaro
+EVAL-000250,Welfare & Pensions,mgnrega_wages,critical,EVAL-000250,0,,,en,Hazaribagh
+EVAL-000925,Sanitation & Waste,drain_overflow,high,EVAL-000925,0,,,hi,Sahibganj
+EVAL-001238,Education,textbooks_delay,high,EVAL-001238,0,,,hi,Bokaro
+EVAL-000572,Safety & Environment,flood_drainage,high,EVAL-000572,0,,,hinglish,Giridih
+EVAL-001968,Welfare & Pensions,ration_card_cancel,high,EVAL-001752,1,near,EVAL-001752,hi,Palamu
+EVAL-000112,Safety & Environment,womens_safety,medium,EVAL-000112,0,,,hinglish,Deoghar
+EVAL-000142,Sanitation & Waste,drain_overflow,critical,EVAL-000142,0,,,hi,Jamtara
+EVAL-001892,Safety & Environment,flood_drainage,critical,EVAL-001039,1,near,EVAL-001039,en,Giridih
+EVAL-001654,Welfare & Pensions,disability_certificate,low,EVAL-001654,0,,,hi,Deoghar
+EVAL-000781,Agriculture & Irrigation,crop_insurance,critical,EVAL-000781,0,,,en,Giridih
+EVAL-001538,Welfare & Pensions,disability_certificate,high,EVAL-001538,0,,,hi,Hazaribagh
+EVAL-000549,Agriculture & Irrigation,fertiliser_shop,medium,EVAL-000549,0,,,en,Deoghar
+EVAL-001312,Healthcare,phc_no_doctor,critical,EVAL-001312,0,,,hi,Palamu
+EVAL-001410,Sanitation & Waste,toilet_blocked,medium,EVAL-001410,0,,,en,Lohardaga
+EVAL-001835,Land & Revenue,land_record_error,low,EVAL-000824,1,exact,EVAL-000824,hinglish,Lohardaga
+EVAL-000915,Food & PDS,ration_shortweight,high,EVAL-000915,0,,,hinglish,Palamu
+EVAL-001893,Water Supply,public_well,medium,EVAL-000707,1,near,EVAL-000707,hi,Ranchi
+EVAL-001050,Food & PDS,aadhaar_seeding,medium,EVAL-001050,0,,,en,Bokaro
+EVAL-001911,Land & Revenue,registry_appointment,low,EVAL-000403,1,near,EVAL-000403,hinglish,Dhanbad
+EVAL-000037,Land & Revenue,public_land_encroachment,low,EVAL-000037,0,,,hinglish,Bokaro
+EVAL-000493,Healthcare,anm_vacancy,critical,EVAL-000493,0,,,en,Dhanbad
+EVAL-001698,Food & PDS,dealer_closed,low,EVAL-001698,0,,,hi,West Singhbhum
+EVAL-000801,Water Supply,handpump_dry,critical,EVAL-000801,0,,,hinglish,Simdega
+EVAL-000972,Welfare & Pensions,mgnrega_wages,high,EVAL-000972,0,,,en,Palamu
+EVAL-000489,Agriculture & Irrigation,fertiliser_shop,high,EVAL-000489,0,,,en,Pakur
+EVAL-001183,Land & Revenue,registry_appointment,high,EVAL-001183,0,,,hinglish,West Singhbhum
+EVAL-001848,Food & PDS,ration_shortweight,high,EVAL-001291,1,near,EVAL-001291,en,Gumla
+EVAL-001027,Healthcare,phc_no_doctor,critical,EVAL-001027,0,,,hi,West Singhbhum
+EVAL-000663,Agriculture & Irrigation,fertiliser_shop,critical,EVAL-000663,0,,,hi,West Singhbhum
+EVAL-000554,Agriculture & Irrigation,mandi_procurement,low,EVAL-000554,0,,,en,Deoghar
+EVAL-000390,Food & PDS,pds_portability,medium,EVAL-000390,0,,,hi,Ranchi
+EVAL-001084,Sanitation & Waste,public_toilet_water,medium,EVAL-001084,0,,,en,Dhanbad
+EVAL-000139,Agriculture & Irrigation,seed_supply,critical,EVAL-000139,0,,,hi,Godda
+EVAL-000264,Welfare & Pensions,widow_pension,high,EVAL-000264,0,,,hi,Palamu
+EVAL-000530,Electricity,transformer_burnt,critical,EVAL-000530,0,,,hi,Ranchi
+EVAL-001812,Food & PDS,new_ration_card,low,EVAL-001463,1,exact,EVAL-001463,hi,Palamu
+EVAL-000211,Food & PDS,ration_shortweight,critical,EVAL-000211,0,,,hi,Bokaro
+EVAL-000643,Land & Revenue,registry_appointment,low,EVAL-000643,0,,,en,Godda
+EVAL-000486,Education,school_toilet,critical,EVAL-000486,0,,,hinglish,Bokaro
+EVAL-001977,Healthcare,ambulance_delay,high,EVAL-001459,1,near,EVAL-001459,hi,Ranchi
+EVAL-001588,Roads & Connectivity,bus_service,medium,EVAL-001588,0,,,hinglish,Ranchi
+EVAL-001988,Roads & Connectivity,streetlight_road,medium,EVAL-000904,1,near,EVAL-000904,en,Giridih
+EVAL-001957,Agriculture & Irrigation,fertiliser_shop,medium,EVAL-000549,1,near,EVAL-000549,en,Deoghar
+EVAL-000041,Employment & Livelihoods,wage_delay_contract,critical,EVAL-000041,0,,,hi,Latehar
+EVAL-001080,Welfare & Pensions,disability_certificate,medium,EVAL-001080,0,,,hi,East Singhbhum
+EVAL-002000,Agriculture & Irrigation,crop_insurance,medium,EVAL-000207,1,near,EVAL-000207,hi,Garhwa
+EVAL-001932,Sanitation & Waste,open_drain,medium,EVAL-000825,1,near,EVAL-000825,hi,Simdega
+EVAL-000602,Healthcare,medicine_stock,critical,EVAL-000602,0,,,en,Ranchi
+EVAL-001176,Welfare & Pensions,ration_card_cancel,medium,EVAL-001176,0,,,hinglish,Hazaribagh
+EVAL-000884,Roads & Connectivity,streetlight_road,low,EVAL-000884,0,,,hi,Pakur
+EVAL-000740,Land & Revenue,mutation_delay,low,EVAL-000740,0,,,hinglish,Dumka
+EVAL-001662,Welfare & Pensions,widow_pension,high,EVAL-001662,0,,,hi,Sahibganj
+EVAL-000290,Welfare & Pensions,pension_delay,high,EVAL-000290,0,,,en,Dhanbad
+EVAL-001277,Healthcare,medicine_stock,critical,EVAL-001277,0,,,hi,Ranchi
+EVAL-001920,Safety & Environment,police_response,high,EVAL-001637,1,near,EVAL-001637,en,Gumla
+EVAL-000412,Electricity,feeder_outage,high,EVAL-000412,0,,,en,Giridih
+EVAL-001209,Safety & Environment,cyber_fraud,high,EVAL-001209,0,,,en,East Singhbhum
+EVAL-001158,Agriculture & Irrigation,mandi_procurement,high,EVAL-001158,0,,,hinglish,Palamu
+EVAL-001004,Employment & Livelihoods,migration_support,low,EVAL-001004,0,,,en,Ranchi
+EVAL-000450,Electricity,feeder_outage,high,EVAL-000450,0,,,hi,Ranchi
+EVAL-001625,Food & PDS,grain_quality,critical,EVAL-001625,0,,,hi,Giridih
+EVAL-001623,Agriculture & Irrigation,mandi_procurement,critical,EVAL-001623,0,,,hi,Ramgarh
+EVAL-000805,Education,midday_meal,high,EVAL-000805,0,,,en,East Singhbhum
+EVAL-000471,Food & PDS,pds_portability,critical,EVAL-000471,0,,,hi,Palamu
+EVAL-000284,Safety & Environment,cyber_fraud,high,EVAL-000284,0,,,en,Garhwa
+EVAL-001382,Employment & Livelihoods,job_card,low,EVAL-001382,0,,,hi,Dhanbad
+EVAL-001687,Agriculture & Irrigation,crop_insurance,medium,EVAL-001687,0,,,hi,Hazaribagh
+EVAL-001268,Healthcare,health_camp,medium,EVAL-001268,0,,,hi,Ramgarh
+EVAL-000862,Food & PDS,grain_quality,high,EVAL-000862,0,,,en,Dumka
+EVAL-001323,Welfare & Pensions,disability_certificate,low,EVAL-001323,0,,,hi,Ranchi
+EVAL-000014,Safety & Environment,illegal_liquor,medium,EVAL-000014,0,,,hi,West Singhbhum
+EVAL-000216,Healthcare,ambulance_delay,high,EVAL-000216,0,,,hi,Koderma
+EVAL-001435,Safety & Environment,industrial_dust,critical,EVAL-001435,0,,,hinglish,Giridih
+EVAL-001541,Sanitation & Waste,drain_overflow,high,EVAL-001541,0,,,hi,Palamu
+EVAL-001213,Safety & Environment,industrial_dust,high,EVAL-001213,0,,,hi,Koderma
+EVAL-001644,Sanitation & Waste,garbage_collection,high,EVAL-001644,0,,,hi,Hazaribagh
+EVAL-001101,Employment & Livelihoods,wage_delay_contract,critical,EVAL-001101,0,,,en,Ranchi
+EVAL-000026,Water Supply,tanker_delay,medium,EVAL-000026,0,,,hi,Hazaribagh
+EVAL-001749,Sanitation & Waste,drain_overflow,high,EVAL-001749,0,,,en,Dhanbad
+EVAL-001464,Water Supply,water_quality,low,EVAL-001464,0,,,hi,Ranchi
+EVAL-001099,Agriculture & Irrigation,seed_supply,medium,EVAL-001099,0,,,hinglish,Hazaribagh
+EVAL-001880,Healthcare,phc_no_doctor,high,EVAL-001737,1,near,EVAL-001737,hinglish,Dhanbad
+EVAL-001947,Food & PDS,grain_quality,high,EVAL-001214,1,near,EVAL-001214,hi,Godda
+EVAL-000331,Education,textbooks_delay,medium,EVAL-000331,0,,,hinglish,East Singhbhum
+EVAL-000354,Welfare & Pensions,ration_card_cancel,high,EVAL-000354,0,,,en,Giridih
+EVAL-000384,Land & Revenue,public_land_encroachment,medium,EVAL-000384,0,,,en,Seraikela-Kharsawan
+EVAL-000148,Healthcare,medicine_stock,critical,EVAL-000148,0,,,en,Hazaribagh
+EVAL-000987,Employment & Livelihoods,migration_support,medium,EVAL-000987,0,,,en,Giridih
+EVAL-001681,Healthcare,cold_chain,high,EVAL-001681,0,,,hinglish,Jamtara
+EVAL-001679,Roads & Connectivity,bridge_damage,high,EVAL-001679,0,,,hi,Dhanbad
+EVAL-001138,Employment & Livelihoods,job_card,high,EVAL-001138,0,,,hi,Giridih
+EVAL-000852,Safety & Environment,womens_safety,critical,EVAL-000852,0,,,hi,Godda
+EVAL-000878,Electricity,low_voltage,medium,EVAL-000878,0,,,hi,Chatra
+EVAL-001341,Safety & Environment,womens_safety,critical,EVAL-001341,0,,,hi,Garhwa
+EVAL-001678,Safety & Environment,industrial_dust,critical,EVAL-001678,0,,,hinglish,Hazaribagh
+EVAL-001874,Healthcare,phc_no_doctor,high,EVAL-001012,1,near,EVAL-001012,hi,West Singhbhum
+EVAL-001537,Education,teacher_vacancy,medium,EVAL-001537,0,,,hi,Dumka
+EVAL-000511,Employment & Livelihoods,skill_training,medium,EVAL-000511,0,,,en,Giridih
+EVAL-000382,Safety & Environment,police_response,critical,EVAL-000382,0,,,hinglish,Dhanbad
+EVAL-001083,Food & PDS,dealer_closed,high,EVAL-001083,0,,,en,East Singhbhum
+EVAL-000385,Healthcare,cold_chain,high,EVAL-000385,0,,,hi,Seraikela-Kharsawan
+EVAL-000389,Sanitation & Waste,public_toilet_water,low,EVAL-000389,0,,,en,Godda
+EVAL-001529,Electricity,solar_streetlight,low,EVAL-001529,0,,,hi,Latehar
+EVAL-001796,Sanitation & Waste,public_toilet_water,medium,EVAL-001796,0,,,hinglish,Jamtara
+EVAL-000564,Welfare & Pensions,ration_card_cancel,medium,EVAL-000564,0,,,en,Gumla
+EVAL-000754,Electricity,feeder_outage,low,EVAL-000754,0,,,hi,Simdega
+EVAL-000001,Electricity,transformer_burnt,high,EVAL-000001,0,,,hinglish,Bokaro
+EVAL-001665,Healthcare,phc_no_doctor,critical,EVAL-001665,0,,,hi,West Singhbhum
+EVAL-000318,Healthcare,ambulance_delay,critical,EVAL-000318,0,,,hi,Giridih
+EVAL-001067,Employment & Livelihoods,migration_support,high,EVAL-001067,0,,,hi,Giridih
+EVAL-001147,Agriculture & Irrigation,canal_irrigation,medium,EVAL-001147,0,,,en,Hazaribagh
+EVAL-000724,Safety & Environment,flood_drainage,critical,EVAL-000724,0,,,hi,Giridih
+EVAL-001724,Land & Revenue,public_land_encroachment,low,EVAL-001724,0,,,hi,Latehar
+EVAL-000220,Safety & Environment,police_response,medium,EVAL-000220,0,,,hinglish,Dhanbad
+EVAL-000671,Water Supply,public_well,low,EVAL-000671,0,,,en,Lohardaga
+EVAL-001510,Education,school_toilet,medium,EVAL-001510,0,,,en,Palamu
+EVAL-000021,Water Supply,tanker_delay,critical,EVAL-000021,0,,,hi,Deoghar
+EVAL-001163,Food & PDS,aadhaar_seeding,critical,EVAL-001163,0,,,hinglish,Bokaro
+EVAL-000617,Electricity,solar_streetlight,medium,EVAL-000617,0,,,hinglish,Seraikela-Kharsawan
+EVAL-000334,Employment & Livelihoods,migration_support,medium,EVAL-000334,0,,,hi,Deoghar
+EVAL-000613,Sanitation & Waste,public_toilet_water,medium,EVAL-000613,0,,,hi,Jamtara
+EVAL-000634,Safety & Environment,illegal_liquor,high,EVAL-000634,0,,,hinglish,Ranchi
+EVAL-000200,Land & Revenue,land_record_error,low,EVAL-000200,0,,,hinglish,Hazaribagh
+EVAL-000338,Water Supply,public_well,low,EVAL-000338,0,,,hi,Giridih
+EVAL-001945,Welfare & Pensions,widow_pension,critical,EVAL-001425,1,near,EVAL-001425,en,Khunti
+EVAL-000892,Food & PDS,grain_quality,high,EVAL-000892,0,,,en,Dhanbad
+EVAL-000179,Safety & Environment,illegal_liquor,medium,EVAL-000179,0,,,en,Godda
+EVAL-000765,Sanitation & Waste,public_toilet_water,medium,EVAL-000765,0,,,en,Gumla
+EVAL-001124,Agriculture & Irrigation,canal_irrigation,low,EVAL-001124,0,,,en,Garhwa
+EVAL-000897,Healthcare,anganwadi_supply,medium,EVAL-000897,0,,,hinglish,Koderma
+EVAL-000395,Sanitation & Waste,toilet_blocked,medium,EVAL-000395,0,,,hi,Dumka
+EVAL-000882,Healthcare,anganwadi_supply,critical,EVAL-000882,0,,,hi,Sahibganj
+EVAL-000479,Electricity,solar_streetlight,medium,EVAL-000479,0,,,en,Ramgarh
+EVAL-001803,Roads & Connectivity,roadside_drain,medium,EVAL-000365,1,exact,EVAL-000365,hinglish,Dhanbad
+EVAL-001997,Electricity,low_voltage,high,EVAL-001635,1,near,EVAL-001635,en,Palamu
+EVAL-000086,Healthcare,anm_vacancy,high,EVAL-000086,0,,,en,Bokaro
+EVAL-001974,Welfare & Pensions,ration_card_cancel,medium,EVAL-000081,1,near,EVAL-000081,hinglish,Bokaro
+EVAL-000421,Welfare & Pensions,ration_card_cancel,low,EVAL-000421,0,,,hinglish,Garhwa
+EVAL-000903,Welfare & Pensions,scholarship_delay,low,EVAL-000903,0,,,en,East Singhbhum
+EVAL-001630,Welfare & Pensions,pension_delay,high,EVAL-001630,0,,,en,Dhanbad
+EVAL-001695,Food & PDS,aadhaar_seeding,high,EVAL-001695,0,,,en,Garhwa
+EVAL-001585,Water Supply,tanker_delay,medium,EVAL-001585,0,,,en,West Singhbhum
+EVAL-001000,Safety & Environment,illegal_liquor,medium,EVAL-001000,0,,,hinglish,Giridih
+EVAL-001495,Roads & Connectivity,bus_service,medium,EVAL-001495,0,,,hi,Ranchi
+EVAL-000124,Employment & Livelihoods,job_card,high,EVAL-000124,0,,,hi,Koderma
+EVAL-000191,Safety & Environment,womens_safety,high,EVAL-000191,0,,,hinglish,Godda
+EVAL-000128,Roads & Connectivity,bus_service,high,EVAL-000128,0,,,hi,East Singhbhum
+EVAL-000703,Agriculture & Irrigation,canal_irrigation,critical,EVAL-000703,0,,,hi,Garhwa
+EVAL-000720,Agriculture & Irrigation,canal_irrigation,medium,EVAL-000720,0,,,hinglish,Sahibganj
+EVAL-000262,Land & Revenue,public_land_encroachment,high,EVAL-000262,0,,,en,Giridih
+EVAL-000935,Welfare & Pensions,widow_pension,medium,EVAL-000935,0,,,en,Dumka
+EVAL-001316,Education,midday_meal,high,EVAL-001316,0,,,hi,Chatra
+EVAL-001114,Employment & Livelihoods,job_card,high,EVAL-001114,0,,,hinglish,Garhwa
+EVAL-000682,Electricity,transformer_burnt,high,EVAL-000682,0,,,hi,Ranchi
+EVAL-001740,Water Supply,handpump_dry,high,EVAL-001740,0,,,hi,Deoghar
+EVAL-001987,Safety & Environment,womens_safety,medium,EVAL-000448,1,near,EVAL-000448,hi,Gumla
+EVAL-000603,Water Supply,water_testing,medium,EVAL-000603,0,,,en,Dhanbad
+EVAL-001267,Agriculture & Irrigation,mandi_procurement,low,EVAL-001267,0,,,hinglish,Dhanbad
+EVAL-000324,Education,boundary_wall,high,EVAL-000324,0,,,hi,Ranchi
+EVAL-001501,Safety & Environment,illegal_liquor,medium,EVAL-001501,0,,,hinglish,Pakur
+EVAL-001818,Electricity,meter_pending,low,EVAL-001615,1,exact,EVAL-001615,en,Koderma
+EVAL-001922,Roads & Connectivity,bus_service,medium,EVAL-000043,1,near,EVAL-000043,en,East Singhbhum
+EVAL-001996,Safety & Environment,illegal_liquor,high,EVAL-000634,1,near,EVAL-000634,hinglish,Ranchi
+EVAL-000998,Water Supply,public_well,critical,EVAL-000998,0,,,en,Deoghar
+EVAL-000780,Food & PDS,pds_portability,high,EVAL-000780,0,,,en,Khunti
+EVAL-001962,Sanitation & Waste,public_toilet_water,low,EVAL-001110,1,near,EVAL-001110,hi,West Singhbhum
+EVAL-000452,Welfare & Pensions,disability_certificate,low,EVAL-000452,0,,,hi,Dumka
+EVAL-001771,Education,textbooks_delay,medium,EVAL-001771,0,,,hinglish,Godda
+EVAL-001155,Food & PDS,aadhaar_seeding,low,EVAL-001155,0,,,hi,Deoghar
+EVAL-001516,Electricity,bill_error,low,EVAL-001516,0,,,en,Hazaribagh
+EVAL-001260,Education,school_roof,high,EVAL-001260,0,,,en,East Singhbhum
+EVAL-001379,Healthcare,ambulance_delay,high,EVAL-001379,0,,,hinglish,Giridih
+EVAL-001100,Land & Revenue,public_land_encroachment,high,EVAL-001100,0,,,en,Garhwa
+EVAL-001689,Agriculture & Irrigation,seed_supply,medium,EVAL-001689,0,,,hinglish,Sahibganj
+EVAL-001615,Electricity,meter_pending,low,EVAL-001615,0,,,en,Koderma
+EVAL-001964,Food & PDS,dealer_closed,high,EVAL-000190,1,near,EVAL-000190,en,Koderma
+EVAL-000345,Safety & Environment,womens_safety,high,EVAL-000345,0,,,en,Giridih
+EVAL-001404,Agriculture & Irrigation,canal_irrigation,high,EVAL-001404,0,,,hi,Deoghar
+EVAL-000850,Electricity,meter_pending,low,EVAL-000850,0,,,hinglish,Palamu
+EVAL-001627,Education,school_electricity,medium,EVAL-001627,0,,,hinglish,Dumka
+EVAL-001276,Healthcare,cold_chain,high,EVAL-001276,0,,,en,Pakur
+EVAL-001482,Sanitation & Waste,public_toilet_water,low,EVAL-001482,0,,,hinglish,Dumka
+EVAL-000871,Land & Revenue,registry_appointment,medium,EVAL-000871,0,,,hi,Ranchi
+EVAL-000701,Water Supply,tanker_delay,critical,EVAL-000701,0,,,hinglish,Jamtara
+EVAL-000089,Land & Revenue,land_record_error,critical,EVAL-000089,0,,,en,Simdega
+EVAL-000448,Safety & Environment,womens_safety,medium,EVAL-000448,0,,,hi,Gumla
+EVAL-001813,Water Supply,public_well,high,EVAL-001246,1,exact,EVAL-001246,hi,East Singhbhum
+EVAL-000305,Water Supply,public_well,low,EVAL-000305,0,,,en,Bokaro
+EVAL-000624,Agriculture & Irrigation,borewell_irrigation,medium,EVAL-000624,0,,,hinglish,Dumka
+EVAL-000408,Education,school_toilet,critical,EVAL-000408,0,,,en,Gumla
+EVAL-001925,Roads & Connectivity,roadside_drain,high,EVAL-001330,1,near,EVAL-001330,hinglish,Gumla
+EVAL-001505,Education,boundary_wall,medium,EVAL-001505,0,,,hinglish,Sahibganj
+EVAL-001539,Agriculture & Irrigation,mandi_procurement,high,EVAL-001539,0,,,en,West Singhbhum
+EVAL-000166,Safety & Environment,flood_drainage,medium,EVAL-000166,0,,,en,Dhanbad
+EVAL-001948,Agriculture & Irrigation,borewell_irrigation,critical,EVAL-001065,1,near,EVAL-001065,hinglish,Dumka
+EVAL-000380,Sanitation & Waste,public_toilet_water,critical,EVAL-000380,0,,,hinglish,Lohardaga
+EVAL-000623,Roads & Connectivity,bus_service,high,EVAL-000623,0,,,hi,Deoghar
+EVAL-000269,Employment & Livelihoods,skill_training,low,EVAL-000269,0,,,hi,Pakur
+EVAL-001564,Food & PDS,dealer_closed,low,EVAL-001564,0,,,hi,Koderma
+EVAL-000376,Education,teacher_vacancy,medium,EVAL-000376,0,,,en,Palamu
+EVAL-000610,Employment & Livelihoods,wage_delay_contract,medium,EVAL-000610,0,,,hinglish,Garhwa
+EVAL-000649,Education,midday_meal,critical,EVAL-000649,0,,,en,Hazaribagh
+EVAL-001991,Healthcare,anganwadi_supply,medium,EVAL-001487,1,near,EVAL-001487,hinglish,Ranchi
+EVAL-000255,Sanitation & Waste,drain_overflow,medium,EVAL-000255,0,,,hi,Ranchi
+EVAL-000768,Sanitation & Waste,open_drain,low,EVAL-000768,0,,,hi,East Singhbhum
+EVAL-001030,Welfare & Pensions,ration_card_cancel,low,EVAL-001030,0,,,en,Dhanbad
+EVAL-001969,Land & Revenue,parcha_copy,high,EVAL-000248,1,near,EVAL-000248,en,Dhanbad
+EVAL-001919,Agriculture & Irrigation,borewell_irrigation,critical,EVAL-000731,1,near,EVAL-000731,hi,Seraikela-Kharsawan
+EVAL-000302,Water Supply,handpump_dry,critical,EVAL-000302,0,,,hi,Bokaro
+EVAL-001248,Agriculture & Irrigation,seed_supply,medium,EVAL-001248,0,,,hi,Dhanbad
+EVAL-000693,Food & PDS,ration_shortweight,medium,EVAL-000693,0,,,en,Latehar
+EVAL-001599,Land & Revenue,parcha_copy,low,EVAL-001599,0,,,en,Palamu
+EVAL-001792,Electricity,feeder_outage,medium,EVAL-001792,0,,,hi,Chatra
+EVAL-001845,Sanitation & Waste,public_toilet_water,low,EVAL-000389,1,near,EVAL-000389,en,Godda
+EVAL-001605,Healthcare,medicine_stock,critical,EVAL-001605,0,,,en,Deoghar
+EVAL-000005,Welfare & Pensions,scholarship_delay,low,EVAL-000005,0,,,en,Ramgarh
+EVAL-001321,Agriculture & Irrigation,seed_supply,high,EVAL-001321,0,,,hi,Koderma
+EVAL-000764,Food & PDS,new_ration_card,high,EVAL-000764,0,,,en,Hazaribagh
+EVAL-000708,Roads & Connectivity,roadside_drain,medium,EVAL-000708,0,,,en,Dumka
+EVAL-000219,Education,school_electricity,medium,EVAL-000219,0,,,en,Dumka
+EVAL-000721,Safety & Environment,illegal_liquor,high,EVAL-000721,0,,,en,Pakur
+EVAL-001142,Employment & Livelihoods,skill_training,low,EVAL-001142,0,,,hi,Godda
+EVAL-001017,Welfare & Pensions,ration_card_cancel,high,EVAL-001017,0,,,en,West Singhbhum
+EVAL-001437,Welfare & Pensions,pension_delay,medium,EVAL-001437,0,,,en,East Singhbhum

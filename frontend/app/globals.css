@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --ring: 15 118 110;
+    /* Light theme surfaces. Mirrors the sand/ink palette the design started from. */
+    --canvas: 247 244 239;
+    --surface: 255 255 255;
+    --surface-2: 252 250 247;
+    --surface-3: 237 231 220;
+    --line: 226 220 210;
+    --line-strong: 203 193 179;
+    --fg: 11 31 42;
+    --fg-strong: 18 50 65;
+    --fg-soft: 27 69 87;
+    --fg-muted: 58 90 105;
+    --fg-subtle: 74 107 122;
+    color-scheme: light;
+  }
+
+  /* Same specificity as :root, later in the cascade, so it wins on <html class="dark">. */
+  .dark {
+    --canvas: 7 22 32;
+    --surface: 15 36 47;
+    --surface-2: 19 43 55;
+    --surface-3: 30 56 68;
+    --line: 42 68 80;
+    --line-strong: 58 86 99;
+    --fg: 232 240 242;
+    --fg-strong: 255 255 255;
+    --fg-soft: 200 214 219;
+    --fg-muted: 168 188 196;
+    --fg-subtle: 140 162 172;
+    color-scheme: dark;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-canvas text-fg;
+    font-feature-settings: "cv02", "cv03", "cv04", "ss01";
+  }
+
+  ::selection {
+    @apply bg-teal-soft text-teal-deep;
+  }
+
+  :focus-visible {
+    outline: 2px solid #0f766e;
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+}
+
+@layer components {
+  .shell {
+    @apply mx-auto w-full max-w-7xl px-5 sm:px-8 lg:px-10;
+  }
+
+  .eyebrow {
+    @apply text-[11px] font-semibold uppercase tracking-[0.18em] text-teal;
+  }
+
+  .h1 {
+    @apply text-4xl font-extrabold leading-[1.05] tracking-[-0.03em] sm:text-5xl lg:text-6xl;
+    text-wrap: balance;
+  }
+
+  .h2 {
+    @apply text-2xl font-bold tracking-[-0.02em] sm:text-3xl;
+    text-wrap: balance;
+  }
+
+  .lede {
+    @apply text-base leading-relaxed text-fg-soft sm:text-lg;
+    text-wrap: pretty;
+  }
+
+  .card {
+    @apply rounded-2xl border border-line bg-surface shadow-card;
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-line bg-surface/80 px-3 py-1 text-xs font-medium text-fg-soft;
+  }
+
+  .grid-pattern {
+    background-image:
+      linear-gradient(to right, rgba(255, 255, 255, 0.055) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(255, 255, 255, 0.055) 1px, transparent 1px);
+    background-size: 56px 56px;
+  }
+
+  .link-underline {
+    @apply underline decoration-teal/30 decoration-2 underline-offset-4 transition hover:decoration-teal;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .text-pretty {
+    text-wrap: pretty;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

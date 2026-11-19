@@ -1,0 +1,41 @@
+complaint_id,complaint_text,district,block,complaint_date,language,severity,affected_population,source_type,verification_status
+R001,Several classrooms in our village school have broken roofs and rainwater damages the books.,Ranchi,,,en,unknown,,synthetic,synthetic_not_verified
+R002,The government primary school needs more teachers and two classrooms are unsafe during monsoon.,Ranchi,,,en,unknown,,synthetic,synthetic_not_verified
+R003,Children walk far to school because the nearby school building has collapsed.,Palamu,,,en,unknown,,synthetic,synthetic_not_verified
+R004,Our school has no working toilets and students miss class to find water.,Godda,,,en,unknown,,synthetic,synthetic_not_verified
+R005,A shortage of teachers means many children in the middle school cannot get regular lessons.,Dumka,,,en,unknown,,synthetic,synthetic_not_verified
+R006,The health centre is often closed and there is no doctor available for pregnant women.,Ranchi,,,en,unknown,,synthetic,synthetic_not_verified
+R007,People travel to another block for basic treatment because our clinic has no medical staff.,Palamu,,,en,unknown,,synthetic,synthetic_not_verified
+R008,The community health centre needs a nurse and essential medicines for patients.,Godda,,,en,unknown,,synthetic,synthetic_not_verified
+R009,An ambulance takes too long to reach our village during medical emergencies.,Dumka,,,en,unknown,,synthetic,synthetic_not_verified
+R010,The local hospital has no doctor on night duty and patients wait for hours.,West Singhbhum,,,en,unknown,,synthetic,synthetic_not_verified
+R011,Our hand pump has stopped working and families must walk to the river for drinking water.,Palamu,,,en,unknown,,synthetic,synthetic_not_verified
+R012,There is no clean drinking water connection in the neighborhood during summer.,Ranchi,,,en,unknown,,synthetic,synthetic_not_verified
+R013,Water from the village well is dirty and several families have fallen sick.,Godda,,,en,unknown,,synthetic,synthetic_not_verified
+R014,The public tap gives water only once a week and the supply is not enough for households.,Dumka,,,en,unknown,,synthetic,synthetic_not_verified
+R015,We need a repaired borewell because the existing pump has been dry for months.,West Singhbhum,,,en,unknown,,synthetic,synthetic_not_verified
+R016,The road connecting our village to the main market is full of potholes and unsafe for buses.,Ranchi,,,en,unknown,,synthetic,synthetic_not_verified
+R017,"A bridge over the stream is damaged, so farmers cannot take produce to the town.",Palamu,,,en,unknown,,synthetic,synthetic_not_verified
+R018,The village road becomes muddy and unusable whenever there is heavy rain.,Godda,,,en,unknown,,synthetic,synthetic_not_verified
+R019,There is no regular bus service from our block to the district headquarters.,Dumka,,,en,unknown,,synthetic,synthetic_not_verified
+R020,Street lights are broken along the road and people feel unsafe after dark.,West Singhbhum,,,en,unknown,,synthetic,synthetic_not_verified
+R021,Garbage is not collected from our lane and waste is piling up near the houses.,Ranchi,,,en,unknown,,synthetic,synthetic_not_verified
+R022,The open drain is blocked and dirty water overflows into the street.,Palamu,,,en,unknown,,synthetic,synthetic_not_verified
+R023,There is no waste pickup service and plastic is being dumped beside the pond.,Godda,,,en,unknown,,synthetic,synthetic_not_verified
+R024,Sewage from the blocked drain is causing a bad smell near the local market.,Dumka,,,en,unknown,,synthetic,synthetic_not_verified
+R025,The public dustbins are overflowing and municipal workers have not collected the rubbish.,West Singhbhum,,,en,unknown,,synthetic,synthetic_not_verified
+R026,Farmers need reliable irrigation because the canal has been dry during the planting season.,Ranchi,,,en,unknown,,synthetic,synthetic_not_verified
+R027,The irrigation channel is broken and crops are drying in fields near our village.,Palamu,,,en,unknown,,synthetic,synthetic_not_verified
+R028,Small farmers cannot get affordable seeds and fertilizer before the sowing season.,Godda,,,en,unknown,,synthetic,synthetic_not_verified
+R029,A failed irrigation pump has left several fields without water for crops.,Dumka,,,en,unknown,,synthetic,synthetic_not_verified
+R030,Farmers have no nearby market to sell vegetables at a fair price.,West Singhbhum,,,en,unknown,,synthetic,synthetic_not_verified
+R031,Mobile network coverage is weak and students cannot access online learning at home.,Ranchi,,,en,unknown,,synthetic,synthetic_not_verified
+R032,Our village has frequent electricity cuts and the transformer has failed several times.,Palamu,,,en,unknown,,synthetic,synthetic_not_verified
+R033,The electricity connection is unreliable and households lose power every evening.,Godda,,,en,unknown,,synthetic,synthetic_not_verified
+R034,Students need internet access because the mobile signal disappears inside the village.,Dumka,,,en,unknown,,synthetic,synthetic_not_verified
+R035,The local transformer is overloaded and power outages interrupt small businesses.,West Singhbhum,,,en,unknown,,synthetic,synthetic_not_verified
+R036,No drinking water in our village.,Ranchi,,,en,unknown,,synthetic,synthetic_not_verified
+R037,Water supply is irregular.,Palamu,,,en,unknown,,synthetic,synthetic_not_verified
+R038,Government school has no teachers.,Godda,,,en,unknown,,synthetic,synthetic_not_verified
+R039,Hospital has no doctors.,Dumka,,,en,unknown,,synthetic,synthetic_not_verified
+R040,Roads are damaged.,West Singhbhum,,,en,unknown,,synthetic,synthetic_not_verified

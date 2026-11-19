@@ -1,0 +1,12 @@
+# FastAPI service (api/) — everything the router/service layer imports.
+-r base.txt
+
+fastapi>=0.120,<1.0
+uvicorn>=0.38,<1.0
+PyJWT>=2.9,<3.0
+
+# Password hashing: Argon2id (plan section 1: upgrade from PBKDF2).
+argon2-cffi>=23.1,<26.0
+
+# Rate limiting on /auth/* and /complaints (plan section 7).
+slowapi>=0.1.9,<1.0

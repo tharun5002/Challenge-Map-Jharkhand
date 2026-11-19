@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "seed": 42,
+  "description": "Explainable partner matching. Every match is returned with its component values and weighted contributions, never as a bare score.",
+  "weights": {
+    "tag_overlap": 0.4,
+    "district_proximity": 0.25,
+    "severity": 0.2,
+    "capacity": 0.15
+  },
+  "distance_scale_km": 150.0,
+  "component_definitions": {
+    "tag_overlap": "Share of the challenge's capability tags the partner also holds.",
+    "district_proximity": "1.0 on a shared district; otherwise exp(-distance_km / 150) when a distance is supplied, else 0.0.",
+    "severity": "The challenge's severity score (0..1).",
+    "capacity": "The partner's available capacity (0..1)."
+  },
+  "known_limitation": "District proximity is exact-district unless distances are supplied. The project has no validated district-centroid table yet, so no distances are invented."
+}

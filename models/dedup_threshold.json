@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "seed": 42,
+  "trained_on": "data/synthetic/complaints_15k.csv",
+  "similarity": "sparse TF-IDF word (1,2), L2-normalised cosine",
+  "candidate_scope": "top-5 nearest neighbours within the same district",
+  "threshold": 0.85,
+  "metrics": {
+    "precision": 0.7423435419440746,
+    "recall": 0.7433333333333333,
+    "f1": 0.7428381079280479
+  },
+  "generated_at": "2026-11-11"
+}

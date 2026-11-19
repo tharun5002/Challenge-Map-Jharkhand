@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "seed": 42,
+  "description": "Weighted priority index. Each component is normalised to 0..1 across the groups being scored, then weighted, then scaled to 0..100. The breakdown travels with the score.",
+  "weights": {
+    "severity": 0.3,
+    "affected_population": 0.25,
+    "volume": 0.2,
+    "district_spread": 0.15,
+    "recurrence": 0.1
+  },
+  "component_definitions": {
+    "severity": "Mean low/medium/high/critical weight of the group's complaints (unknown counts as 0).",
+    "affected_population": "log1p of the summed affected population, divided by the largest group.",
+    "volume": "log1p of the complaint count, divided by the largest group.",
+    "district_spread": "Distinct districts in the group divided by 24.",
+    "recurrence": "Share of the group's reports whose normalised text was already reported in that group."
+  }
+}
